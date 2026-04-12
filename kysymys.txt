@@ -1,0 +1,15 @@
+Tee sijoitusvakuutuksen optimointisuunnitelma Vaihtoehto A mukaisesti.
+
+Myytävät positiot (kalliit, tappiolla):
+- JPM Europe Strategic Growth 19 271€ (1,74%/v)
+- BGF World Financials 15 201€ (1,75%/v)
+- JPM Emerging Markets Opp. 19 284€ (1,80%/v)
+Yhteensä ~53 756€ vapautuu
+
+Tehtävä:
+1. Valitse jokaiselle myytävälle paras korvaava tuote
+   saatavilla olevasta valikoimasta
+2. Suosi OP-indeksirahastoja aktiivisten sijaan
+3. Huomioi koko salkun konsentraatioriskit
+4. Perustele jokainen valinta
+5. Huomioi että vakuutuksen sisäinen vaihto on verovapaa
