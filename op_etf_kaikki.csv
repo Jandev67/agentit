@@ -1,0 +1,941 @@
+tunnus,nimi,isin,id_notation,aum,kulut,toteutus,osinko
+21BC,21Shares Bitcoin Core ETP,CH1199067674,387614540,"446,11 M$","0,10 %",Arvopaperi,
+2BTC,21Shares Bitcoin ETP,CH0454664001,299408016,"621,53 M$","1,50 %",Arvopaperi,
+ADAA,21Shares Cardano ADA ETP,CH1102728750,352198909,"30,55 M$","2,50 %",Arvopaperi,
+21XH,21Shares Crypto Basket Index ETP,CH0445689208,352197853,"153,09 M$","2,50 %",Arvopaperi,
+ADOT,21Shares Polkadot ETP,CH0593331561,352198907,"9,19 M$","2,50 %",Arvopaperi,
+21XP,21Shares Ripple XRP ETP,CH0454664043,374966232,"339,56 M$","2,50 %",Johdannainen,
+JMLP,Alerian Midstream Energy Dividend UCITS ETF,IE00BKPTXQ89,302771322,"69,95 M$","0,40 %",Arvopaperi,Neljännesvuosittain
+AVWS,American Century ICAV - Avantis Global Small Cap Value UCITS ETF AccumUSD,IE0003R87OG3,478063247,"910,57 M","0,39 %",Arvopaperi,
+LYPU,Amundi Australia S&P/ASX 200 UCITS ETF Dist,LU0496786905,35505908,"132,91 M€","0,40 %",Johdannainen,Vuosittain
+LYTR,Amundi Bloomberg Equal-weight Commodity ex-Agriculture UCITS ETF Shs -Acc- Capitalisation,LU1829218749,15339015,"1 604,81 M€","0,35 %",Johdannainen,
+WEBH,Amundi Core MSCI USA UCITS ETF Accum USD,IE000FSN19U2,453136488,"3 558,96 M$","0,03 %",Arvopaperi,
+MWRE,Amundi Core MSCI World UCITS ETF Accum USD,IE000BI8OT95,455633778,"15 259,4 M$","0,14 %",Arvopaperi,
+LYPS,Amundi Core S&P 500 Swap UCITS ETF EUR Dist,LU0496786574,35505906,"2 827,78 M€","0,05 %",Johdannainen,Vuosittain
+LYP6,Amundi Core Stoxx Europe 600 -UCITS ETF Acc- Capitalisation,LU0908500753,197447690,"17 814,3 M€","0,07 %",Arvopaperi,
+LYY7,Amundi DAX II UCITS ETF Acc,LU0252633754,15072403,"1 228,13 M€","0,15 %",Arvopaperi,
+DJAM,Amundi Dow Jones Industrial Average UCITS ETF FCP Parts -Dist-,FR0007056841,15072815,"326,86 M€","0,50 %",Johdannainen,Vuosittain
+WELJ,Amundi ETF ICAV - Amundi S&P Global Consumer Discretionary ESG UCITS ETF Accum-DR- EUR,IE000NM0ALX6,396878052,"249,87 M€","0,25 %",Arvopaperi,
+WELH,Amundi ETF ICAV - Amundi S&P World Industrials Screened UCITS ETF Accum DR EUR,,396878050,"861,67 M€","0,18 %",Arvopaperi,
+WELI,Amundi ETF ICAV - Amundi S&P World Materials Screened UCITS ETF Accum Shs -DR- EUR,,396878017,"644,63 M€","0,18 %",Arvopaperi,
+AMEQ,AMUNDI ETF MSCI EUROPE QUALITY FACTOR UCITS ETF,LU1681041890,213389826,"247,59 M€","0,23 %",Johdannainen,
+LYXC,Amundi Euro Government Bond 5-7Y UCITS ETF Acc,LU1287023003,166443489,"666,49 M€","0,17 %",Arvopaperi,
+LYXD,Amundi Euro Government Bond 7-10Y UCITS ETF Acc,LU1287023185,166443490,"1 480,68 M€","0,16 %",Arvopaperi,
+LYXF,Amundi Euro Government Bond 15+Y UCITS ETF Acc,LU1287023268,166443491,"207,28 M€","0,17 %",Arvopaperi,
+LYXA,Amundi Euro Highest Rated Macro-Weighted Government Bond UCITS ETF Acc,LU1287023342,166443492,"265,8 M€","0,17 %",Arvopaperi,
+EUIN,Amundi Euro Inflation Expectations 2-10Y UCITS ETF,LU1390062245,174899260,"270,23 M€","0,25 %",Johdannainen,
+LSK8,Amundi EURO STOXX 50 Daily (-2X) Inverse UCITS ETF Act -Acc-,FR0010424143,24019584,"24,5 M€","0,60 %",Johdannainen,
+LYSX,Amundi EURO STOXX 50 II UCITS ETF Act -Acc-,FR0007054358,6457203,"4 110,06 M€","0,20 %",Arvopaperi,
+L8I3,Amundi EUR Overnight Return UCITS ETF -Acc-,FR0010510800,21966272,"2 951,67 M€","0,10 %",Johdannainen,
+10AJ,Amundi FTSE EPRA NAREIT Global -UCITS ETF DR- Distribution,LU1737652823,209148670,"57,84 M€","0,31 %",Arvopaperi,Vuosittain
+LYQK,Amundi German Bund Daily (-2x) Inverse UCITS ETF -Acc-,FR0010869578,37034764,"22,64 M€","0,20 %",Johdannainen,
+WDNR,Amundi Global Bioenergy -UCITS ETF EUR Acc- Capitalisation,LU1681046006,208710781,"52,25 M€","0,45 %",Johdannainen,
+LGQI,Amundi Global Equity Quality Income UCITS ETF DIST,LU0832436512,74284604,"142,74 M€","0,45 %",Johdannainen,Vuosittain
+V50A,Amundi Index Solutions - Euro STOXX 50 DR UCITS ETF,LU1681047236,210075445,"3 703,08 M€","0,15 %",Arvopaperi,
+AMEI,Amundi Index Solutions - MSCI EM SRI Climate Paris Aligned,LU1861138961,250892507,"1 991,03 M$","0,42 %",Arvopaperi,
+AMEC,Amundi Index Solutions - MSCI Smart Cities,LU2037748345,275590777,"71,84 M€","0,53 %",Arvopaperi,
+PRAJ,Amundi Index Solutions - Prime Japan,LU2089238385,280572791,"91 277,6 MJPY","0,08 %",Arvopaperi,
+GLUX,Amundi Index Solutions - S&P Global Luxury,LU1681048630,208710775,"348,94 M€","0,25 %",Johdannainen,
+,Amundi Index Solutions - SDAX UCITS ETF,LU2611732475,442685973,"166,76 M€","0,70 %",Arvopaperi,Vuosittain
+JPNH,Amundi Japan TOPIX II UCITS ETF -Daily Hedged to EUR - Dist-,FR0011475078,89881321,"91,88 MJPY","0,45 %",Arvopaperi,Vuosittain
+LYY4,Amundi Japan TOPIX II UCITS ETF -Dist EUR-,FR0010245514,15338964,"361,36 MJPY","0,45 %",Arvopaperi,Vuosittain
+LASP,Amundi MSCI AC Asia Pacific Ex Japan ETF -Acc- Capitalisation,LU1900068328,247230573,"741,65 M€","0,60 %",Johdannainen,
+DRUP,Amundi MSCI Disruptive Technology UCITS ETF Acc,LU2023678282,292671840,"164,34 M$","0,45 %",Arvopaperi,
+LEER,Amundi MSCI Eastern Europe Ex Russia ETF -Acc- Capitalisation,LU1900066462,249191821,550 M€,"0,50 %",Johdannainen,
+LCUA,Amundi MSCI EM Asia ESG Broad Transition UCITS ETF Acc Shs Capitalisation,LU1781541849,213814361,"722,48 M$","0,25 %",Arvopaperi,
+EMXC,Amundi MSCI Emerging Ex China ETF Acc Capitalisation,LU2009202107,261324526,"5 074,46 M$","0,15 %",Johdannainen,
+SADM,Amundi MSCI Emerging Markets ESG Selection UCITS ETF DR (C),LU2109787551,299141664,"1 367,13 M$","0,34 %",Arvopaperi,
+AMEM,Amundi MSCI Emerging Markets Swap -UCITS ETF EUR C- Capitalisation,LU1681045370,215572438,"3 928,23 M€","0,20 %",Johdannainen,
+LYM7,Amundi MSCI Emerging Markets Swap II UCITS ETF Act -Acc (EUR)-,FR0010429068,19023957,"943,42 M€","0,55 %",Johdannainen,
+LGQG,Amundi MSCI EMU ESG Broad Transition -UCITS ETF Acc- Capitalisation,LU0908501058,197447692,"1 160,68 M€","0,12 %",Arvopaperi,
+LGWU,Amundi MSCI EMU Small Cap ESG Broad Transition UCITS ETF DIST,LU1598689153,197248311,"377,24 M€","0,40 %",Arvopaperi,Vuosittain
+SRHE,Amundi MSCI EMU SRI Climate Paris Aligned UCITS ETF DR (C),LU2109787635,295521428,"107,75 M€","0,18 %",Arvopaperi,
+LGWS,Amundi MSCI EMU Value Factor - UCITS ETF Dist,LU1598690169,197248313,"237,48 M€","0,40 %",Arvopaperi,Vuosittain
+AE5B,Amundi MSCI Europe Action -UCITS ETF- Distribution,LU2608817958,423678180,"2 463,65 M€","0,09 %",Arvopaperi,Vuosittain
+EHF1,Amundi MSCI Europe High Dividend Factor,LU1681041973,208710779,"457,12 M€","0,23 %",Johdannainen,
+LYY5,Amundi MSCI Europe UCITS ETF Act -Acc-,FR0010261198,14924651,"576,41 M€","0,25 %",Arvopaperi,
+XMGA,Amundi MSCI Ex USA Mega Cap UCITS ETF AccumUSD,IE000XL4IXU1,484803080,"42,96 M$","0,15 %",Arvopaperi,
+LYMH,Amundi MSCI Greece UCITS ETF -Dist-,FR0010405431,17308598,"410,88 M€","0,45 %",Johdannainen,Vuosittain
+LYMD,Amundi MSCI India Swap UCITS ETF EUR Acc (EUR)-,FR0010361683,16621012,"817,72 M€","0,85 %",Johdannainen,
+GENY,Amundi MSCI Millennials UCITS ETF Acc,LU2023678449,292671845,"23,7 M$","0,45 %",Arvopaperi,
+GOAI,Amundi MSCI Robotics & AI -UCITS ETF Acc- Capitalisation,LU1861132840,233782888,"1 041,67 M€","0,50 %",Arvopaperi,
+LTUR,Amundi MSCI Turkey ETF Acc- Capitalisation,LU1900067601,249191827,"91,22 M€","0,45 %",Johdannainen,
+MEGA,Amundi MSCI USA Mega Cap UCITS ETF AccumUSD,IE000YBGJ9I4,484803079,"12,73 M$","0,15 %",Arvopaperi,
+LYM8,Amundi MSCI Water UCITS ETF Parts Dist,FR0010527275,20764506,"1 537,5 M€","0,65 %",Arvopaperi,Vuosittain
+LWCR,Amundi MSCI World ESG Broad Transition UCITS ETF Accum EUR,IE0001GSQ2O9,442204558,"1 118,25 M$","0,23 %",Arvopaperi,
+LYPD,Amundi MSCI World Financials UCITS ETF EUR ACC,LU0533032859,39196819,"108,75 M€","0,30 %",Johdannainen,
+LYPE,Amundi MSCI World Health Care UCITS ETF EUR ACC,LU0533033238,39196820,"673,63 M€","0,30 %",Johdannainen,
+XAMB,Amundi MSCI World SRI Climate Paris Aligned UCITS ETF Accum EUR,IE000Y77LGG9,447137014,"3 214,28 M$","0,18 %",Arvopaperi,
+LYYA,Amundi MSCI World Swap II UCITS ETF Act -Dist-,FR0010315770,15526694,"8 081,93 M€","0,30 %",Johdannainen,Vuosittain
+WEBN,Amundi Prime All Country World UCITS ETF Accum- USD,IE0003XJA0J9,466666487,"1 718,51 M$","0,07 %",Arvopaperi,
+WEBG,Amundi Prime All Country World UCITS ETF USD,IE0009HF1MK9,450330661,"4 436,68 M$","0,07 %",Arvopaperi,Vuosittain
+F50A,Amundi Prime Global UCITS ETF Acc,IE0009DRDY20,484336443,"1 953,76 M","0,05 %",Arvopaperi,
+VOOL,Amundi S&P 500 VIX Futures Enhanced Roll UCITS ETF ACC,LU0832435464,74284602,,,Johdannainen,
+WELX,Amundi S&P World Communication Services Screened UCITS ETF Accum -DR- EUR,IE000EFHIFG3,396878041,"512,99 M€","0,18 %",Arvopaperi,
+WELW,Amundi S&P World Consumer Staples Screened UCITS ETF Accum Shs -DR- EUR,,396878030,"161,58 M€","0,38 %",Arvopaperi,
+WELN,Amundi S&P World Energy Screened UCITS ETF Accum -DR- EUR,IE000J0LN0R5,396878045,"250,98 M€","0,18 %",Arvopaperi,
+LYQL,Amundi ShortDAX Daily (-2x) Inverse UCITS ETF,FR0010869495,37034762,"23,76 M€","0,60 %",Johdannainen,
+LBNK,Amundi STOXX Europe 600 Banks UCITS ETF -Acc- Capitalisation,LU1834983477,242978046,"2 528,26 M€","0,30 %",Johdannainen,
+LOGS,Amundi STOXX Europe 600 Energy Screened Acc Capitalisation,LU1834988278,242978054,"223,93 M€","0,30 %",Arvopaperi,
+LHTC,Amundi STOXX Europe 600 Healthcare UCITS ETF -Acc- Capitalisation,LU1834986900,242978052,"870,97 M€","0,30 %",Johdannainen,
+UCRP,Amundi USD Corporate Bond ESG ETF UCITS DR Capitalisation,LU1806495575,252174414,"599,61 M$","0,16 %",Arvopaperi,
+UINF,Amundi US Inflation Expectations 10Y ETF,LU1390062831,174899258,"185,07 M$","0,25 %",Johdannainen,
+WEBA,Amundi US Tech 100 Equal Weight UCITS ETF,IE000Y9MG996,402406638,"40,02 M$","0,07 %",Arvopaperi,Vuosittain
+TIUP,Amundi US TIPS Government Inflation-Linked Bond UCITS ETF,LU1452600270,174899266,"528,51 M$","0,09 %",Arvopaperi,Vuosittain
+PR1H,Amundi US Treasury Bond 0-1 Y -ETF DRH- Capitalisation,LU2182388749,302513270,"57,49 M$","0,07 %",Arvopaperi,
+7USH,Amundi US Treasury Bond 7-10Y UCITS ETF,,422332811,"582,01 M$","0,07 %",Arvopaperi,
+DJAD,Amundi US Treasury Bond Long Dated UCITS ETF,LU1407890620,235580608,"227,03 M$","0,06 %",Arvopaperi,Vuosittain
+AAKI,ARK Artificial Intelligence & Robotics UCITS ETF AccumUSD,IE0003A512E4,458465033,"333,22 M$","0,79 %",Arvopaperi,
+AAKG,Ark Genomic Revolution Ucits ETF AccumUSD,IE000O5M6XO1,458465034,45 M$,"0,79 %",Johdannainen,
+ARXK,ARK Innovation UCITS ETF Accum Shs USD,IE000GA3D489,458465031,"260,99 M$","0,78 %",Arvopaperi,
+ARXX,ARK Space & Defence Innovation UCITS ETF AccumUSD,IE000AON7ET1,530464029,"19,77 M$","0,79 %",Arvopaperi,
+BITCOIN XBTE,Bitcoin Tracker Euro,SE0007525332,143900320,"623,18 M€","2,50 %",Johdannainen,
+ELTC,Bitwise Physical Litecoin ETP,DE000A3GN5J9,328602612,"5,24 M$","2,00 %",Arvopaperi,Vuosittain
+EESM,BNP MSCI Europe Small Caps SRI S-Series PAB 5% Capped,LU1291101555,170544051,"233,91 M€","0,25 %",Johdannainen,
+EEUX,BNP PARIBAS EASY - MSCI Europe Min TE Ucits ETF Capitalisation,LU1291099718,170544054,,,Johdannainen,
+ENOA,BNP Paribas Easy - MSCI North America ESG Filtered Min TE Fund,LU1291104575,170544038,,,Johdannainen,
+EWRD,BNP PARIBAS EASY - MSCI World SRI PAB UCITS ETF Capitalisation,LU1291108642,170544049,"54,84 M$","0,29 %",Johdannainen,
+EMKX,BNP Paribas Easy MSCI Emerging Min TE,LU1291097779,170544048,,,Johdannainen,
+EGRE,BNP Paribas Easy SICAV - Growth Europe -UCITS ETF- EUR Capitalisation,LU2244387887,342476855,,,Arvopaperi,
+EJAP,BNP Paribas Easy SICAV - MSCI Japan Min TE UCITS ETF- Capitalisation,LU1291102447,170544040,"1 628,1 M€","0,17 %",Arvopaperi,
+EMEC,ECPI Circular Economy Leaders -UCITS ETF- Capitalisation,LU1953136527,256903813,,,Arvopaperi,
+ETHEREUM XBTE,Ether Tracker Euro,SE0010296582,199912783,"270,25 M€","2,50 %",Johdannainen,
+SKYE,First Trust Cloud Computing UCITS ETF Accum -A- USD,IE00BFD2H405,528425736,"347,65 M$","0,63 %",Arvopaperi,
+QCLN,First Trust Nasdaq Clean Edge Green Energy UCITS ETF,IE00BDBRT036,323914086,"24,24 M$","0,60 %",Arvopaperi,
+GRID,First Trust Nasdaq Clean Edge Smart Grid Infrastructure UCITS ETF Accum A USD,IE000J80JTL1,376859102,"2 119,76 M$","0,70 %",Johdannainen,
+CBRS,First Trust Nasdaq Cybersecurity UCITS ETF,IE00BF16M727,308957397,"1 156,51 M$","0,60 %",Arvopaperi,
+,First Trust Smid Rising Dividend Achievers Ucits ETF Accum A USD,IE0001R850E1,461468783,"363,74 M$","0,60 %",Arvopaperi,
+FLXD,Franklin European Quality Dividend UCITS ETF,IE00BF2B0L69,197150651,,"0,34 %",Arvopaperi,Neljännesvuosittain
+FOHW,Franklin Future Of Health And Wellness Ucits ETF AccumUSD,IE0003WEWAX4,426017762,,"0,30 %",Arvopaperi,
+FLXX,Franklin Global Quality Dividend UCITS ETF,IE00BF2B0M76,197150649,,"0,30 %",Arvopaperi,Neljännesvuosittain
+FLXK,Franklin LibertyShares ICAV - Franklin FTSE Korea UCITS ETF,IE00BHZRR030,257238140,,"0,09 %",Arvopaperi,
+FLXI,Franklin LibertyShares ICAV - FTSE India UCITS ETF,IE00BHZRQZ17,259832624,,"0,19 %",Arvopaperi,
+FLXP,Franklin LibertyShares ICAV - STX Eur600 Paris Al. Cl. UCITS,IE00BMDPBY65,302148541,,"0,15 %",Arvopaperi,
+FLXE,Franklin Templeton ICAV - Franklin EM Multi-Factor Equity UCITS ETF Accum Shs USD,IE00BF2B0K52,200414215,,"0,45 %",Arvopaperi,
+ASWC,Future of Defence UCITS ETF Accum USD,IE000OJ5TQP4,425785856,"3 038,99 M$","0,49 %",Arvopaperi,
+JPGL,Global Equity Multi-Factor UCITS ETF Unhedged USD,IE00BJRCLL96,261806909,"253,87 M$","0,22 %",Arvopaperi,
+JGPI,Global Equity Premium Income Active UCITS ETF Unhedged USD,IE0003UVYC20,442523146,"1 421,52 M$","0,35 %",Arvopaperi,Kuukausittain
+QAIU,GLOBAL X Artificial Intelligence UCITS ETF AccumUSD,IE0000XTDDA8,475934627,"54,6 M$","0,40 %",Arvopaperi,
+4COP,Global X Copper Miners UCITS ETF AccumUSD,IE0003Z9E2Y3,358779436,"1 050,78 M$","0,90 %",Arvopaperi,
+V9N,Global X Data Center REITs & Digital Infrastructure UCITS ETF Accum USD,IE00BMH5Y327,360552682,"308,66 M$","0,70 %",Arvopaperi,
+4MMR,Global X Defence Tech UCITS ETF,IE000JCW3DZ3,475934626,"630,28 M$","0,60 %",Arvopaperi,
+B41J,Global X European Infrastructure Development UCITS ETF Accum Shs EUR,IE000PS0J481,475132097,"545,47 M€","0,47 %",Arvopaperi,
+ED3F,Global X Europe Focused Defence Tech UCITS ETF AccumEUR,IE000WRQ9RR1,508082311,"19,34 M€","0,50 %",Arvopaperi,
+LI7U,Global X Lithium & Battery Tech UCITS ETF,IE00BLCHJN13,360552683,"146,4 M$","0,80 %",Arvopaperi,
+QYLE,Global X Nasdaq 100 Covered Call UCITS ETF USD,IE00BM8R0J59,401653447,"701,85 M$","0,45 %",Johdannainen,Kuukausittain
+XB0T,Global X Robotics & Artificial Intelligence UCITS ETF,IE00BLCHJB90,358087849,"118,63 M$","0,70 %",Arvopaperi,
+SLVR,Global X Silver Miners UCITS ETF AccumUSD,IE000UL6CLP7,378526520,"1 461,46 M$","0,65 %",Arvopaperi,
+UDIV,Global X Superdividend UCITS ETF USD,IE00077FRP95,368311069,867 M$,"0,60 %",Arvopaperi,Kuukausittain
+DDOC,Global X Telemedicine & Digital Health UCITS ETF Accum Shs USD,IE00BLR6QB00,322244804,"5,14 M$","1,20 %",Arvopaperi,
+94VE,Global X U.S. Infrastructure Development UCITS ETF AccumUSD,IE00BLCHJ534,357376850,"662,26 M$","0,47 %",Arvopaperi,
+URNU,Global X Uranium UCITS ETF AccumUSD,IE000NDWFGA5,376859104,"764,41 M$","0,65 %",Arvopaperi,
+H3R0,Global X Video Games & Esports UCITS ETF Accum Shs USD,IE00BLR6Q544,322244805,"5,14 M$","1,00 %",Arvopaperi,
+WNDY,Global X Wind Energy UCITS ETF,IE000JNHCBM6,367484967,"9,29 M$","0,90 %",Arvopaperi,
+ECLM,Guinness Sustainable Energy UCITS ETF,IE00BNC1F287,316570820,"18,44 M$","0,65 %",Arvopaperi,
+T3KE,HAN-GINS Tech Megatrend Equal Weight UCITS ETF USD,IE00BDDRF700,528425733,"97,34 M$","0,63 %",Arvopaperi,
+EMQQ,Hanetf ICAV - EMQQ EM Internet & Ecommerce UCITS ETF,IE00BFYN8Y92,528425734,"111,44 M$","0,86 %",Arvopaperi,
+8RMY,HANetf ICAV - Future of European Defence Screened UCITS ETF AccumEUR,IE000I7E6HL0,528426378,"174,24 M€","0,44 %",Arvopaperi,
+,HANetf ICAV - Goshawk Global Balanced UCITS ETF Accum ETF USD,IE00BL643144,309942076,"22,42 M$","0,69 %",Arvopaperi,
+ASWF,HANetf ICAV - Middlefield Canadian Enhanced Income UCITS ETF CAD,IE000P1G9TM6,529717084,"118,84 MCAD","1,27 %",Arvopaperi,Neljännesvuosittain
+UKRN,HANetf ICAV - Ukraine Reconstruction UCITS ETF AccumETF EUR,IE000R8PO127,549918267,"6,46 M€","0,68 %",Arvopaperi,
+7RIP,Hanetf ICAV - US Global Investors Travel UCITS ETF Accum USD,IE00BMFNW783,528425753,"16,29 M$","0,69 %",Arvopaperi,
+DRON,HANETF II ICAV - Drone UCITS ETF USD,IE0003XW12I8,548918399,"20,67 M$","0,82 %",Arvopaperi,
+W311,Harbor Health Care UCITS ETF Accum Shs -A- USD,IE00BJQTJ848,302546794,"14,45 M$","0,59 %",Arvopaperi,
+H41D,HSBC ETFs PLC - HSBC MSCI World Value Screened UCITS ETF AccumUSD,IE000LYBU7X5,398427010,"290,81 M$","0,27 %",Arvopaperi,
+H4ZX,HSBC Hang Seng Tech UCITS ETF,IE00BMWXKN31,316678580,"12 746,9 MHKD","0,50 %",Arvopaperi,
+INQQ,INQQ India Internet UCITS ETF Accum USD,IE000WYTQSF9,440312848,"9,3 M$","0,86 %",Arvopaperi,
+BNXG,Invesco CoinShares Global Blockchain UCITS ETF Accum Shs USD,IE00BGBN6P67,249179761,"1 019,36 M$","0,65 %",Arvopaperi,
+IVDF,Invesco Defence Innovation UCITS ETF AccumUSD,IE000BRM9046,481664099,"139,49 M$","0,39 %",Arvopaperi,
+EQQQ,Invesco EQQQ Nasdaq-100 UCITS ETF Dist,IE0032077012,6486559,11 507 M$,"0,30 %",Arvopaperi,Neljännesvuosittain
+EQEU,Invesco EQQQ Nasdaq-100 UCITS ETF EUR Hdg Acc,IE00BYVTMS52,200733902,"529,87 M$","0,35 %",Arvopaperi,
+PJEU,Invesco Euro Cash 3 Months UCITS ETF,IE00B3BPCH51,25494619,"242,74 M€","0,15 %",Arvopaperi,
+EHBA,Invesco Euro Corporate Hybrid Bond UCITS ETF AccumEUR,IE00BKWD3B81,307622099,"210,94 M€","0,39 %",Arvopaperi,
+EHBD,Invesco Euro Corporate Hybrid Bond UCITS ETF EUR,IE00BKWD3966,307622098,"149,32 M€","0,39 %",Arvopaperi,Neljännesvuosittain
+SC0D,Invesco EURO STOXX 50 UCITS ETF,IE00B60SWX25,28120645,"1 127,97 M€","0,05 %",Johdannainen,
+S6X0,Invesco EURO STOXX 50 UCITS ETF,IE00B5B5TG76,32144331,"61,57 M€","0,05 %",Johdannainen,Puolivuosittain
+S7XE,Invesco EURO STOXX Optimised Banks UCITS ETF,IE00B3Q19T94,45271945,"144,91 M€","0,30 %",Johdannainen,
+BBCK,Invesco Global Buyback Achievers UCITS ETF,IE00BLSNMW37,118313301,"156,95 M$","0,39 %",Arvopaperi,Neljännesvuosittain
+G1CE,Invesco Global Clean Energy UCITS ETF AccumUSD,IE00BLRB0242,325689798,"120,97 M$","0,60 %",Arvopaperi,
+NS4E,Invesco JPX-Nikkei 400 UCITS ETF,IE00BVGC6645,127140123,"11,92 MJPY","0,19 %",Johdannainen,
+KFTK,Invesco KBW NASDAQ Fintech UCITS ETF,IE00BYMS5W68,271022742,"60,58 M$","0,49 %",Johdannainen,
+EHDV,Invesco Markets III Plc - EURO STOXX High Div. Low Vol.,IE00BZ4BMM98,152324327,"476,58 M€","0,30 %",Arvopaperi,Neljännesvuosittain
+EHDL,Invesco Markets III Plc - FTSE EM High Div. Low Vol.,IE00BYYXBF44,163423933,"345,41 M$","0,49 %",Arvopaperi,Neljännesvuosittain
+PSWD,Invesco Markets III PLC - Invesco RAFI All-World Fundamental Value UCITS ETF,IE00B23LNQ02,112179064,"224,22 M$","0,39 %",Arvopaperi,Neljännesvuosittain
+6PSK,Invesco Markets III PLC - Invesco RAFI Emerging Markets Fundamental Value UCITS ETF USD,IE00B23D9570,20080132,"92,89 M$","0,49 %",Arvopaperi,Neljännesvuosittain
+6PSC,Invesco Markets III PLC - Invesco RAFI Europe Fundamental Value UCITS ETF EUR,IE00B23D8X81,20080125,"29,85 M€","0,39 %",Arvopaperi,Neljännesvuosittain
+6PSA,Invesco Markets III PLC - Invesco RAFI US Fundamental Value UCITS ETF USD,IE00B23D8S39,20063085,"771,19 M$","0,39 %",Arvopaperi,Neljännesvuosittain
+SC04,Invesco Markets Plc - STOXX Europe 600 Optimised Per.,IE00B5MTZ595,29944221,"4,58 M€","0,20 %",Johdannainen,
+DEAM,Invesco MDAX UCITS ETF,IE00BHJYDV33,246150820,"737,84 M€","0,19 %",Arvopaperi,
+ICFP,Invesco Mkts. II Plc - MSCI Eur. Ldrs.Cath.Prin.UCITS ETF,IE00BG0NY640,244144432,"31,13 M€","0,30 %",Arvopaperi,Neljännesvuosittain
+SMLP,Invesco Morningstar US Energy Infrastructure MLP UCITS ETF,IE00B94ZB998,256903786,"73,85 M$","0,50 %",Johdannainen,
+SMLD,Invesco Morningstar US Energy Infrastructure MLP UCITS ETF,IE00B8CJW150,256903788,"288,08 M$","0,50 %",Johdannainen,Neljännesvuosittain
+ICNT,Invesco MSCI China Technology All Shares Stock Connect UCITS ETF AccumUSD,IE00BM8QS095,342118850,"150,49 M$","0,49 %",Arvopaperi,
+SC0E,Invesco MSCI Europe UCITS ETF,IE00B60SWY32,28120646,"62,69 M€","0,19 %",Johdannainen,
+SC0I,Invesco MSCI Japan UCITS ETF,IE00B60SX287,28120650,"10,36 M$","0,19 %",Johdannainen,
+SC0H,Invesco MSCI USA UCITS ETF Acc,IE00B60SX170,28120649,"8 193,65 M$","0,05 %",Johdannainen,
+MWEQ,Invesco MSCI World Equal Weight UCITS ETF Acc AccumUSD,IE000OEF25S1,477596097,"1 409,36 M$","0,20 %",Arvopaperi,
+SC0J,Invesco MSCI World UCITS ETF,IE00B60SX394,28120651,"7 283,08 M$","0,05 %",Johdannainen,
+EWQA,Invesco NASDAQ-100 Equal Weight UCITS ETF AccumUSD,IE000L2SA8K5,426672616,"91,25 M$","0,20 %",Arvopaperi,
+NBTK,Invesco NASDAQ Biotech UCITS ETF,IE00BQ70R696,271183960,"397,35 M$","0,40 %",Johdannainen,
+EQQJ,Invesco NASDAQ Next Generation 100 UCITS ETF AccumGBP,IE00BMD8KP97,328137182,"40,83 M$","0,26 %",Arvopaperi,
+8PSG,Invesco Physical Gold ETC,IE00B579F325,284362040,,"0,12 %",Arvopaperi,
+8PSB,Invesco Physical Silver ETC,IE00B43VDT70,342990107,,"0,19 %",Arvopaperi,
+SC0K,Invesco Russell 2000 UCITS ETF,IE00B60SX402,28120652,"307,48 M$","0,45 %",Johdannainen,
+HDLV,Invesco S&P 500 High Dividend Low Volatility UCITS ETF,IE00BWTN6Y99,133299388,"325,03 MCHF","0,30 %",Arvopaperi,Neljännesvuosittain
+QVMP,Invesco S&P 500 QVM UCITS ETF,IE00BDZCKK11,189905988,"66,77 M$","0,35 %",Arvopaperi,Neljännesvuosittain
+E500,Invesco S&P 500 UCITS ETF,IE00BRKWGL70,119800524,"2 624,22 M$","0,05 %",Johdannainen,
+P500,Invesco S&P 500 UCITS ETF,IE00B3YCGJ38,256903778,"37 708,7 M$","0,05 %",Johdannainen,
+SMLK,Invesco S&P SmallCap 600 UCITS ETF,IE00BH3YZ803,330142829,"345,82 M$","0,14 %",Johdannainen,
+S0LR,Invesco Solar Energy UCITS ETF AccumUSD,IE00BM8QRZ79,347153667,"200,16 M$","0,69 %",Arvopaperi,
+SC0P,Invesco STOXX Europe 600 Optimised Automobiles & Parts UCITS,IE00B5NLX835,29944222,"10,32 M€","0,20 %",Johdannainen,
+SC0U,Invesco STOXX Europe 600 Optimised Banks UCITS ETF,IE00B5MTWD60,29944214,"568,39 M€","0,20 %",Johdannainen,
+SC0W,Invesco STOXX Europe 600 Optimised Basic Resources UCITS ETF,IE00B5MTWY73,29944216,"31,05 M€","0,20 %",Johdannainen,
+SC00,Invesco STOXX Europe 600 Optimised Chemicals UCITS ETF,IE00B5MTY077,29944225,"140,04 M€","0,20 %",Johdannainen,
+SC01,Invesco STOXX Europe 600 Optimised Construction & Materials,IE00B5MTY309,29944226,"37,26 M€","0,20 %",Johdannainen,
+SC02,Invesco STOXX Europe 600 Optimised Financial Services UCITS,IE00B5MTYK77,29944223,"6,36 M€","0,20 %",Johdannainen,
+SC03,Invesco STOXX Europe 600 Optimised Food & Beverage UCITS ETF,IE00B5MTYL84,29944224,"16,74 M€","0,20 %",Johdannainen,
+SC0T,Invesco STOXX Europe 600 Optimised Health Care UCITS ETF,IE00B5MJYY16,29944213,"5,5 M€","0,20 %",Johdannainen,
+SC0S,Invesco STOXX Europe 600 Optimised Industrial Goods & Services,IE00B5MJYX09,29944212,"16,14 M€","0,20 %",Johdannainen,
+SC0Y,Invesco STOXX Europe 600 Optimised Insurance UCITS ETF,IE00B5MTXJ97,29944218,"47,35 M€","0,20 %",Johdannainen,
+SC06,Invesco STOXX Europe 600 Optimised Media UCITS ETF,IE00B5MTZ488,29944220,"2,74 M€","0,20 %",Johdannainen,
+SC0V,Invesco STOXX Europe 600 Optimised Oil & Gas UCITS ETF,IE00B5MTWH09,29944215,"29,76 M€","0,20 %",Johdannainen,
+SC05,Invesco STOXX Europe 600 Optimised Retail UCITS ETF,IE00B5MTZM66,29944227,"1,95 M€","0,20 %",Johdannainen,
+SC0X,Invesco STOXX Europe 600 Optimised Technology UCITS ETF,IE00B5MTWZ80,29944217,"20,57 M€","0,20 %",Johdannainen,
+SC0Q,Invesco STOXX Europe 600 Optimised Telecommunications UCITS,IE00B5MJYB88,29944210,"6,9 M€","0,20 %",Johdannainen,
+SC0R,Invesco STOXX Europe 600 Optimised Travel & Leisure UCITS ETF,IE00B5MJYC95,29944211,"4,33 M€","0,20 %",Johdannainen,
+SC0Z,Invesco STOXX Europe 600 Optimised Utilities UCITS ETF,IE00B5MTXK03,29944219,"7,37 M€","0,20 %",Johdannainen,
+SC0C,Invesco STOXX Europe 600 UCITS ETF,IE00B60SWW18,28120644,"518,49 M€","0,19 %",Johdannainen,
+FAHY,Invesco US High Yield Fallen Angels UCITS ETF,IE00BD0Q9673,174763666,"77,27 M$","0,45 %",Arvopaperi,Neljännesvuosittain
+SXRR,iShares $ Floating Rate Bond UCITS ETF EUR Hedged (Dist),IE00BF11F458,197239633,"66,57 M$","0,12 %",Arvopaperi,Puolivuosittain
+2B77,iShares Ageing Population UCITS ETF,IE00BYZK4669,170462940,"692,94 M$","0,40 %",Arvopaperi,
+AIAA,iShares AI Adopters & Applications UCITS ETF Accum Shs USD,IE000Q9W2IR3,486012720,"206,45 M","0,35 %",Arvopaperi,
+AIFS,iShares AI Infrastructure UCITS ETF Accum USD,IE000X59ZHE2,486012717,"889,36 M","0,35 %",Arvopaperi,
+IQQX,iShares Asia Pacific Dividend UCITS ETF,IE00B14X4T88,161589524,"656,02 M$","0,59 %",Arvopaperi,Neljännesvuosittain
+IQQ4,iShares Asia Property Yield UCITS ETF,IE00B1FZS244,162735988,"212,01 M$","0,59 %",Arvopaperi,Neljännesvuosittain
+2B76,iShares Automation & Robotics UCITS ETF,IE00BYZK4552,170462938,"4 370,84 M$","0,40 %",Arvopaperi,
+IQQ9,iShares BIC 50 UCITS ETF,IE00B1W57M07,162736048,"132,92 M$","0,74 %",Arvopaperi,Puolivuosittain
+IB1T,iShares Bitcoin ETP,XS2940466316,499274945,"1 071,87 M$","0,15 %",Arvopaperi,
+UDHY,iShares Broad USD High Yield Corp Bond UCITS ETF Unhedged USD,IE00BG0J4957,375065842,"2 382,1 M$","0,25 %",Arvopaperi,Puolivuosittain
+ICGB,iShares China CNY Bond UCITS ETF USD,IE00BYPC1H27,263117333,"660,2 M$","0,35 %",Arvopaperi,Puolivuosittain
+IQQC,iShares China Large Cap UCITS ETF USD,IE00B02KXK85,358786204,"924,94 M$","0,74 %",Arvopaperi,Neljännesvuosittain
+EXS1,iShares Core DAX UCITS ETF (DE),DE0005933931,2027396,"8 384,05 M€","0,16 %",Arvopaperi,
+EUN5,iShares Core EUR Corp Bond UCITS ETF,IE00B3F81R35,116984611,"8 991,67 M€","0,20 %",Arvopaperi,Puolivuosittain
+EUNH,iShares Core EUR Govt Bond UCITS ETF,IE00B4WXJJ64,163422784,"4 919,8 M€","0,09 %",Arvopaperi,Puolivuosittain
+SXRT,iShares Core EURO STOXX 50 UCITS ETF,IE00B53L3W79,34203412,"7 038,61 M€","0,10 %",Arvopaperi,
+EUN2,iShares Core EURO STOXX 50 UCITS ETF (Irl),IE0008471009,206628,"5 323,34 M€","0,10 %",Arvopaperi,Neljännesvuosittain
+SXRW,iShares Core FTSE 100 UCITS ETF GBP (Acc),IE00B53HP851,34203415,"3 044,65 M£","0,07 %",Arvopaperi,
+IUSZ,iShares Core FTSE 100 UCITS ETF GBP (Dist),IE0005042456,171693124,"15 286,5 M£","0,07 %",Arvopaperi,Neljännesvuosittain
+EUNA,iShares Core Global Aggregate Bond UCITS ETF Accum Hedged EUR,IE00BDBRDM35,205184960,"2 379,64 M$","0,10 %",Arvopaperi,
+IS3N,iShares Core MSCI EM IMI UCITS ETF,IE00BKM4GZ66,103681105,"39 950,6 M$","0,18 %",Arvopaperi,
+SXR7,iShares Core MSCI EMU UCITS ETF,IE00B53QG562,34203434,"6 565,59 M€","0,12 %",Arvopaperi,
+IQQY,iShares Core MSCI Europe UCITS ETF,IE00B1YZSC51,116984610,"10 494,1 M€","0,12 %",Arvopaperi,Neljännesvuosittain
+EUNK,iShares Core MSCI Europe UCITS ETF EUR (Acc),IE00B4K48X80,108344842,"14 804,2 M€","0,12 %",Arvopaperi,
+EUNN,iShares Core MSCI Japan IMI UCITS ETF,IE00B4L5YX21,163423017,"7 366,09 M$","0,12 %",Arvopaperi,
+SXR1,iShares Core MSCI Pacific ex Japan UCITS ETF,IE00B52MJY50,34203418,"3 740,83 M$","0,20 %",Arvopaperi,
+EUNL,iShares Core MSCI World UCITS ETF,IE00B4L5Y983,108344843,135 308 M$,"0,20 %",Arvopaperi,
+SXR8,iShares Core S&P 500 UCITS ETF,IE00B5BMR087,35607934,139 993 M$,"0,07 %",Arvopaperi,
+IUSA,iShares Core S&P 500 UCITS ETF USD (Dist),IE0031442068,6430214,"20 754,7 M$","0,07 %",Arvopaperi,Neljännesvuosittain
+IQQ6,iShares Developed Markets Property Yield UCITS ETF,IE00B1FZS350,162736008,"1 201,66 M$","0,59 %",Arvopaperi,Neljännesvuosittain
+2B79,iShares Digitalisation UCITS ETF,IE00BYZK4883,170462942,"696,85 M$","0,40 %",Arvopaperi,
+L0CK,iShares Digital Security UCITS ETF,IE00BG0J4C88,228867010,"1 513,84 M$","0,40 %",Arvopaperi,
+EXXY,iShares Diversified Commodity Swap UCITS ETF (DE),DE000A0H0728,18637689,"297,33 M€","0,46 %",Johdannainen,
+IUSL,iShares Dow Jones Global Leaders Screened UCITS ETF USD (Acc),IE00B57X3V84,162736192,"1 957,82 M$","0,60 %",Arvopaperi,
+SXRU,iShares Dow Jones Industrial Average UCITS ETF,IE00B53L4350,34203413,"1 755,76 M$","0,33 %",Arvopaperi,
+EUNZ,iShares Edge MSCI EM Minimum Volatility UCITS ETF,IE00B8KGV557,164522121,"391,64 M$","0,40 %",Arvopaperi,
+5MVL,iShares Edge MSCI EM Value Factor UCITS ETF,IE00BG0SKF03,238545765,"1 623,65 M$","0,40 %",Arvopaperi,
+EUN0,iShares Edge MSCI Europe Minimum Volatility UCITS ETF,IE00B86MWN23,164522133,"790,68 M€","0,25 %",Arvopaperi,
+CEMR,iShares Edge MSCI Europe Momentum Factor UCITS ETF,IE00BQN1K786,142242331,"767,3 M€","0,25 %",Arvopaperi,
+IBC0,iShares Edge MSCI Europe Multifactor UCITS ETF,IE00BZ0PKV06,141622145,"585,11 M€","0,45 %",Arvopaperi,
+CEMQ,iShares Edge MSCI Europe Quality Factor UCITS ETF,IE00BQN1K562,142242329,"708,01 M€","0,25 %",Arvopaperi,
+CEMS,iShares Edge MSCI Europe Value Factor UCITS ETF,IE00BQN1K901,142242333,"2 488,52 M€","0,25 %",Arvopaperi,
+MVEA,iShares Edge MSCI USA Minimum Volatility Advanced UCITS ETF AccumUSD,IE00BKVL7331,291937576,"105,17 M$","0,20 %",Arvopaperi,
+QDVA,iShares Edge MSCI USA Momentum Factor UCITS ETF,IE00BD1F4N50,173162287,"509,59 M$","0,20 %",Arvopaperi,
+QDVB,iShares Edge MSCI USA Quality Factor UCITS ETF,IE00BD1F4L37,173162285,"1 762,85 M$","0,20 %",Arvopaperi,
+QDVI,iShares Edge MSCI USA Value Factor UCITS ETF,IE00BD1F4M44,173162286,"4 402,07 M$","0,20 %",Arvopaperi,
+MVEW,iShares Edge MSCI World MinimumVolatility Advanced UCITS ETF,IE00BKVL7778,291937573,"249,45 M$","0,30 %",Arvopaperi,
+SXR0,iShares Edge MSCI World Minimum Volatility UCITS ETF EUR Hedged Accum,IE00BYXPXL17,184835458,"164,37 M$","0,35 %",Arvopaperi,
+IQQ0,iShares Edge MSCI World Minimum Volatility UCITS ETF USD,IE00B8FHGS14,164522119,"2 463,02 M$","0,30 %",Arvopaperi,
+IS3R,iShares Edge MSCI World Momentum Factor UCITS ETF,IE00BP3QZ825,142242323,"4 434,85 M$","0,25 %",Arvopaperi,
+IS3Q,iShares Edge MSCI World Quality Factor UCITS ETF,IE00BP3QZ601,142242321,"4 959,58 M$","0,25 %",Arvopaperi,
+IS3S,iShares Edge MSCI World Value Factor UCITS ETF,IE00BP3QZB59,142242325,"6 321,78 M$","0,25 %",Arvopaperi,
+IBCK,iShares Edge S&P 500 Minimum Volatility UCITS ETF,IE00B6SPMN59,164522135,"1 607,83 M$","0,20 %",Arvopaperi,
+IS31,iShares Edge S&P 500 Minimum Volatility UCITS ETF EUR Hedged (Acc),IE00BYX8XD24,192916941,"43,61 M$","0,25 %",Arvopaperi,
+IEVD,iShares Electric Vehicles & Driving Technology UCITS ETF,IE00BGL86Z12,247332724,"541,71 M$","0,40 %",Arvopaperi,
+EUNY,iShares EM Dividend UCITS ETF,IE00B652H904,164522158,"1 401,63 M$","0,65 %",Arvopaperi,Neljännesvuosittain
+IS0S,iShares Emerging Asia Local Govt Bond UCITS ETF USD,IE00B6QGFW01,163423696,"44,33 M$","0,50 %",Arvopaperi,Puolivuosittain
+EUNT,iShares EUR Corp Bond 1-5yr UCITS ETF,IE00B4L60045,163423175,"3 541,98 M€","0,20 %",Arvopaperi,Puolivuosittain
+IS06,iShares EUR Corp Bond BBB-BB UCITS ETF,IE00BSKRK281,163423325,"442,62 M€","0,25 %",Arvopaperi,Puolivuosittain
+EUNR,iShares EUR Corp Bond ex-Financials UCITS ETF,IE00B4L5ZG21,163423082,"974,67 M€","0,20 %",Arvopaperi,Puolivuosittain
+IS3B,iShares EUR Corp Bond Financials UCITS ETF,IE00B87RLX93,164522186,"460,4 M€","0,20 %",Arvopaperi,Puolivuosittain
+IBCS,iShares EUR Corp Bond Large Cap UCITS ETF,IE0032523478,161588978,"1 863,19 M€","0,20 %",Arvopaperi,Neljännesvuosittain
+IUS6,iShares EUR Covered Bond UCITS ETF,IE00B3B8Q275,163422475,"1 553,9 M€","0,20 %",Arvopaperi,Puolivuosittain
+EUN6,iShares EUR Govt Bond 0-1yr UCITS ETF,IE00B3FH7618,163422502,"1 105,47 M€","0,07 %",Arvopaperi,Puolivuosittain
+IBCA,iShares EUR Govt Bond 1-3 UCITS ETF EUR (Dist),IE00B14X4Q57,161589537,"1 842,22 M€","0,20 %",Arvopaperi,Puolivuosittain
+IBCN,iShares EUR Govt Bond 3-5 Year UCITS ETF,IE00B1FZS681,162736022,"2 186,98 M€","0,15 %",Arvopaperi,Puolivuosittain
+SXRP,iShares EUR Govt Bond 3-7 UCITS ETF (Acc),IE00B3VTML14,31802430,"1 286,74 M€","0,20 %",Arvopaperi,
+EUN9,iShares EUR Govt Bond 5-7 Year UCITS ETF,IE00B4WXJG34,163422648,"700,54 M€","0,20 %",Arvopaperi,Puolivuosittain
+SXRQ,iShares EUR Govt Bond 7-10 UCITS ETF EUR (Acc),IE00B3VTN290,31802431,"879,86 M€","0,20 %",Arvopaperi,
+IBCM,iShares EUR Govt Bond 7-10 Year UCITS ETF,IE00B1FZS806,162736024,"1 017,09 M€","0,15 %",Arvopaperi,Puolivuosittain
+EUN8,iShares EUR Govt Bond 10-15 Year UCITS ETF,IE00B4WXJH41,163422717,"346,52 M€","0,20 %",Arvopaperi,Puolivuosittain
+IBCL,iShares EUR Govt Bond 15-30 Year UCITS ETF,IE00B1FZS913,162736017,"736,26 M€","0,15 %",Arvopaperi,Puolivuosittain
+IS05,iShares EUR Govt Bond 20 Year Target Duration UCITS ETF,,263581445,"212,66 M€","0,15 %",Arvopaperi,Puolivuosittain
+EUN4,iShares Euro Aggregate Bond ESG SRI UCITS ETF,IE00B3DKXQ41,163422540,"1 588,98 M€","0,25 %",Arvopaperi,Puolivuosittain
+EUNW,iShares Euro High Yield Corp Bond UCITS ETF EUR,IE00B66F4759,116984614,"4 947,29 M€","0,50 %",Arvopaperi,Puolivuosittain
+IQQP,iShares European Property Yield UCITS ETF,IE00B0M63284,161589421,"910,1 M€","0,40 %",Arvopaperi,Neljännesvuosittain
+IPRE,iShares European Property Yield UCITS ETF,IE00BGDQ0L74,239263117,"190,97 M€","0,40 %",Arvopaperi,
+IQQM,iShares EURO STOXX Mid UCITS ETF,IE00B02KXL92,161589379,"546,09 M€","0,40 %",Arvopaperi,Neljännesvuosittain
+IQQS,iShares EURO STOXX Small UCITS ETF,IE00B02KXM00,161589353,"430,92 M€","0,40 %",Arvopaperi,Neljännesvuosittain
+IQQG,iShares Euro Total Market Growth Large UCITS ETF EUR,IE00B0M62V02,161589415,"276,35 M€","0,40 %",Arvopaperi,Neljännesvuosittain
+IS3M,iShares EUR Ultrashort Bond UCITS ETF,IE00BCRY6557,142242370,"3 604,86 M€","0,09 %",Arvopaperi,Puolivuosittain
+QDVQ,iShares Fallen Angels High Yield Corp Bond UCITS ETF,IE00BYM31M36,163897937,"381,95 M$","0,66 %",Arvopaperi,Puolivuosittain
+IS0L,iShares Germany Govt Bond UCITS ETF,IE00B5V94313,164522173,"143,21 M€","0,20 %",Arvopaperi,Puolivuosittain
+IS0Z,iShares Global AAA-AA Govt Bond UCITS ETF,IE00B87G8S03,164522113,"209,96 M$","0,20 %",Arvopaperi,Puolivuosittain
+5J50,iShares Global Aerospace & Defence UCITS ETF Accum- USD,IE000U9ODG19,503759718,"1 750,6 M$","0,35 %",Arvopaperi,
+IQQH,iShares Global Clean Energy Transition UCITS ETD USD,IE00B1XNHC34,162736052,"3 350,27 M$","0,65 %",Arvopaperi,Puolivuosittain
+IBCQ,iShares Global Corp Bond EUR Hedged UCITS ETF,IE00B9M6SJ31,164522189,"1 082,86 M€","0,25 %",Arvopaperi,Puolivuosittain
+IS0X,iShares Global Corp Bond UCITS ETF,IE00B7J7TB45,161589672,"1 984,77 M$","0,20 %",Arvopaperi,Puolivuosittain
+EUN3,iShares Global Govt Bond UCITS ETF,IE00B3F81K65,163422519,"1 220,96 M$","0,20 %",Arvopaperi,Puolivuosittain
+IBC9,iShares Global High Yield Corp Bond UCITS ETF USD,IE00B74DQ490,161589674,"948,22 M$","0,56 %",Arvopaperi,Puolivuosittain
+IUS5,iShares Global Inflation Linked Govt Bond UCITS ETF,IE00B3B8PX14,163422458,"493,96 M€","0,25 %",Arvopaperi,
+CBUX,iShares Global Infrastructure UCITS ETF Accum USD,IE000CK5G8J7,412404338,"147,01 M$","0,65 %",Arvopaperi,
+IQQI,iShares Global Infrastructure UCITS ETF USD,IE00B1FZS467,162736010,"2 331,23 M$","0,65 %",Arvopaperi,Neljännesvuosittain
+IUSB,iShares Global Timber & Forestry UCITS ETF Ptg.Shs USD,IE00B27YCF74,328916436,"88,43 M$","0,65 %",Arvopaperi,Puolivuosittain
+IQQQ,iShares Global Water UCITS ETF,IE00B1TXK627,162736042,"2 178,05 M$","0,65 %",Arvopaperi,Puolivuosittain
+IS0E,iShares Gold Producers UCITS ETF USD,IE00B6R52036,164522143,"4 190,41 M$","0,55 %",Arvopaperi,
+MAGR,iShares Growth Portfolio UCITS ETF,IE00BLLZQ805,306151185,"85,01 M€","0,34 %",Arvopaperi,
+2B78,iShares Healthcare Innovation UCITS ETF,IE00BYZK4776,170462941,"964,66 M$","0,40 %",Arvopaperi,
+IVOA,iShares iBonds Dec 2028 Term EUR Corp UCITS ETF AccumEUR,IE0008UEVOE0,432510269,"965,18 M€","0,12 %",Arvopaperi,
+CBU5,iShares iBonds Dec 2028 Term USD Corp UCITS ETF AccumUSD,IE0000UJ3480,429795400,"876,97 M$","0,12 %",Arvopaperi,
+IART,iShares III PLC - iShares AI Innovation Active UCITS ETF AccumUSD,IE000G0E83X3,490706106,"211,42 M$","0,73 %",Arvopaperi,
+EUNS,iShares III PLC - iShares Euro Corporate Bond ex-Financials 1-5yr UCITS ETF EUR,IE00B4L5ZY03,163423134,"1 242,04 M€","0,20 %",Arvopaperi,Puolivuosittain
+QDVL,iShares II PLC - iShares EUR Corp Bond 0-3Yr ESG SRI UCITS ETF Shs EUR,IE00BYZTVV78,151167085,"2 168,5 M€","0,15 %",Arvopaperi,Puolivuosittain
+AYE2,iShares II PLC - iShares EUR High Yield Corp Bond ESG SRI UCITS ETF Accum EUR,IE00BJK55C48,328916661,"3 311,18 M€","0,25 %",Arvopaperi,
+SUA0,iShares II PLC - iShares Euro Corp Bond ESG SRI UCITS ETF Accum Shs EUR,IE000L2TO2T2,377707824,"1 519,02 M€","0,15 %",Arvopaperi,
+UEEF,iShares II PLC - iShares USD High Yield Corp Bond ESG SRI UCITS ETF Accum Shs Hedged EUR,IE00BMDFDY08,304182253,"367,04 MCHF","0,27 %",Arvopaperi,
+OPEN,iShares Inclusion and Diversity UCITS ETF Accum Shs Unhedged USD,IE00BD0B9B76,228867004,"48,17 M$","0,25 %",Arvopaperi,
+IS0M,iShares Italy Govt Bond UCITS ETF,IE00B7LW6Y90,164522175,"512,54 M€","0,20 %",Arvopaperi,Puolivuosittain
+CEBS,iShares IV PLC - iShares Copper Miners UCITS ETF AccumUSD,IE00063FT9K6,435519651,"465,45 M$","0,55 %",Arvopaperi,
+EDM2,iShares IV PLC - iShares MSCI EM CTB Enhanced ESG UCITS ETF Accum Shs Unhedged USD,IE00BHZPJ239,271515961,"9 548,06 M$","0,26 %",Arvopaperi,
+AYEM,iShares IV PLC - iShares MSCI EM IMI Screened UCITS ETF AccumUnhedged USD,IE00BFNM3P36,232974970,"6 490,74 M$","0,21 %",Arvopaperi,
+EDM4,iShares IV PLC - iShares MSCI EMU CTB Enhanced ESG UCITS ETF Accum Shs Unhedged EUR,IE00BHZPJ015,252399066,"3 130,43 M€","0,12 %",Arvopaperi,
+EDM6,iShares IV PLC - iShares MSCI Europe CTB Enhanced ESG UCITS ETF Accum Shs Unhedged EUR,IE00BHZPJ783,252399074,"2 144,39 M€","0,12 %",Arvopaperi,
+SLMC,iShares IV PLC - iShares MSCI Europe Screened UCITS ETF AccumEUR,IE00BFNM3D14,232974954,"4 698,26 M€","0,14 %",Arvopaperi,
+EDMJ,iShares IV PLC - iShares MSCI Japan CTB Enhanced ESG UCITS ETF Accum Shs Unhedged USD,IE00BHZPJ452,252399068,"1 352,41 M$","0,15 %",Arvopaperi,
+SGAJ,iShares IV PLC - iShares MSCI Japan Screened UCITS ETF AccumUnhedged USD,IE00BFNM3L97,232974966,"1 965,48 M$","0,15 %",Arvopaperi,
+EDMU,iShares IV PLC - iShares MSCI USA CTB Enhanced ESG UCITS ETF Accum Shs Unhedged USD,IE00BHZPJ908,252399070,"8 393,55 M$","0,07 %",Arvopaperi,
+SGAS,iShares IV PLC - iShares MSCI USA Screened UCITS ETF Accum Shs Unhedged USD,IE00BFNM3G45,232974958,"16 387,5 M$","0,07 %",Arvopaperi,
+EDMW,iShares IV PLC - iShares MSCI World CTB Enhanced ESG UCITS ETF Accum Shs Unhedged USD,IE00BHZPJ569,252399072,"4 437,71 M$","0,20 %",Arvopaperi,
+IUSV,iShares IV PLC - iShares USD Treasury Bond 20+yr UCITS ETF Hedged EUR,IE00BD8PGZ49,328916643,"887,61 M$","0,10 %",Arvopaperi,Puolivuosittain
+IUSP,iShares J.P. Morgan EM Local Govt Bond UCITS ETF,IE00B5M4WH52,163423677,"5 109,81 M$","0,50 %",Arvopaperi,Puolivuosittain
+IS3C,iShares J.P. Morgan USD EM Bond EUR Hedged UCITS ETF (Dist),IE00B9M6RS56,164522192,"2 146,42 M€","0,50 %",Arvopaperi,Kuukausittain
+IUS7,iShares J.P. Morgan USD EM Bond UCITS ETF,IE00B2NPKV68,162736066,"3 976,63 M$","0,45 %",Arvopaperi,Kuukausittain
+IS0Q,iShares JP Morgan USD EM Corp Bond UCITS ETF USD,IE00B6TLBW47,164522163,"1 000,03 M$","0,50 %",Arvopaperi,Puolivuosittain
+IQQL,iShares Listed Private Equity UCITS ETF,IE00B1TXHL60,162736037,"839,2 M$","0,75 %",Arvopaperi,Puolivuosittain
+CBUV,iShares Metaverse UCITS ETF USD (Acc),IE000RN58M26,406440379,"124,64 M$","0,52 %",Arvopaperi,
+MODR,iShares Moderate Portfolio UCITS ETF Accum EUR,IE00BLLZQS08,306151184,"39,65 M€","0,32 %",Arvopaperi,
+IQQF,iShares MSCI AC Far East ex-Japan UCITS ETF,IE00B0M63730,161589428,"1 588,65 M$","0,74 %",Arvopaperi,Neljännesvuosittain
+IUSQ,iShares MSCI ACWI UCITS ETF,IE00B6R52259,164522155,30 098 M$,"0,20 %",Arvopaperi,
+IBC6,iShares MSCI Australia UCITS ETF USD,IE00B5377D42,116984613,"559,57 M$","0,50 %",Arvopaperi,
+IQQB,iShares MSCI Brazil UCITS ETF USD (Dist),IE00B0M63516,161589430,"535,97 M$","0,74 %",Arvopaperi,Neljännesvuosittain
+SXR2,iShares MSCI Canada UCITS ETF,IE00B52SF786,34203420,"2 184,91 M$","0,48 %",Arvopaperi,
+36BZ,iShares MSCI China A UCITS ETF,IE00BQT3WG13,130067663,"3 211,24 M$","0,40 %",Arvopaperi,
+CBUK,iShares MSCI China Tech UCITS ETF USD,IE000NFR7C63,375065867,"2 058,02 M$","0,56 %",Arvopaperi,
+ICGA,iShares MSCI China UCITS ETF AccumUSD,IE00BJ5JPG56,259612779,"3 186,57 M$","0,28 %",Arvopaperi,
+CEBL,iShares MSCI EM Asia UCITS ETF,IE00B5L8K969,38692526,"7 528,75 M$","0,20 %",Arvopaperi,
+CEMG,iShares MSCI EM Consumer Growth UCITS ETF,IE00BKM4H197,164521683,"42,17 M$","0,60 %",Arvopaperi,
+84X0,iShares MSCI EM ex-China UCITS ETF,IE00BMG6Z448,438810744,5 325 M$,"0,25 %",Arvopaperi,
+IUSC,iShares MSCI EM Latin America UCITS ETF USD,IE00B27YCK28,162736055,"2 267,18 M$","0,20 %",Arvopaperi,Puolivuosittain
+EUNI,iShares MSCI EM Small Cap UCITS ETF,IE00B3F81G20,163422554,"369,45 M$","0,74 %",Arvopaperi,Puolivuosittain
+QDVS,iShares MSCI EM SRI UCITS ETF,IE00BYVJRP78,165314443,"3 609,64 M$","0,33 %",Arvopaperi,
+EUNM,iShares MSCI EM UCITS ETF USD (Acc),IE00B4L5YC18,163422993,"8 955,71 M$","0,18 %",Arvopaperi,
+IQQE,iShares MSCI EM UCITS ETF USD (Dist),IE00B0M63177,115171495,"9 593,99 M$","0,18 %",Arvopaperi,Neljännesvuosittain
+SLMA,iShares MSCI EMU IMI Screened UCITS ETF Accum Shs EUR,IE00BFNM3B99,232974950,"1 409,99 M€","0,12 %",Arvopaperi,
+IS3G,iShares MSCI EMU Large Cap UCITS ETF EUR,IE00BCLWRF22,114715785,"149,84 M€","0,49 %",Arvopaperi,
+IS3H,iShares MSCI EMU Mid Cap UCITS ETF EUR,IE00BCLWRD08,114715784,"613,56 M€","0,49 %",Arvopaperi,
+SXRJ,iShares MSCI EMU Small Cap UCITS ETF,IE00B3VWMM18,31802425,"962,48 M€","0,58 %",Arvopaperi,
+CEBP,iShares MSCI EMU USD Hedged UCITS ETF (Acc),IE00BWZN1T31,136392172,"272,4 M$","0,38 %",Arvopaperi,
+IQQU,iShares MSCI Europe ex-UK UCITS ETF,IE00B14X4N27,161589534,"1 310,85 M€","0,40 %",Arvopaperi,Neljännesvuosittain
+QDVX,iShares MSCI Europe Quality Dividend ESG UCITS ETF,IE00BYYHSM20,193346478,"847,29 M€","0,28 %",Arvopaperi,Neljännesvuosittain
+IUSK,iShares MSCI Europe SRI UCITS ETF,IE00B52VJ196,162736187,"3 051,73 M€","0,24 %",Arvopaperi,
+IS3U,iShares MSCI France UCITS ETF,IE00BP3QZJ36,142242319,"199,17 M€","0,25 %",Arvopaperi,
+SEC0,iShares MSCI Global Semiconductors UCITS ETF AccumUSD,IE000I8KRLL9,347153761,"3 451,13 M$","0,35 %",Arvopaperi,
+QDV5,iShares MSCI India UCITS ETF,IE00BZCQB185,219163048,"5 132,59 M$","0,65 %",Arvopaperi,
+IBCG,iShares MSCI Japan EUR Hedged UCITS ETF (Acc),IE00B42Z5J44,164521880,"1 122,16 M€","0,64 %",Arvopaperi,
+IUS4,iShares MSCI Japan Small Cap UCITS ETF,IE00B2QWDY88,108344840,"477,81 M$","0,58 %",Arvopaperi,Puolivuosittain
+SXR6,iShares MSCI Japan SRI UCITS ETF Accum USD,IE00BYX8XC17,183339889,"492,42 M$","0,20 %",Arvopaperi,
+SXR5,iShares MSCI Japan UCITS ETF,IE00B53QDK08,34203428,"1 408,89 M$","0,48 %",Arvopaperi,
+IQQJ,iShares MSCI Japan UCITS ETF USD (Dist),IE00B02KXH56,161589316,"2 546,92 M$","0,12 %",Arvopaperi,Puolivuosittain
+IQQK,iShares MSCI Korea UCITS ETF USD (Dist),IE00B0M63391,161589441,"1 050,53 M$","0,74 %",Arvopaperi,Puolivuosittain
+CEBG,iShares MSCI Mexico Capped UCITS ETF,IE00B5WHFQ43,38692521,"144,23 M$","0,65 %",Arvopaperi,
+IQQN,iShares MSCI North America UCITS ETF,IE00B14X4M10,161589484,"1 413,69 M$","0,40 %",Arvopaperi,Neljännesvuosittain
+EUNJ,iShares MSCI Pacific ex-Japan UCITS ETF (Dist) USD,IE00B4WXJD03,163831985,"183,9 M$","0,60 %",Arvopaperi,Neljännesvuosittain
+IBCJ,iShares MSCI Poland UCITS ETF,IE00B4M7GH52,164522044,"809,62 M$","0,74 %",Arvopaperi,
+IBC4,iShares MSCI South Africa UCITS ETF USD,IE00B52XQP83,134765547,"415,25 M$","0,65 %",Arvopaperi,
+IQQT,iShares MSCI Taiwan UCITS ETF,IE00B0M63623,161589449,"1 444,92 M$","0,74 %",Arvopaperi,Puolivuosittain
+IQQ5,iShares MSCI Turkey UCITS ETF,IE00B1FZS574,162735995,"141,19 M$","0,74 %",Arvopaperi,Puolivuosittain
+QDVC,iShares MSCI USA Mid-Cap Equal Weight UCITS ETF Accum Shs USD,IE00BD1F4K20,173162284,"322,65 M$","0,21 %",Arvopaperi,
+QDVD,iShares MSCI USA Quality Dividend ESG UCITS ETF,IE00BKM4H312,104368240,"659,82 M$","0,35 %",Arvopaperi,Puolivuosittain
+QDVR,iShares MSCI USA SRI UCITS ETF,IE00BYVJRR92,165314442,"2 987,61 M$","0,20 %",Arvopaperi,
+36B6,iShares MSCI USA SRI UCITS ETF,IE00BZ173T46,247614136,"367,71 M$","0,20 %",Arvopaperi,Puolivuosittain
+SXR4,iShares MSCI USA UCITS ETF,IE00B52SFT06,34203425,"4 368,33 M$","0,07 %",Arvopaperi,
+3SUE,iShares MSCI World Consumer Staples Sector ESG UCITS ETF USD,IE00BJ5JP329,271147256,"102,41 M$","0,25 %",Arvopaperi,Puolivuosittain
+IBCH,iShares MSCI World EUR Hedged UCITS ETF (Acc),IE00B441G979,164521883,"5 064,25 M€","0,55 %",Arvopaperi,
+CBUF,iShares MSCI World Health Care Sector Advanced UCITS ETF USD,IE00BJ5JNZ06,271147250,"565,64 M$","0,18 %",Arvopaperi,Puolivuosittain
+AYEW,iShares MSCI World Information Technology Sector Advanced UCITS ETF USD,IE00BJ5JNY98,271147248,"894,62 M$","0,25 %",Arvopaperi,Puolivuosittain
+IS3T,iShares MSCI World Mid-Cap Equal Weight UCITS ETF USD,IE00BP3QZD73,142242327,"446,08 M$","0,32 %",Arvopaperi,
+QDVW,iShares MSCI World Quality Dividend ESG UCITS ETF Unhedged USD,IE00BYYHSQ67,193346480,"1 427,62 M$","0,38 %",Arvopaperi,Puolivuosittain
+SNAW,iShares MSCI World Screened UCITS ETF Accum Shs Unhedged USD,IE00BFNM3J75,232974962,"5 451,01 M$","0,25 %",Arvopaperi,
+IUSN,iShares MSCI World Small Cap UCITS ETF,IE00BF4RFH31,216093294,"7 633,3 M$","0,35 %",Arvopaperi,
+2B7K,iShares MSCI World SRI UCITS ETF,IE00BYX2JD69,247614109,"6 270,94 M$","0,30 %",Arvopaperi,
+IQQW,iShares MSCI World UCITS ETF USD (Dist),IE00B0M62Q58,114715786,"8 895,57 M$","0,50 %",Arvopaperi,Neljännesvuosittain
+NQSE,iShares NASDAQ 100 UCITS ETF,IE00BYVQ9F29,228606709,"1 997,04 M$","0,36 %",Arvopaperi,
+SXRV,iShares NASDAQ 100 UCITS ETF USD,IE00B53SZB19,34203414,"23 849,2 M$","0,33 %",Arvopaperi,
+2B70,iShares NASDAQ US Biotechnology UCITS ETF,IE00BYXG2H39,203555647,"820,02 M$","0,35 %",Arvopaperi,
+SXRZ,iShares Nikkei 225 UCITS ETF,IE00B52MJD48,34203417,123 620 MJPY,"0,48 %",Arvopaperi,
+IS0D,iShares Oil & Gas Exploration & Production UCITS ETF USD,IE00B6R51Z18,164522148,"506,63 M$","0,55 %",Arvopaperi,
+OM3X,iShares OMX Stockholm Capped UCITS ETF,IE00BD3RYZ16,177392110,"2 036,54 MSEK","0,10 %",Arvopaperi,
+PPFB,iShares Physical Gold ETC,IE00B4ND3602,345103699,"37 989,8 M$","0,12 %",Arvopaperi,
+IQQA,iShares PLC - iShares Euro Dividend UCITS ETF EUR,IE00B0M62S72,161589417,"1 452,19 M€","0,40 %",Arvopaperi,Neljännesvuosittain
+IBCI,iShares PLC - iShares Euro Inflation Linked Government Bond UCITS ETF AccumEUR,IE00B0M62X26,116984609,"1 823,08 M€","0,09 %",Arvopaperi,
+IU5C,iShares S&P 500 Communication Sector UCITS ETF,IE00BDDRF478,230255730,"1 122,09 M$","0,15 %",Arvopaperi,
+QDVK,iShares S&P 500 Consumer Discretionary Sector UCITS ETF,IE00B4MCHD36,148412365,"741,67 M$","0,15 %",Arvopaperi,
+2B7D,iShares S&P 500 Consumer Staples Sector UCITS ETF,IE00B40B8R38,184626224,"460,11 M$","0,15 %",Arvopaperi,
+QDVF,iShares S&P 500 Energy Sector UCITS ETF,IE00B42NKQ00,148412368,"2 030,06 M$","0,15 %",Arvopaperi,
+IBCF,iShares S&P 500 EUR Hedged UCITS ETF (Acc),IE00B3ZW0K18,164521885,"8 240,19 M€","0,20 %",Arvopaperi,
+QDVH,iShares S&P 500 Financials Sector UCITS ETF,IE00B4JNQZ49,148412372,"2 163,17 M$","0,15 %",Arvopaperi,
+QDVG,iShares S&P 500 Health Care Sector UCITS ETF,IE00B43HR379,148412375,"2 444,24 M$","0,15 %",Arvopaperi,
+2B7C,iShares S&P 500 Industrials Sector UCITS ETF,IE00B4LN9N13,184626218,"715,22 M$","0,15 %",Arvopaperi,
+QDVE,iShares S&P 500 Information Technology Sector UCITS ETF,IE00B3WJKG14,148412363,"16 915,3 M$","0,15 %",Arvopaperi,
+2B7B,iShares S&P 500 Materials Sector UCITS ETF,IE00B4MKCJ84,184626220,"229,04 M$","0,15 %",Arvopaperi,
+I500,iShares S&P 500 Swap UCITS ETF AccumUSD,IE00BMTX1Y45,308101727,"11 957,4 M$","0,05 %",Johdannainen,
+IS20,iShares S&P 500 Top 20 UCITS ETF AccumUSD,IE000VA628D5,483330694,"532,38 M$","0,20 %",Arvopaperi,
+2B7A,iShares S&P 500 Utilities Sector UCITS ETF,IE00B4KBBD01,184626222,"1 174,75 M$","0,15 %",Arvopaperi,
+IUS3,iShares S&P SmallCap 600 UCITS ETF USD,IE00B2QWCY14,163422454,"2 934,93 M$","0,40 %",Arvopaperi,Puolivuosittain
+IUS2,iShares S&P US Banks UCITS ETF,IE00BD3V0B10,218437650,"947,93 M$","0,35 %",Arvopaperi,
+AYEU,iShares Smart City Infrastructure UCITS ETF AccumUSD,IE00BKTLJC87,328916662,"373,02 M$","0,40 %",Arvopaperi,
+IS0P,iShares Spain Govt Bond UCITS ETF,IE00B428Z604,164522179,"214,84 M€","0,20 %",Arvopaperi,Puolivuosittain
+EUN1,iShares STOXX Europe 50 UCITS ETF,IE0008470928,206626,"563,66 M€","0,35 %",Arvopaperi,Neljännesvuosittain
+EXV5,iShares STOXX Europe 600 Automobiles & Parts UCITS ETF (DE) EUR (Dist),DE000A0Q4R28,46607039,"191,28 M€","0,46 %",Arvopaperi,Neljännesvuosittain
+EXV1,iShares STOXX Europe 600 Banks UCITS ETF (DE),DE000A0F5UJ7,46606910,"3 440,06 M€","0,46 %",Arvopaperi,Neljännesvuosittain
+EXV6,iShares STOXX Europe 600 Basic Resources UCITS ETF (DE),DE000A0F5UK5,46606831,"481,83 M€","0,46 %",Arvopaperi,Neljännesvuosittain
+EXV7,iShares STOXX Europe 600 Chemicals UCITS ETF (DE),DE000A0H08E0,46606937,"96,21 M€","0,46 %",Arvopaperi,Neljännesvuosittain
+EXV8,iShares STOXX Europe 600 Construct & Material UCITS ETF (DE),DE000A0H08F7,46606940,"938,06 M€","0,46 %",Arvopaperi,Neljännesvuosittain
+EXH2,iShares STOXX Europe 600 Financial Services UCITS ETF (DE),DE000A0H08G5,46606951,"95,57 M€","0,46 %",Arvopaperi,Neljännesvuosittain
+EXH3,iShares STOXX Europe 600 Food & Beverage UCITS ETF (DE),DE000A0H08H3,46607109,"247,33 M€","0,46 %",Arvopaperi,Neljännesvuosittain
+EXV4,iShares STOXX Europe 600 Health Care UCITS ETF (DE),DE000A0Q4R36,46606995,"676,63 M€","0,46 %",Arvopaperi,Neljännesvuosittain
+EXH4,iShares STOXX Europe 600 Industrial Goods & Services UCITS DE,DE000A0H08J9,46607062,"540,46 M€","0,46 %",Arvopaperi,Neljännesvuosittain
+EXH5,iShares STOXX Europe 600 Insurance UCITS ETF (DE),DE000A0H08K7,46607081,"434,65 M€","0,46 %",Arvopaperi,Neljännesvuosittain
+EXH6,iShares STOXX Europe 600 Media UCITS ETF (DE),DE000A0H08L5,46606906,"28,29 M€","0,46 %",Arvopaperi,Neljännesvuosittain
+EXH1,iShares STOXX Europe 600 Oil & Gas UCITS ETF (DE),DE000A0H08M3,46607063,"627,48 M€","0,46 %",Arvopaperi,Neljännesvuosittain
+EXH7,iShares STOXX Europe 600 Personal & Household Goods UCITS ETF (DE),DE000A0H08N1,46606938,"166,67 M€","0,46 %",Arvopaperi,Neljännesvuosittain
+EXI5,iShares STOXX Europe 600 Real Estate UCITS ETF (DE),DE000A0Q4R44,46607432,"64,92 M€","0,46 %",Arvopaperi,Neljännesvuosittain
+EXH8,iShares STOXX Europe 600 Retail UCITS ETF (DE),DE000A0H08P6,46607158,"9,96 M€","0,46 %",Arvopaperi,Neljännesvuosittain
+EXV3,iShares STOXX Europe 600 Technology UCITS ETF (DE) EUR -D,DE000A0H08Q4,46606892,"174,87 M€","0,46 %",Arvopaperi,Neljännesvuosittain
+EXV2,iShares STOXX Europe 600 Telecommunications UCITS ETF (DE),DE000A0H08R2,46607129,"154,96 M€","0,46 %",Arvopaperi,Neljännesvuosittain
+EXV9,iShares STOXX Europe 600 Travel & Leisure UCITS ETF (DE),DE000A0H08S0,46607038,"59,41 M€","0,46 %",Arvopaperi,Neljännesvuosittain
+EXH9,iShares STOXX Europe 600 Utilities UCITS ETF (DE),DE000A0Q4R02,46606931,"916,06 M€","0,46 %",Arvopaperi,Neljännesvuosittain
+IS07,iShares STOXX World Equity Multifactor UCITS ETF Accum Shs Hedged EUR,IE00BYXPXK00,184835459,"26,43 M$","0,55 %",Arvopaperi,
+IBCZ,iShares STOXX World Equity Multifactor UCITS ETF Accum Shs USD,IE00BZ0PKT83,141622143,"784,32 M$","0,50 %",Arvopaperi,
+EUNX,iShares US Aggregate Bond UCITS ETF USD,IE00B44CGS96,162736203,"1 162,95 M$","0,25 %",Arvopaperi,Puolivuosittain
+IS3F,iShares USD Corp Bond Interest Rate Hedged UCITS ETF,IE00BCLWRB83,161589727,"81,54 M$","0,25 %",Arvopaperi,Neljännesvuosittain
+IBCD,iShares USD Corp Bond UCITS ETF,IE0032895942,161589234,"3 661,96 M$","0,20 %",Arvopaperi,Neljännesvuosittain
+QDVY,iShares USD Floating Rate Bond UCITS ETF Unhedged USD,IE00BZ048462,193346482,"393,58 M$","0,10 %",Arvopaperi,Puolivuosittain
+IS0R,iShares USD High Yield Corp Bond UCITS ETF,IE00B4PY7Y77,116984612,"2 449,45 M$","0,50 %",Arvopaperi,Puolivuosittain
+SXRF,iShares USD Intermediate Credit Bond UCITS ETF,IE00BDQZ5152,187694576,"673,6 M$","0,16 %",Arvopaperi,Puolivuosittain
+IS3J,iShares USD Short Duration Corp Bond UCITS ETF,IE00BCRY5Y77,142242364,"1 627,07 M$","0,20 %",Arvopaperi,Neljännesvuosittain
+IS3K,iShares USD Short Duration High Yield Corp Bond UCITS ETF,IE00BCRY6003,142242366,"884,85 M$","0,45 %",Arvopaperi,Puolivuosittain
+SXRH,iShares USD TIPS 0-5 UCITS ETF USD,IE00BDQYWQ65,187694578,"987,27 M$","0,10 %",Arvopaperi,Puolivuosittain
+IUST,iShares USD TIPS UCITS ETF,IE00B1FZSC47,114715789,"2 843,03 M$","0,10 %",Arvopaperi,
+IUSU,iShares USD Treasury Bond 1-3yr UCITS ETF USD,IE00B14X4S71,161589514,"2 423,71 M$","0,07 %",Arvopaperi,Puolivuosittain
+IUSM,iShares USD Treasury Bond 7-10yr UCITS ETF,IE00B1FZS798,17166573,"3 387,69 M$","0,07 %",Arvopaperi,Puolivuosittain
+IBB1,iShares USD Treasury Bond 7-10yr UCITS ETF Hedged EUR,IE00BGPP6697,247757649,"1 269,06 M$","0,10 %",Arvopaperi,Puolivuosittain
+SXRM,iShares USD Treasury Bond 7-10yr UCITS ETF USD (Acc) USD,IE00B3VWN518,31802428,"4 762,21 M$","0,07 %",Arvopaperi,
+IS04,iShares USD Treasury Bond 20+yr UCITS ETF,IE00BSKRJZ44,142242338,"1 009,72 M$","0,07 %",Arvopaperi,Puolivuosittain
+IS3L,iShares USD Ultrashort Bond UCITS ETF,IE00BCRY6227,142242368,"607,22 M$","0,09 %",Arvopaperi,Puolivuosittain
+QDVP,iShares US Mortgage Backed Securities UCITS ETF USD,IE00BZ6V7883,162034999,"908,75 M$","0,28 %",Arvopaperi,Puolivuosittain
+IQQ7,iShares US Property Yield UCITS ETF,IE00B1FZSF77,162736000,"639,86 M$","0,40 %",Arvopaperi,Neljännesvuosittain
+SXRG,iShares VII PLC - iShares MSCI USA Small Cap CTB Enhanced ESG UCITS ETF Accum.Ptg.Shs USD,IE00B3VWM098,31802422,"2 525,64 M$","0,43 %",Arvopaperi,
+MVEE,iShares VI plc - iShares Edge MSCI Europe Minimum Volatility Advanced UCITS ETF AccumEUR,IE00BKVL7D31,291647673,"26,98 M€","0,25 %",Arvopaperi,
+IS0Y,iShares V PLC - iShares EUR Corp Bond Interest Rate Hedged ESG SRI UCITS ETF Shs EUR,IE00B6X2VY59,164522117,"206,66 M€","0,25 %",Arvopaperi,Puolivuosittain
+DFNC,Ishares V Plc - Ishares Europe Defence Ucits ETF Accum Shs EUR,IE000IAXNM41,508787242,"341,71 M€","0,39 %",Arvopaperi,
+JREE,JPMorgan ETFs (IE) ICAV - Europe Res. Enh. In. Eq. Active,IE00BF4G7183,232084874,"2 624,4 M€","0,25 %",Arvopaperi,
+JREM,JPMorgan ETFs (IE) ICAV - Glb. EM REI Eq. Ind. Active,IE00BF4G6Z54,239263112,"2 053,55 M$","0,30 %",Arvopaperi,
+JPBM,JPMorgan ETFs (IE) ICAV - USD EM Sov. Bd. UCITS ETF,IE00BDFC6G93,211349032,"46,58 M$","0,66 %",Arvopaperi,Kuukausittain
+JMBE,JPMorgan ETFs (IE) ICAV - USD EM Sov. Bd. UCITS ETF,IE00BDDRDY39,232084881,"152,43 M$","0,67 %",Arvopaperi,
+JA13,JPMorgan ETFs (Ireland) ICAV - BetaBuilders US Treasury Bond 1-3 yr UCITS ETF USD,IE00BD9MMD49,220236981,169 M$,"0,10 %",Arvopaperi,Kuukausittain
+JPCT,JPMorgan ETFs (Ireland) ICAV - Carbon Transition Global Equity (CTB) UCITS ETF,IE00BMDWYZ92,312724587,"373,52 M$","0,23 %",Arvopaperi,
+JER5,JPMorgan ETFs (Ireland) ICAV - EUR 1-5 yr IG Corporate Bond Active UCITS ETF Accum EUR,IE00BF59RW70,239087344,"129,39 M€","0,15 %",Arvopaperi,
+JREB,JPMorgan ETFs (Ireland) ICAV - EUR IG Corporate Bond Active UCITS ETF Accum Shs EUR,IE00BF59RX87,239087342,"739,54 M€","0,16 %",Arvopaperi,
+JEST,JPMorgan ETFs (Ireland) ICAV - EUR Ultra-Short Income Active UCITS ETF AccumEUR,IE00BD9MMF62,220236983,"1 796,02 M€","0,19 %",Arvopaperi,
+JEQP,JPMORGAN ETFS (IRELAND) ICAV - NASDAQ Equity Premium Income Active Ucits ETF USD,IE000U9J8HX9,482104439,"3 053,99 M$","0,35 %",Arvopaperi,Kuukausittain
+JREG,JPMorgan ETFs IE ICAV - Global REI Equity Active UCITS,IE00BF4G6Y48,232084876,"6 085,94 M$","0,23 %",Arvopaperi,
+JPPA,JPM USD Ultra-Short Income Active UCITS ETF Accum Shs USD,IE00BG8BCY43,251690522,"863,87 M$","0,18 %",Arvopaperi,
+KWBE,KraneShares CSI China Internet UCITS ETF,IE00BFXR7892,435947818,"435,11 M$","0,75 %",Arvopaperi,
+BATE,L&G Battery Value-Chain UCITS ETF,IE00BF0M2Z96,291550099,"964,25 M$","0,49 %",Arvopaperi,
+ETLH,L&G Ecommerce Logistics UCITS ETF,IE00BF0M6N54,291550102,"74,74 M$","0,49 %",Arvopaperi,
+TOPB,L&G Global Brands UCITS ETF Accum USD,IE0007HKA9K1,435775272,"45,45 M$","0,39 %",Arvopaperi,
+HTMW,L&G Hydrogen Economy UCITS ETF USD,IE00BMYDM794,322815625,"541,77 M$","0,53 %",Arvopaperi,
+IROB,L&G ROBO Global Robotics and Automation UCITS ETF USD Class A,IE00BMW3QX54,291317899,"1 338,64 M$","0,80 %",Arvopaperi,
+XMLC,Legal & General Clean Water UCITS ETF Accum USD,IE00BK5BC891,291550125,"669,37 M$","0,49 %",Arvopaperi,
+XMLD,Legal & General UCITS ETF Plc - Artificial Intelligence,IE00BK5BCD43,291550123,"1 689,33 M$","0,49 %",Arvopaperi,
+USPY,Legal & General UCITS ETF PLC - Cyber Security UCITS ETF,IE00BYPLS672,291317909,"2 629,29 M$","0,73 %",Arvopaperi,
+XMLH,Legal & General UCITS ETF Plc - Healthcare Breakthrough,IE00BK5BC677,291550128,"183,75 M$","0,49 %",Arvopaperi,
+RENW,Legal & General UCITS ETF Plc - L&G Clean EnergyUCITS ETF AccumUSD,IE00BK5BCH80,312724616,"737,31 M$","0,49 %",Arvopaperi,
+ETLI,Legal & General UCITS ETF Plc - Pharma Breakthrough,IE00BF0H7608,291550106,"18,81 M$","0,49 %",Arvopaperi,
+ETLS,Legal & General UCITS ETF Plc - US Equity,IE00BFXR5Q31,291550121,"1 424,15 M$","0,05 %",Arvopaperi,
+PAC,MSCI Pacific ex Japan ESG Filtered Min TE UCITS ETF Capitalisation,LU1291106356,170544044,,,Arvopaperi,
+MD4X,Multi Units France - Amundi MDAX UCITS ETF,FR0011857234,104868905,"208,37 M€","0,20 %",Arvopaperi,
+LYM9,Multi Units France - Amundi MSCI New Energy ESG Screened UCITS,FR0010524777,20764507,"939,81 M€","0,69 %",Arvopaperi,Vuosittain
+LYMS,Multi Units Lu - Amundi Core Nasdaq-100 Swap,LU1829221024,242978044,"5 090,76 M€","0,22 %",Johdannainen,
+LYEB,Multi Units LU - Amundi EUR Corp. Bond PAB Net Zero Ambition,LU1829219127,233420821,"1 152,66 M€","0,14 %",Arvopaperi,
+LBRE,Multi Units LU - Amundi STOXX Europe 600 Basic Resources,LU1834983550,242978048,"464,3 M€","0,30 %",Johdannainen,
+LCUJ,Multi Units Luxembourg SICAV - Amundi Core MSCI Japan UCITS ETF Acc,LU1781541252,213216723,933 000 MJPY,"0,12 %",Arvopaperi,
+KLMT,Multi Units Luxembourg SICAV - Amundi Global Aggregate Green Bond Acc Capitalisation,LU1563454310,281485839,"264,7 M€","0,00 %",Arvopaperi,
+LSMC,Multi Units Luxembourg SICAV - Amundi MSCI Semiconductors,LU1900066033,24871578,"1 534,52 M$","0,35 %",Arvopaperi,
+LYPG,Multi Units Luxembourg SICAV - Amundi MSCI World Information Technology UCITS ETF EUR ACC,LU0533033667,39196822,"2 450,71 M€","0,30 %",Johdannainen,
+USCP,Ossiam Shiller Barclays Cape US Sector Value UCITS ETF 1C EUR,LU1079841273,138108268,"733,57 M€","0,65 %",Johdannainen,
+COVR,PIMCO Advantage Covered Bond UCITS ETF EUR,IE00BF8HV717,95695547,,,Arvopaperi,Vuosittain
+LDCE,PIMCO ETFs PLC - PIMCO Advantage Euro Low Duration Corporate Bond UCITS ETF Shs EUR,IE00BP9F2J32,118860784,"146,35 M€","0,31 %",Arvopaperi,Neljännesvuosittain
+EUHA,PIMCO ETFs PLC - PIMCO Advantage Euro Short-Term High Yield Corporate Bond UCITS ETF Accum Shs EUR,IE00BD8D5G25,200076587,"403,42 M€","0,45 %",Arvopaperi,
+PJS1,PIMCO Euro Short Maturity UCITS ETF,IE00B5ZR2157,42215196,"685,01 M€","0,19 %",Arvopaperi,Kuukausittain
+PJSR,PIMCO Euro Short Maturity UCITS ETF,IE00BVZ6SP04,132842196,"833,68 M€","0,19 %",Arvopaperi,
+CIRC,Rize Circular Economy Enablers Ucits ETF,IE000RMSPY39,422092209,"2,46 M$","0,45 %",Arvopaperi,
+RCRS,Rize Cybersecurity and Data Privacy UCITS ETF Accum USD,IE00BJXRZJ40,282529257,99 M$,"0,71 %",Arvopaperi,
+WRLD,Rize Environmental Impact 100 UCITS ETF AccumUSD,IE00BLRPRR04,346035383,"137,77 M$","0,55 %",Arvopaperi,
+RIZD,Rize Global Sustainable Infrastructure UCITS ETF,IE000QUCVEN9,431345288,"81,88 M$","0,45 %",Arvopaperi,Puolivuosittain
+RIZF,Rize Sustainable Future of Food UCITS ETF,IE00BLRPQH31,305407033,"64,86 M$","0,45 %",Arvopaperi,
+RIZJ,Rize USA Environmental Impact UCITS ETF AccumUSD,IE000PY7F8J9,431345289,"8,28 M$","0,46 %",Arvopaperi,
+SLG OMXH25,Seligson & Co OMX Helsinki 25 Exchange Traded Fund Units,FI0008805627,4889788,"706,94 M€","0,15 %",Arvopaperi,
+FCO2,SparkChange Physical Carbon EUA ETC,XS2353177293,382211669,"78,39 M€","0,89 %",Arvopaperi,
+U8NJ,Sprott Junior Uranium Miners UCITS ETF AccumUSD,IE00075IVKF9,528425787,"75,79 M$","0,85 %",Arvopaperi,
+U3O8,Sprott Uranium Miners UCITS ETF,IE0005YK6564,528425755,"411,42 M$","0,85 %",Arvopaperi,
+SPYC,SSgA SPDR ETFs Europe II Plc - MSCI Eur. Consumer Staples ETF,IE00BKWQ0D84,119591401,"134,81 M€","0,18 %",Arvopaperi,
+SPYR,SSgA SPDR ETFs Europe II Plc - MSCI Europe Consumer Discretion,IE00BKWQ0C77,119591400,"48,1 M€",,Arvopaperi,
+SPYP,SSgA SPDR ETFs Europe II Plc - MSCI Europe Materials ETF,IE00BKWQ0L68,119591407,"100,01 M€","0,18 %",Arvopaperi,
+ZPDH,SSgA SPDR ETFs Europe II Plc - S&P US Health Care Sel. Sec. UCITS ETF Accum Ptg USD,IE00BWBXM617,136756566,"467,88 M$","0,15 %",Arvopaperi,
+SYBQ,SSgA SPDR ETFs EUROPE II PLC - State Street SPDR Bloomberg 0-5 Year Sterling Corporate Bond UCITS ETF GBP,IE00BCBJF711,98204474,"148,33 M£","0,20 %",Arvopaperi,Puolivuosittain
+SYB4,SSgA SPDR ETFs Europe II PLC - State Street SPDR Bloomberg 3-5 Year Euro Government Bond UCITS ETF Shs EUR,IE00BS7K8821,119258982,"28,34 M€","0,15 %",Arvopaperi,Puolivuosittain
+SPF1,SSgA SPDR ETFs Europe II PLC - State Street SPDR FTSE Global Convertible Bond UCITS ETF,IE00BDT6FP91,218537340,"1 146,19 M$","0,76 %",Arvopaperi,
+ZPRC,SSgA SPDR ETFs Europe II PLC - State Street SPDR FTSE Global Convertible Bond UCITS ETF Shs USD,IE00BNH72088,114934226,"986,04 M$","0,70 %",Arvopaperi,Puolivuosittain
+ZPR5,SSgA SPDR ETFs EUROPE II PLC - State Street SPDR ICE BofA 0-5 Year EM USD Government Bond UCITS ETF USD,IE00BP46NG52,117156187,"26,31 M$","0,42 %",Arvopaperi,Puolivuosittain
+ZPRI,SSgA SPDR ETFs Europe II PLC - State Street SPDR Morningstar Multi-Asset Global Infrastructure UCITS ETF Ptg USD,IE00BQWJFQ70,130201928,,,Arvopaperi,Puolivuosittain
+SPYT,SSgA SPDR ETFs Europe II PLC - State Street SPDR MSCI Europe Communication Services UCITS ETF Accum EUR,IE00BKWQ0N82,119591409,"52,22 M€","0,18 %",Arvopaperi,
+ZPRX,SSgA SPDR ETFs Europe II PLC - State Street SPDR MSCI Europe Small Cap Value Weighted UCITS ETF Accum Ptg EUR,IE00BSPLC298,125378851,"638,77 M€","0,30 %",Arvopaperi,
+ZPRV,SSgA SPDR ETFs Europe II PLC - State Street SPDR MSCI USA Small Cap Value Weighted UCITS ETF Accum Ptg USD,IE00BSPLC413,125378849,"953,78 M$","0,30 %",Arvopaperi,
+ZPRR,SSgA SPDR ETFs EUROPE II PLC - State Street SPDR RUSSELL 2000 U.S. SMALL CAP UCITS ETF Accum Ptg USD,IE00BJ38QD84,105637563,"5 067,63 M$","0,30 %",Arvopaperi,
+ZPDK,SSgA SPDR ETFs Europe II PLC - State Street SPDR S&P U.S. Communication Services Select Sector UCITS ETF AccumUSD,IE00BFWFPX50,226225110,"335,88 M$","0,15 %",Arvopaperi,
+ZPDD,SSgA SPDR ETFs Europe II PLC - State Street SPDR S&P U.S. Consumer Discretionary Select Sector UCITS ETF Accum.Ptg.Shs USD,IE00BWBXM278,136756562,"135,36 M$","0,15 %",Arvopaperi,
+ZPDS,SSgA SPDR ETFs Europe II PLC - State Street SPDR S&P U.S. Consumer Staples Select Sector UCITS ETF Accum.Ptg.Shs USD,IE00BWBXM385,136756563,"225,91 M","0,15 %",Arvopaperi,
+ZPDE,SSgA SPDR ETFs Europe II PLC - State Street SPDR S&P U.S. Energy Select Sector UCITS ETF Accum.Ptg.Shs USD,IE00BWBXM492,136756564,"839,89 M$","0,15 %",Arvopaperi,
+ZPDF,SSgA SPDR ETFs Europe II PLC - State Street SPDR S&P U.S. Financials Select Sector UCITS ETF Accum.Ptg.Shs USD,IE00BWBXM500,136756565,"647,93 M$","0,15 %",Arvopaperi,
+ZPDI,SSgA SPDR ETFs Europe II PLC - State Street SPDR S&P U.S. Industrials Select Sector UCITS ETF Accum.Ptg.Shs USD,IE00BWBXM724,136756567,"790,41 M$","0,15 %",Arvopaperi,
+ZPDM,SSgA SPDR ETFs Europe II PLC - State Street SPDR S&P U.S. Materials Select Sector UCITS ETF Accum.Ptg.Shs USD,IE00BWBXM831,136756568,"165,31 M$","0,15 %",Arvopaperi,
+ZPDT,SSgA SPDR ETFs Europe II PLC - State Street SPDR S&P U.S. Technology Select Sector UCITS ETF Accum.Ptg.Shs USD,IE00BWBXM948,136756569,"1 526,66 M$","0,15 %",Arvopaperi,
+ZPDU,SSgA SPDR ETFs Europe II PLC - State Street SPDR S&P U.S. Utilities Select Sector UCITS ETF Accum.Ptg.Shs USD,IE00BWBXMB69,136756570,"218,11 M$","0,15 %",Arvopaperi,
+SYBV,SSgA SPDR ETFs Europe I Plc - Blm. 10+ Yr. EUR Gov. Bd. ETF,IE00BYSZ6062,154851895,"134,87 M€","0,15 %",Arvopaperi,Puolivuosittain
+SYBR,SSgA SPDR ETFs Europe I Plc - Blmb. 1-10 Yr. U.S. Corp. Bd.,IE00BYV12Y75,154851892,"619,98 M$","0,12 %",Arvopaperi,Puolivuosittain
+SYBL,SSgA SPDR ETFs Europe I Plc - Blmb. 15+ Yr. Gilt UCITS ETF,IE00B6YX5L24,64135295,"244,68 M£","0,15 %",Arvopaperi,Puolivuosittain
+ZPRP,SSgA SPDR ETFs Europe I Plc - FTSE EPRA Eur. ex-UK Real.,IE00BSJCQV56,139116983,"137,33 M€","0,30 %",Arvopaperi,
+SPYI,SSGA SPDR ETFs Europe I Plc - MSCI All Con. Wld. Inv. Mkt.,IE00B3YLTY66,46380703,"5 694,37 M$","0,18 %",Arvopaperi,
+SPYY,SSGA SPDR ETFs Europe I Plc - MSCI All Con. Wld. UCITS ETF,IE00B44Z5B48,46380702,11 325 M$,"0,12 %",Arvopaperi,
+SPYX,SSgA SPDR ETFs Europe I Plc - MSCI Em. Mkts. Small Cap ETF,IE00B48X4842,46380705,"530,5 M$","0,55 %",Arvopaperi,
+ZPRE,SSgA SPDR ETFs Europe I Plc - MSCI EMU UCITS ETF,IE00B910VR50,76091632,"329,03 M€","0,18 %",Arvopaperi,
+SPYV,SSgA SPDR ETFs Europe I Plc - S&P Em. Mkts. Div. UCITS ETF,IE00B6YX5B26,52939550,"173,71 M$","0,55 %",Arvopaperi,Puolivuosittain
+SPYW,SSgA SPDR ETFs Europe I Plc - S&P Euro Div. Aristo. ETF,IE00B5M1WJ87,59438340,"1 631,15 M€","0,30 %",Arvopaperi,Puolivuosittain
+SYBD,SSGA SPDR ETFs Europe I PLC - State Street SPDR Bloomberg 0-3 Year Euro Corporate Scored UCITS ETF EUR,IE00BC7GZW19,85943833,"697,28 M€","0,20 %",Arvopaperi,Puolivuosittain
+SYBF,SSGA SPDR ETFs Europe I PLC - State Street SPDR Bloomberg 0-3 Year U.S. Corporate Bond UCITS ETF USD,IE00BC7GZX26,85943836,"106,54 M$","0,12 %",Arvopaperi,Puolivuosittain
+ZPR1,SSGA SPDR ETFs Europe I PLC - State Street SPDR Bloomberg 1-3 Month T-Bill UCITS ETF Accum USD,IE00BJXRT698,262024208,"867,23 M$","0,10 %",Arvopaperi,
+SYB3,SSGA SPDR ETFs Europe I PLC - State Street SPDR Bloomberg 1-3 Year Euro Government Bond UCITS ETF EUR,IE00B6YX5F63,54596672,"849,25 M€","0,15 %",Arvopaperi,Puolivuosittain
+SYB5,SSGA SPDR ETFs Europe I PLC - State Street SPDR Bloomberg 1-5 Year Gilt UCITS ETF GBP,IE00B6YX5K17,60207176,"245,37 M£","0,15 %",Arvopaperi,Puolivuosittain
+SPP3,SSGA SPDR ETFs Europe I PLC - State Street SPDR Bloomberg 3-7 Year U.S. Treasury Bond UCITS ETF USD,IE00BYSZ5R67,154851896,"105,72 M$","0,15 %",Arvopaperi,Puolivuosittain
+SYBN,SSGA SPDR ETFs Europe I PLC - State Street SPDR Bloomberg 10+ Year U.S. Corporate Bond UCITS ETF USD,IE00BZ0G8860,148525011,"66,18 M$","0,12 %",Arvopaperi,Puolivuosittain
+SPPX,SSGA SPDR ETFs Europe I PLC - State Street SPDR Bloomberg 10+ Year U.S. Treasury Bond UCITS ETF USD,IE00BYSZ5V04,154851899,"130,92 M$","0,05 %",Arvopaperi,Puolivuosittain
+SYBM,SSGA SPDR ETFs Europe I PLC - State Street SPDR Bloomberg Emerging Markets Local Bond UCITS ETF USD,IE00B4613386,46436694,"1 522,58 M$","0,55 %",Arvopaperi,Puolivuosittain
+SYBA,SSGA SPDR ETFs Europe I PLC - State Street SPDR Bloomberg Euro Aggregate Bond UCITS ETF EUR,IE00B41RYL63,46380709,"583,54 M€","0,17 %",Arvopaperi,Puolivuosittain
+SYBB,SSGA SPDR ETFs Europe I PLC - State Street SPDR Bloomberg Euro Government Bond UCITS ETF EUR,IE00B3S5XW04,46380710,"412,49 M€","0,10 %",Arvopaperi,Puolivuosittain
+SYBS,SSGA SPDR ETFs Europe I PLC - State Street SPDR Bloomberg Sterling Corporate Bond UCITS ETF GBP,IE00B4694Z11,47003809,"152,61 M£","0,20 %",Arvopaperi,Puolivuosittain
+SYBT,SSGA SPDR ETFs Europe I PLC - State Street SPDR Bloomberg U.S. Treasury Bond UCITS ETF USD,IE00B44CND37,47003810,"311,87 M$","0,15 %",Arvopaperi,Puolivuosittain
+,SSGA SPDR ETFs Europe I PLC - State Street SPDR S&P 500 UCITS ETF Accum shs - USD,IE000XZSV718,438488257,"16 103,5 M$","0,03 %",Arvopaperi,
+SPY5,SSGA SPDR ETFs Europe I PLC - State Street SPDR S&P 500 UCITS ETF USD,IE00B6YX5C33,60112548,"19 419,7 M$","0,03 %",Arvopaperi,Neljännesvuosittain
+ZPRG,SSGA SPDR ETFs Europe I PLC - State Street SPDR S&P Global Dividend Aristocrats UCITS ETF Ptg USD,IE00B9CQXS71,81184385,"1 336,39 M$","0,45 %",Arvopaperi,Neljännesvuosittain
+ZPRA,SSGA SPDR ETFs Europe I PLC - State Street SPDR S&P Pan Asia Dividend Aristocrats UCITS ETF Ptg USD,IE00B9KNR336,81184384,"248,21 M$","0,55 %",Arvopaperi,Puolivuosittain
+SYBW,State Street SPDR Bloomberg 1-3 Year U.S. Treasury Bond UCITS ETF Shs USD,IE00BC7GZJ81,85943821,"82,3 M$","0,18 %",Arvopaperi,Puolivuosittain
+SPP7,State Street SPDR Bloomberg 7-10 Year U.S. Treasury Bond UCITS ETF USD,IE00BYSZ5T81,154851898,"15,79 M$","0,16 %",Arvopaperi,Puolivuosittain
+SYBC,State Street SPDR Bloomberg Euro Corporate Bond UCITS ETF EUR,IE00B3T9LM79,46380711,"724,81 M€","0,12 %",Arvopaperi,Puolivuosittain
+SYBJ,State Street SPDR Bloomberg Euro High Yield Bond UCITS ETF EUR,IE00B6YX5M31,58866129,"511,71 M€","0,40 %",Arvopaperi,Puolivuosittain
+SYBU,State Street SPDR Bloomberg U.S. Aggregate Bond UCITS ETF Shs USD,IE00B459R192,47003807,"181,83 M$","0,17 %",Arvopaperi,Puolivuosittain
+SYBK,State Street SPDR Bloomberg U.S. High Yield Corporate Scored UCITS ETF USD,IE00B99FL386,88659545,"179,91 M$","0,30 %",Arvopaperi,Puolivuosittain
+SYBY,State Street SPDR Bloomberg U.S. TIPS UCITS ETF USD,IE00BZ0G8977,148525012,"239,46 M$","0,17 %",Arvopaperi,Puolivuosittain
+SYBG,State Street SPDR Bloomberg UK Gilt UCITS ETF GBP,IE00B3W74078,64135294,"871,98 M£","0,15 %",Arvopaperi,Puolivuosittain
+SPY2,State Street SPDR Dow Jones Global Real Estate UCITS ETF Accum Unhedged USD,IE00BH4GR342,270773904,"52,59 M$","0,40 %",Arvopaperi,
+SPYJ,State Street SPDR Dow Jones Global Real Estate UCITS ETF USD,IE00B8GF1M35,72284859,"348,65 M$","0,40 %",Arvopaperi,Neljännesvuosittain
+ZPRL,State Street SPDR EURO STOXX Low Volatility UCITS ETF Accum.Shs EUR,IE00BFTWP510,100066763,"32,84 M€","0,30 %",Arvopaperi,
+SPYF,State Street SPDR FTSE UK All Share UCITS ETF Accum. GBP,IE00B7452L46,59417714,"380,74 M£","0,20 %",Arvopaperi,
+SPYA,State Street SPDR MSCI EM Asia UCITS ETF Accum USD,IE00B466KX20,46380706,"1 586,76 M$","0,55 %",Arvopaperi,
+SPYM,State Street SPDR MSCI Emerging Markets UCITS ETF Accum.Shs USD,IE00B469F816,46380704,"1 942,55 M$","0,18 %",Arvopaperi,
+SPYN,State Street SPDR MSCI Europe Energy UCITS ETF,IE00BKWQ0F09,119591402,"683,68 M€","0,30 %",Arvopaperi,
+SPYZ,State Street SPDR MSCI Europe Financials UCITS ETF,IE00BKWQ0G16,119591403,"712,29 M€","0,18 %",Arvopaperi,
+SPYH,State Street SPDR MSCI Europe Health Care UCITS ETF Accum Ptg EUR,IE00BKWQ0H23,119591404,"520,11 M€",,Arvopaperi,
+SPYQ,State Street SPDR MSCI Europe Industrials UCITS ETF,IE00BKWQ0J47,119591405,"1 144,79 M€","0,18 %",Arvopaperi,
+SPYK,State Street SPDR MSCI Europe Technology UCITS ETF Accum Ptg EUR,IE00BKWQ0K51,119591406,"198,87 M€","0,18 %",Arvopaperi,
+SPYE,State Street SPDR MSCI Europe UCITS ETF,IE00BKWQ0Q14,119591411,"386,39 M€","0,25 %",Arvopaperi,
+SPYU,State Street SPDR MSCI Europe Utilities UCITS ETF,IE00BKWQ0P07,119591410,"787,87 M€","0,18 %",Arvopaperi,
+ZPRW,State Street SPDR MSCI Europe Value UCITS ETF Accum EUR,IE00BSPLC306,125378850,"64,12 M€","0,20 %",Arvopaperi,
+ZPDJ,State Street SPDR MSCI Japan UCITS ETF,IE00BZ0G8B96,148255425,151 126 MJPY,"0,12 %",Arvopaperi,
+ZPDW,State Street SPDR MSCI Japan UCITS ETF Accum.Ptg. Class Hedged EUR,IE00BZ0G8C04,148255426,"47,13 MJPY","0,17 %",Arvopaperi,
+ZPRU,State Street SPDR MSCI USA Value UCITS ETF Accum USD,IE00BSPLC520,125378848,"194,07 M$","0,20 %",Arvopaperi,
+ZPRS,State Street SPDR MSCI World Small Cap UCITS ETF Accum.Shs USD,IE00BCBJG560,91960951,"1 807,75 M$","0,47 %",Arvopaperi,
+SPY4,State Street SPDR S&P 400 US Mid Cap UCITS ETF,IE00B4YBJ215,58651288,"5 786,86 M$","0,30 %",Arvopaperi,
+SPPY,State Street SPDR S&P 500 Leaders UCITS ETF Accum Shs USD,IE00BH4GPZ28,275590780,"5 252,81 M$","0,03 %",Arvopaperi,
+SPY1,State Street SPDR S&P 500 Low Volatility UCITS ETF,IE00B802KR88,69418119,"114,08 M$","0,35 %",Arvopaperi,
+SPYG,State Street SPDR S&P UK Dividend Aristocrats UCITS ETF GBP,IE00B6S2Z822,59438356,"132,6 M£","0,30 %",Arvopaperi,Puolivuosittain
+SPPD,State Street SPDR S&P US Dividend Aristocrats UCITS ETF Hedged EUR,IE00B979GK47,258886121,"45,42 M$","0,40 %",Arvopaperi,Neljännesvuosittain
+SPYD,State Street SPDR S&P US Dividend Aristocrats UCITS ETF USD,IE00B6YX5D40,52939551,"3 611,48 M$","0,35 %",Arvopaperi,Neljännesvuosittain
+ZPDX,State Street SPDR STOXX Europe 600 SRI UCITS ETF Accum Unhedged EUR,IE00BK5H8015,269304804,"480,86 M€","0,12 %",Arvopaperi,
+AW1Z,UBS (Irl) ETF plc - UBS MSCI EMU Climate Paris Aligned UCITS ETF Accum EUR,IE00BN4Q0L55,328707787,"4,44 M€","0,14 %",Arvopaperi,
+AW13,UBS (Irl) ETF plc - UBS MSCI Europe Climate Paris Aligned UCITS ETF Accum EUR,IE00BN4Q0933,328707789,"5,85 M€","0,15 %",Arvopaperi,
+AW15,UBS (Irl) ETF plc - UBS MSCI Japan Climate Paris Aligned UCITS ETF Accum JPY,IE00BN4Q0X77,328707790,"26 503,9 MJPY","0,12 %",Arvopaperi,
+AW16,UBS (Irl) ETF plc - UBS MSCI USA Climate Paris Aligned UCITS ETF Accum USD,IE00BN4Q0602,328707791,"120,31 M$","0,09 %",Arvopaperi,
+AW10,UBS (Irl) ETF plc - UBS MSCI World ex USA Climate Paris Aligned UCITS ETF Accum USD,IE00BN4Q0370,328707788,"56,37 M$","0,20 %",Arvopaperi,
+FRCK,UBS (Lux) Fund Solutions SICAV - UBS BBG USD EM Sovereign UCITS ETF -hEUR acc- Capitalisation,LU1324516308,160912582,"255,76 M$","0,28 %",Arvopaperi,
+UETC,UBS (Lux) Fund Solutions SICAV - UBS MSCI China Universal UCITS ETF Adis- Distribution,,263730061,"236,37 M$","0,30 %",Arvopaperi,Puolivuosittain
+UIMT,UBS (Lux) Fund Solutions SICAV - UBS MSCI Pacific Socially Responsible UCITS ETF USD dis- Distribution,LU0629460832,50638342,"731,73 M$","0,28 %",Arvopaperi,Puolivuosittain
+UIMP,UBS (Lux) Fund Solutions SICAV - UBS MSCI USA Socially Responsible UCITS ETF USD dis- Distribution,LU0629460089,50638338,"805,28 M$","0,20 %",Arvopaperi,Puolivuosittain
+FRCJ,UBS ETF SICAV - MSCI Japan Socially Responsible UCITS ETF -(JPY) A-dis- Distribution,LU1230561679,139796605,"50 917,4 MJPY","0,20 %",Arvopaperi,Puolivuosittain
+UIMR,UBS ETF SICAV - UBS ETF - MSCI EMU Socially Responsible UCITS ETF A Distribution,LU0629460675,50638340,"775,1 M€","0,20 %",Arvopaperi,Puolivuosittain
+SEAC,UBS ETF SICAV - UBS ETF - MSCI World Socially Responsible UCITS ETF A Capitalisation,LU0950674332,210391275,"1 899,85 M$","0,22 %",Arvopaperi,
+UIMM,UBS ETF SICAV - UBS ETF - MSCI World Socially Responsible UCITS ETF A Distribution,LU0629459743,50638336,"4 552,82 M$","0,22 %",Arvopaperi,Puolivuosittain
+GGUE,UBS Global Gender Equality UCITS ETF Accum h EUR,IE00BDR5H073,281871422,"23,28 M$","0,40 %",Arvopaperi,
+UEF5,UBS MSCI EM Socially Responsible UCITS ETF USD dis Distribution,LU1048313891,112392528,"2 745,57 M$","0,24 %",Arvopaperi,Puolivuosittain
+UBUM,UBS S&P Dividend Aristocrats ESG Elite UCITS ETF Shs USD,IE00BMP3HG27,112392525,"143,28 M$","0,30 %",Arvopaperi,Puolivuosittain
+JRUB,USD IG Corporate Bond Active UCITS ETF Accum USD,IE00BF59RV63,239087340,"37,11 M$","0,20 %",Arvopaperi,
+JREU,US Research Enhanced Index Equity Active UCITS ETF,IE00BF4G7076,232084878,"11 082,5 M$","0,20 %",Arvopaperi,
+DAVV,VanEck Crypto and Blockchain Innovators UCITS ETF,IE00BMDKNW35,333372350,"681,77 M$","0,65 %",Arvopaperi,
+DFEN,VanEck Defense UCITS ETF,IE000YYE6WK5,416808737,"8 488,61 M$","0,55 %",Arvopaperi,
+G2X,VanEck Gold Miners UCITS ETF Accum A USD,IE00BQQP9F84,133689066,"3 711,02 M$","0,53 %",Arvopaperi,
+HDR0,VanEck Hydrogen Economy UCITS ETF Accum A USD,IE00BMDH1538,328707786,"119,42 M$","0,55 %",Arvopaperi,
+EM1C,VanEck J.P. Morgan EM Local Currency Bond UCITS ETF Accum A USD,IE00BDS67326,186959925,"248,08 M$","0,30 %",Arvopaperi,
+G2XJ,VanEck Junior Gold Miners UCITS ETF Accum A USD,IE00BQQP9G91,133689067,"1 342,26 M$","0,55 %",Arvopaperi,Vuosittain
+VVGM,VanEck Morningstar Global Wide Moat UCITS ETF Accum A USD,IE00BL0BMZ89,300067776,"171,27 M$","0,52 %",Arvopaperi,
+GMVM,VanEck Morningstar US ESG Wide Moat UCITS ETF,IE00BQQP9H09,146473935,"358,14 M$","0,49 %",Arvopaperi,
+SMTV,VanEck Morningstar US SMID Moat UCITS ETF Accum A USD,IE000SBU19F7,446979933,"14,46 M$","0,50 %",Arvopaperi,
+WMOT,VanEck Morningstar US Wide Moat UCITS ETF Accum A USD,IE0007I99HX7,446979934,"40,09 M$","0,50 %",Arvopaperi,
+QUTM,VanEck Quantum Computing UCITS ETF Accum Shs -A- USD,IE0007Y8Y157,508412526,"616,93 M$","0,55 %",Arvopaperi,
+VVMX,VanEck Rare Earth and Strategic Metals UCITS ETF Accum A USD,IE0002PG6CA6,352970569,"1 457,76 M$","0,59 %",Arvopaperi,
+WMIN,VanEck S&P Global Mining UCITS ETF A USD,IE00BDFBTQ78,216854286,"1 983,26 M$","0,50 %",Arvopaperi,
+VVSM,VanEck Semiconductor UCITS ETF Accum A USD,IE00BMC38736,315665759,"6 062,53 M$","0,35 %",Arvopaperi,
+JEDI,VanEck Space Innovators UCITS ETF Accum A USD,IE000YU9K6K2,385097867,"1 607,49 M$","0,55 %",Arvopaperi,
+HY3M,VanEck UCITS ETFs Plc - Emerging Mkts. High Yld. Bd.,IE00BF541080,214470101,"47,15 M$","0,40 %",Arvopaperi,
+ESP0,VanEck UCITS ETFs Plc - Video Gaming & eSports,IE00BYWQWR46,259832631,"662,92 M$","0,55 %",Arvopaperi,
+NUKL,VanEck Uranium and Nuclear Technologies UCITS ETF Accum A USD,IE000M7V94E1,410229479,"2 711,6 M$","0,55 %",Arvopaperi,
+VDIV,VanEck Vectors ETFs NV - Morningstar Dev. Mrkts. Div. Ldrs.,NL0011683594,238696445,"7 465,28 M€","0,38 %",Arvopaperi,Neljännesvuosittain
+TSWE,VanEck World Equal Weight Screened UCITS ETF,NL0010408704,353729450,"1 229,61 M€","0,30 %",Arvopaperi,Neljännesvuosittain
+V3AA,Vanguard ESG Global All CapUCITS ETF AccumUSD,IE00BNG8L278,328137167,"950,25 M$","0,24 %",Arvopaperi,
+VECP,Vanguard EUR Corporate Bond UCITS ETF,IE00BZ163G84,201301176,"2 988,79 M€","0,07 %",Arvopaperi,Kuukausittain
+VMID,Vanguard FTSE 250 UCITS ETF,IE00BKX55Q28,201177728,"1 449,57 M£","0,10 %",Arvopaperi,Neljännesvuosittain
+VGWD,Vanguard FTSE All-World High Dividend Yield UCITS ETF USD,IE00B8GKDB10,201301179,"9 251,86 M$","0,29 %",Arvopaperi,Neljännesvuosittain
+VGWL,Vanguard FTSE All-World UCITS ETF,IE00B3RBWM25,201301177,"24 015,7 M$","0,19 %",Arvopaperi,Neljännesvuosittain
+VWCE,Vanguard FTSE All-World UCITS ETF Accum USD,IE00BK5BQT80,262733170,"41 406,1 M$","0,19 %",Arvopaperi,
+VGEK,Vanguard FTSE Developed Asia Pacific ex Japan UCITS ETF Accum Shs USD,IE00BK5BQZ41,268900171,"826,22 M$","0,15 %",Arvopaperi,
+VWCG,Vanguard FTSE Developed Europe UCITS ETF Accum EUR,IE00BK5BQX27,262733175,"2 440,35 M€","0,10 %",Arvopaperi,
+VGVE,Vanguard FTSE Developed World UCITS ETF,IE00BKX55T58,201177730,"4 282,12 M$","0,12 %",Arvopaperi,Neljännesvuosittain
+VGVF,Vanguard FTSE Developed World UCITS ETF USD,IE00BK5BQV03,281299974,"6 393,54 M$","0,12 %",Arvopaperi,
+VFEM,Vanguard FTSE Emerging Markets UCITS ETF,IE00B3VVMM84,201177799,"3 467,16 M$","0,22 %",Arvopaperi,Neljännesvuosittain
+VFEA,Vanguard FTSE Emerging Markets UCITS ETF AccumUSD,IE00BK5BR733,268900173,"2 122,01 M$","0,22 %",Arvopaperi,
+VJPA,Vanguard FTSE Japan UCITS ETF Accum Shs USD,IE00BFMXYX26,268900169,"1 340,74 M$","0,15 %",Arvopaperi,
+VNRA,Vanguard FTSE North America UCITS ETF Accum Shs USD,IE00BK5BQW10,262733172,"2 793,06 M$","0,10 %",Arvopaperi,
+VGWE,Vanguard Funds PLC - Vanguard FTSE All-World High Dividend Yield UCITS ETF AccumUSD,IE00BK5BR626,295960965,"2 480,48 M$","0,29 %",Arvopaperi,
+VAGF,Vanguard Global Aggregate Bond UCITS ETF Accum Shs Hedged EUR,IE00BG47KH54,259346012,"1 961,95 M£","0,10 %",Arvopaperi,
+V80A,Vanguard LifeStrategy 80% Equity UCITS ETF,IE00BMVB5R75,316449220,"1 009,05 M€","0,25 %",Arvopaperi,
+VUSA,Vanguard S&P 500 UCITS ETF,IE00B3XXRP09,201301178,49 556 M$,"0,07 %",Arvopaperi,Neljännesvuosittain
+VUCP,Vanguard USD Corporate Bond UCITS ETF,IE00BZ163K21,201177740,"733,75 M$","0,09 %",Arvopaperi,Kuukausittain
+VUCE,Vanguard USD Corporate Bond UCITS ETF Accum Unhedged USD,IE00BGYWFK87,258368278,"3 102,4 M$","0,09 %",Arvopaperi,
+VIRETHE,Virtune Staked Ethereum ETP,SE0020541639,491023799,"335,79 M$","1,40 %",Johdannainen,
+VIRSOLE,Virtune Staked Solana ETP,SE0021309754,491023836,"187,85 M$","0,95 %",Arvopaperi,
+OD7U,WisdomTree Agriculture,GB00B15KYH63,15974957,"930,18 M$","0,49 %",Johdannainen,
+4RTR,WisdomTree Agriculture 2x Daily Leveraged,,392308644,"5,67 M$","0,98 %",Johdannainen,
+9GAL,WisdomTree Agriculture Longer Dated (German Cert.),JE00B24DMK23,392308388,"3,79 M$","0,49 %",Johdannainen,
+OD7A,WisdomTree Aluminium (German Cert.),GB00B15KXN58,15974918,"118,62 M$","0,54 %",Johdannainen,
+WTI2,WisdomTree Artificial Intelligence UCITS ETF USD Acc,IE00BDVPNG13,303044367,"1 149,24 M$","0,40 %",Arvopaperi,
+WTEB,WisdomTree AT1 CoCo Bond UCITS ETF EUR Hedged,IE00BFNNN236,303044362,"288,87 M$","0,39 %",Arvopaperi,Neljännesvuosittain
+W1TA,WisdomTree Battery Solutions UCITS ETF USD Acc,IE00BKLF1R75,303044374,"192,02 M$","0,40 %",Arvopaperi,
+WRNA,WisdomTree BioRevolution UCITS ETF AccumUSD,IE000O8KMPM1,360597753,"13,17 M$","0,45 %",Arvopaperi,
+OOEA,WisdomTree Brent Crude Oil,JE00B78CGV99,60806414,"1 025,61 M$","0,54 %",Johdannainen,
+00XT,WisdomTree Brent Crude Oil - EUR Daily Hedged,JE00B7305Z55,60744884,"28,33 M€","0,54 %",Johdannainen,
+OOEB,WisdomTree Brent Crude Oil Longer Dated,,60806415,"2,8 M$","0,49 %",Johdannainen,
+OD7V,WisdomTree Broad Commodities,GB00B15KY989,15974959,"136,91 M$","0,99 %",Johdannainen,
+OOEC,WisdomTree Broad Commodities Ex-Agriculture and Livestock,JE00B6SV8B36,72311412,"5,64 M$","0,49 %",Johdannainen,
+9GAF,WisdomTree Broad Commodities Longer Dated,JE00B24DMC49,20411988,"2,02 M$","0,54 %",Johdannainen,
+WCO2,WisdomTree Carbon,JE00BP2PWW32,349865778,"52,16 M€","0,85 %",Johdannainen,
+WTEJ,WisdomTree Cloud Computing UCITS ETF USD Acc,IE00BJGWQN72,303044371,"232,34 M$","0,40 %",Arvopaperi,
+4RUP,WisdomTree Cocoa 2x Daily Leveraged,JE00B2NFV803,392308441,"27,15 M$","1,03 %",Johdannainen,
+OD7B,WisdomTree Coffee,JE00BN7KB557,451828565,"38,14 M$","0,99 %",Johdannainen,
+OD7C,WisdomTree Copper,GB00B15KXQ89,15974923,"1 885,03 M$","0,49 %",Johdannainen,
+4RT3,WisdomTree Copper 2x Daily Leveraged,JE00B2NFTF36,392308647,"11,39 M$","0,98 %",Johdannainen,
+OD7D,WisdomTree Corn,,442019552,"80,69 M$","0,99 %",Johdannainen,
+4RT4,WisdomTree Corn 2x Daily Leveraged,JE00B2NFTG43,392308654,"7,2 M$","1,03 %",Johdannainen,
+OD7E,WisdomTree Cotton,GB00B15KXT11,15974927,"18,26 M$","0,49 %",Johdannainen,
+W1TB,WisdomTree Cybersecurity UCITS ETF USD Acc,IE00BLPK3577,321462008,"371,29 M$","0,45 %",Arvopaperi,
+WTEI,WisdomTree Emerging Markets Equity Income UCITS ETF,IE00BQQ3Q067,303044150,"173,58 M$","0,46 %",Arvopaperi,Neljännesvuosittain
+WTED,WisdomTree Emerging Markets SmallCap Dividend UCITS ETF,IE00BQZJBM26,303044152,"44,17 M$","0,54 %",Arvopaperi,Neljännesvuosittain
+OD7W,WisdomTree Energy,GB00B15KYB02,15974960,"170,81 M$","0,49 %",Johdannainen,
+EHEN,WisdomTree Energy - EUR Daily Hedged,JE00B78NNV14,390763117,"0,59 M€","0,54 %",Johdannainen,
+9GAG,WisdomTree Energy Longer Dated,JE00B24DMD55,20411989,"1,12 M$","0,54 %",Johdannainen,
+NRGT,WisdomTree Energy Transition Metals,XS2425848053,370965703,"356,99 M$","0,81 %",Johdannainen,
+WTEH,WisdomTree Enhanced Commodity UCITS ETF EUR Hedged Acc,IE00BG88WG77,303044364,"17,14 M$","0,35 %",Arvopaperi,
+EUDF,Wisdomtree Europe Defence Ucits ETF Accum EUR,IE0002Y8CX98,497263755,"4 492,44 M€","0,41 %",Arvopaperi,
+WTEE,WisdomTree Europe Equity Income UCITS ETF,IE00BQZJBX31,303044154,"150,91 M€","0,29 %",Arvopaperi,Neljännesvuosittain
+PCFD,WisdomTree EURO STOXX 50 3x Daily Leveraged,IE00B7SD4R47,316678396,"28,42 M€","0,75 %",Johdannainen,
+OD7G,WisdomTree Gasoline,GB00B15KXW40,15974931,"9,76 M$","0,49 %",Johdannainen,
+NTSG,WisdomTree Global Efficient Core UCITS ETF AccumUSD,IE00077IIPQ8,482768920,"63,69 M$","0,35 %",Arvopaperi,
+WTEM,WisdomTree Global Quality Dividend Growth UCITS ETF USD Acc,IE00BZ56SW52,303044330,"712,67 M$","0,38 %",Arvopaperi,
+OD7H,WisdomTree Gold,GB00B15KXX56,15974934,"115,54 M$","0,49 %",Johdannainen,
+00XN,WisdomTree Gold - EUR Daily Hedged,JE00B4RKQV36,60744876,"26,36 M€","0,54 %",Johdannainen,
+9GA9,WisdomTree Gold 1x Daily Short,JE00B24DKC09,392308630,"8,73 M$","1,03 %",Johdannainen,
+4RT8,WisdomTree Gold 2x Daily Leveraged,JE00B2NFTL95,392308638,"142,56 M$","0,98 %",Johdannainen,
+OD7Y,WisdomTree Grains,GB00B15KYL00,15974962,"49,34 M$","0,54 %",Johdannainen,
+OD7I,WisdomTree Heating Oil,GB00B15KXY63,15974936,"4,95 M$","0,54 %",Johdannainen,
+OD7Z,WisdomTree Industrial Metals,GB00B15KYG56,15974963,"1 565,55 M$","0,49 %",Johdannainen,
+OD7J,WisdomTree Lean Hogs,,442019554,"3,05 M$","0,54 %",Johdannainen,
+OD7K,WisdomTree Live Cattle,GB00B15KY096,15974938,"3,43 M$","0,45 %",Johdannainen,
+XBJJ,WisdomTree Long AUD Short EUR,JE00B3XGSP64,58649359,"0,84 M€","0,39 %",Johdannainen,
+XBJA,WisdomTree Long CHF Short EUR,JE00B3MR2Q90,390763076,"2,04 M€","0,99 %",,
+XBJE,WisdomTree Long CNY Short USD,,37329104,"0,27 M$","0,59 %",Johdannainen,
+SJPS,WisdomTree Long JPY Short EUR,JE00B3MWC642,390763080,"12,67 M€","0,39 %",Johdannainen,
+LNOE,WisdomTree Long NOK Short EUR,JE00B3MRDD32,390763084,"5,3 M€","0,39 %",Johdannainen,
+XBJD,WisdomTree Long SEK Short EUR,JE00B3MQG751,390763086,"3,92 M€","0,39 %",Johdannainen,
+XBJP,WisdomTree Long USD Short EUR,JE00B3RNTN80,390763090,"3,32 M€","0,99 %",Johdannainen,
+5CH5,WisdomTree Long USD Short EUR 5x Daily,JE00BMM1XC77,390763062,"4,17 M€","0,98 %",Johdannainen,
+VZLE,WisdomTree Metal Securities Ltd.,JE00B1VS3W29,17656815,"414,11 M$","0,44 %",Arvopaperi,
+3QQQ,WisdomTree NASDAQ 100 3x Daily Leveraged,IE00BLRPRL42,316678615,"580,02 M$","0,75 %",Johdannainen,
+3QSS,WisdomTree NASDAQ 100 3x Daily Short,IE00BLRPRJ20,316678612,"92,04 M$","0,80 %",Johdannainen,
+OD7L,WisdomTree Natural Gas,JE00BN7KB334,451828201,"137,91 M$","0,49 %",Johdannainen,
+00XP,WisdomTree Natural Gas - EUR Daily Hedged,JE00B6XF0923,60744877,"6,93 M€","0,54 %",Johdannainen,
+4RTD,WisdomTree Natural Gas 1x Daily Short,JE00B24DKH53,392308632,"4,42 M$","1,03 %",Johdannainen,
+4RUC,WisdomTree Natural Gas 2x Daily Leveraged,JE00BDD9Q956,392308685,"14,41 M$","1,30 %",Johdannainen,
+WTRE,WisdomTree New Economy Real Estate UCITS ETF AccumUSD,IE000MO2MB07,367446082,"9,39 M$","0,45 %",Arvopaperi,
+OD7M,WisdomTree Nickel,GB00B15KY211,392308312,"175,84 M$","0,49 %",Johdannainen,
+4RTE,WisdomTree Nickel 1x Daily Short,JE00B24DKJ77,392308623,"0,48 M$","1,03 %",Johdannainen,
+4RUD,WisdomTree Nickel 2x Daily Leveraged,JE00BDD9QB77,392308687,"12,2 M$","0,98 %",Johdannainen,
+OD72,WisdomTree Petroleum,GB00B15KYC19,392308371,"14,47 M$","0,54 %",Johdannainen,
+WBIT,WisdomTree Physical Bitcoin,GB00BJYDH287,330143007,"1 391,45 M$","0,35 %",Arvopaperi,
+ALTC,WisdomTree Physical Crypto Altcoins,GB00BMTP1519,359367697,"19,85 M$","0,70 %",Arvopaperi,
+WETH,WisdomTree Physical Ethereum,GB00BJYDH394,332376497,"185,41 M$","0,35 %",Arvopaperi,
+VZLD,WisdomTree Physical Gold,JE00B1VS3770,17656814,"7 680,11 M$","0,39 %",Arvopaperi,
+GBSE,WisdomTree Physical Gold - EUR Daily Hedged,JE00B8DFY052,72270611,"1 297,44 M€","0,22 %",Arvopaperi,
+VZLB,WisdomTree Physical Palladium,JE00B1VS3002,17656812,"180,63 M$","0,49 %",Arvopaperi,
+VZLA,WisdomTree Physical Platinum,JE00B1VS2W53,17656811,"618,09 M$","0,49 %",Arvopaperi,
+VZLC,WisdomTree Physical Silver,JE00B1VS3333,17656813,"3 275,62 M$","0,49 %",Arvopaperi,
+GZUR,WisdomTree Physical Swiss Gold,JE00B588CD74,32874739,5 192 M$,"0,15 %",Arvopaperi,
+WXRP,WisdomTree Physical XRP Exchange Traded Product 2024-Open end on Compass Crypto Reference Index XRP,GB00BRXHQ425,484198871,"67,56 M$","0,50 %",Arvopaperi,
+4RUM,WisdomTree Platinum 2x Daily Leveraged,JE00B2NFV134,392308602,"30,6 M$","1,03 %",Johdannainen,
+OD73,WisdomTree Precious Metals,GB00B15KYF40,392308377,"108,14 M$","0,49 %",Johdannainen,
+00XQ,WisdomTree Precious Metals - EUR Daily Hedged,JE00B78NPQ01,390763111,"7,63 M€","1,21 %",Johdannainen,
+WQTM,WisdomTree Quantum Computing UCITS ETF Accum Shs USD,IE000W8WMSL2,522527055,"161,95 M$","0,75 %",Arvopaperi,
+SCHE,WisdomTree Short CHF Long EUR,JE00B3L54023,390763078,"0,28 M€","0,39 %",Johdannainen,
+XBJF,WisdomTree Short CNY Long USD,,390763074,"0,36 M$","0,59 %",Johdannainen,
+SJPL,WisdomTree Short JPY Long EUR,JE00B3KNMS14,390763082,"0,34 M€","0,39 %",Johdannainen,
+XBJQ,WisdomTree Short USD Long EUR,JE00B3SBYQ91,390763093,"108,05 M€","0,39 %",Johdannainen,
+5CH6,WisdomTree Short USD Long EUR 5x Daily,JE00BMM1XD84,390763064,"15,95 M€","0,98 %",Johdannainen,
+OD7N,WisdomTree Silver,GB00B15KY328,15974945,"124,05 M$","0,49 %",Johdannainen,
+00XR,WisdomTree Silver - EUR Daily Hedged,JE00B5SV2703,60744879,"45,84 M€","0,54 %",Johdannainen,
+4RTF,WisdomTree Silver 1x Daily Short,,392308614,"7,3 M$","0,98 %",Johdannainen,
+4RUE,WisdomTree Silver 2x Daily Leveraged,JE00B2NFTS64,392308393,"73,55 M$","1,03 %",Johdannainen,
+OD74,WisdomTree Softs,GB00B15KYJ87,15974969,"6,47 M$","0,54 %",Johdannainen,
+OD7P,WisdomTree Soybean Oil,GB00B15KY435,15974947,"3,84 M$","0,49 %",Johdannainen,
+OD7Q,WisdomTree Soybeans,GB00B15KY542,15974949,"20,76 M$","0,49 %",Johdannainen,
+RARE,Wisdomtree Strategic Metals and Rare Earths Miners UCITS ETF Accum shs - USD,IE000KHX9DX6,457255298,"1 154,38 M$","0,50 %",Arvopaperi,
+OD7R,WisdomTree Sugar,GB00B15KY658,392308321,"42,51 M$","0,54 %",Johdannainen,
+4RUH,WisdomTree Sugar 2x Daily Leveraged,JE00B2NFTW01,392308395,"3,51 M$","1,03 %",Johdannainen,
+WNUC,Wisdomtree Uranium And Nuclear Energy Ucits ETF,IE0003BJ2JS4,497263753,"350,97 M$","0,45 %",Arvopaperi,
+WTDM,WisdomTree US Quality Dividend Growth UCITS ETF USD Acc,IE00BZ56RG20,303044334,"646,14 M$","0,33 %",Arvopaperi,
+QGRW,WisdomTree US Quality Growth UCITS ETF,IE000YGEAK03,459056337,"35,45 M$","0,35 %",Arvopaperi,
+OD7S,WisdomTree Wheat,JE00BN7KB664,442019557,"176,61 M$","0,99 %",Johdannainen,
+00XS,WisdomTree Wheat - EUR Daily Hedged,JE00B78NNK09,60744880,"7,17 M$","1,21 %",Johdannainen,
+4RUJ,WisdomTree Wheat 2x Daily Leveraged,JE00BDD9QC84,392308694,"10,68 M$","2,33 %",Johdannainen,
+OD7F,WisdomTree WTI Crude Oil,GB00B15KXV33,15974929,"1 198,28 M$","0,49 %",Johdannainen,
+00XM,WisdomTree WTI Crude Oil - EUR Daily Hedged,JE00B44F1611,60744874,"39,42 M$","0,54 %",Johdannainen,
+9GA7,WisdomTree WTI Crude Oil 1x Daily Short,JE00B24DK975,23101239,"69,78 M$","0,98 %",Johdannainen,
+4RT6,WisdomTree WTI Crude Oil 2x Daily Leveraged,JE00BDD9Q840,275623947,"86,61 M$","1,03 %",Johdannainen,
+OD7T,WisdomTree Zinc,GB00B15KY872,392308329,"13,94 M$","0,54 %",Johdannainen,
+XACT NORDEN,XACT Norden (UCITS ETF),SE0001710914,14766676,"1 330,46 M€","0,15 %",Arvopaperi,
+XACTHDIV,XACT Nordic High Dividend Low Volatility (UCITS ETF),SE0009778954,185849031,"18 339,9 MSEK","0,30 %",Arvopaperi,Neljännesvuosittain
+XACT OBLIGATION,XACT Obligation (UCITS ETF),SE0007491287,155631989,"5 558,81 MSEK","0,10 %",Arvopaperi,
+XACT OMXS30,XACT OMXS30 ESG UCITS ETF Accum Units SEK,SE0000693293,404903,"19 471,9 MSEK","0,10 %",Arvopaperi,
+XACT SMABOLAG,XACT Svenska Smabolag,SE0007491261,155631990,"2 047,8 MSEK","0,30 %",Johdannainen,
+XACT SVERIGE,XACT Sverige (UCITS ETF),SE0001056045,7402468,"3 494,97 MSEK","0,15 %",Arvopaperi,Vuosittain
+XZW0,Xtrackers(IE)PLC - Xtrackers MSCI Japan ESG UCITS ETF Accum-1C- USD,IE00BZ02LR44,217616790,"5 931,76 M€","0,25 %",Arvopaperi,
+XAIX,Xtrackers Artificial Intelligence & Big Data UCITS ETF,IE00BGV5VN51,244833530,"7 184,1 M$","0,35 %",Arvopaperi,
+XB4A,Xtrackers ATX UCITS ETF (DR) Capitalisation 1C,LU0659579063,58042507,"109,93 M€","0,25 %",Arvopaperi,
+XDBC,Xtrackers Bloomberg Commodity ex-Agriculture & Livestock Swap UCITS ETF 1C - EUR Hedged,LU0292106167,18441108,"128,96 M$","0,39 %",Johdannainen,
+XCBE,Xtrackers Bloomberg Commodity Swap UCITS ETF 2C - EUR Hedged Capitalisation,LU0429790743,30054646,"14,49 M€","0,24 %",Johdannainen,
+DX2G,Xtrackers CAC 40 UCITS ETF (DR) Distribution 1D,LU0322250985,26954818,"112,46 M€","0,20 %",Arvopaperi,Puolivuosittain
+XDDX,Xtrackers DAX ESG Screened UCITS ETF 1D,LU0838782315,74541103,"528,91 M€","0,09 %",Arvopaperi,Puolivuosittain
+DBXD,Xtrackers DAX UCITS ETF,LU0274211480,16564491,"6 793,03 M€","0,09 %",Arvopaperi,
+XQUA,Xtrackers ESG USD Emerging Markets Bond Quality Weighted UCITS ETF 1D USD,IE00BD4DX952,158804084,"87,73 M$","0,45 %",Arvopaperi,Puolivuosittain
+XQUE,Xtrackers ESG USD Emerging Markets Bond Quality Weighted UCITS ETF 2D Hedged EUR,IE00BD4DXB77,193110422,"127,71 M$","0,50 %",Arvopaperi,Puolivuosittain
+DXSP,Xtrackers EURO STOXX 50 SHORT DAILY UCITS ETF Capitalisation 1C,LU0292106753,18084743,"44,13 M€","0,40 %",Johdannainen,
+XESC,Xtrackers EURO STOXX 50 UCITS ETF Capitalisation 1C,LU0380865021,24488963,"6 031,17 M€","0,09 %",Arvopaperi,
+XESX,Xtrackers EURO STOXX 50 UCITS ETF Distribution 1D,LU0274211217,16564492,"5 598,95 M€","0,09 %",Arvopaperi,Neljännesvuosittain
+DXSA,Xtrackers Euro Stoxx Quality Dividend UCITS ETF,LU0292095535,18084741,"613,91 M€","0,30 %",Arvopaperi,Neljännesvuosittain
+XUKX,Xtrackers FTSE 100 Income UCITS ETF,LU0292097234,18084742,"83,39 M£","0,09 %",Arvopaperi,Neljännesvuosittain
+XUKS,Xtrackers FTSE 100 SHORT DAILY UCITS ETF Capitalisation 1C,LU0328473581,24398656,"8,47 M£","0,50 %",Johdannainen,
+XDUK,Xtrackers FTSE 100 UCITS ETF (DR) Capitalisation 1C,LU0838780707,74541102,"85,23 M£","0,09 %",Arvopaperi,
+XMCX,Xtrackers FTSE 250 UCITS ETF (DR) Distribution 1D,LU0292097317,18362675,"29,45 M£","0,15 %",Arvopaperi,Neljännesvuosittain
+D5BK,Xtrackers FTSE EPRA/NAREIT DEVELOPED EUROPE REAL ESTATE UCITS ETF (DR) Capitalisation 1C,LU0489337690,35486962,"695,31 M€","0,33 %",Arvopaperi,
+DBXI,Xtrackers FTSE MIB UCITS ETF (DR) Distribution 1D,LU0274212538,16564493,"80,46 M€","0,30 %",Arvopaperi,Puolivuosittain
+XMOV,Xtrackers Future Mobility UCITS ETF,IE00BGV5VR99,244833532,"187,73 M$","0,35 %",Arvopaperi,
+RQFI,Xtrackers Harvest CSI300 UCITS ETF Distribution 1D,,96044056,"318,14 M$","0,65 %",Arvopaperi,Puolivuosittain
+XDEP,Xtrackers iBoxx EUR Corporate Bond Yield Plus UCITS ETF,IE00BYPHT736,163168095,"412,02 M€","0,25 %",Arvopaperi,Puolivuosittain
+XB4F,Xtrackers II ESG EUR Corporate Bond UCITS ETF 1D,LU0484968812,39823290,"1 967,96 M€","0,16 %",Arvopaperi,Neljännesvuosittain
+D5BG,Xtrackers II EUR Corporate Bond UCITS ETF,LU0478205379,34012124,"4 213,58 M€","0,12 %",Arvopaperi,
+XLIQ,Xtrackers II EUR Covered Bond Swap UCITS ETF,LU0820950128,74541100,,,Johdannainen,
+XHYA,Xtrackers II EUR HIGH YIELD CORPORATE BOND UCITS ETF (DR) Capitalisation 1C,LU1109943388,183102167,"1 593,63 M€","0,20 %",Arvopaperi,
+XHYG,Xtrackers II EUR HIGH YIELD CORPORATE BOND UCITS ETF (DR) Distribution 1D,LU1109942653,121841990,"1 005,32 M€","0,20 %",Arvopaperi,Neljännesvuosittain
+XEON,Xtrackers II EUR Overnight Rate Swap UCITS ETF,LU0290358497,18271340,"20 402,2 M€","0,10 %",Johdannainen,
+XEOD,Xtrackers II EUR Overnight Rate Swap UCITS ETF,LU0335044896,22332575,"1 199,5 M€","0,10 %",Johdannainen,Neljännesvuosittain
+X03B,Xtrackers II Eurozone Government Bond 1-3 UCITS ETF,LU0614173549,57145177,"315,38 M€","0,24 %",Arvopaperi,Puolivuosittain
+DBXP,Xtrackers II Eurozone Government Bond 1-3 UCITS ETF,LU0290356871,18271330,"2 800,49 M€","0,24 %",Arvopaperi,
+DBXQ,Xtrackers II Eurozone Government Bond 3-5 UCITS ETF Capitalisation 1C,LU0290356954,18271331,"503,56 M€","0,16 %",Arvopaperi,
+X03C,Xtrackers II Eurozone Government Bond 3-5 UCITS ETF Distribution 1D,LU0614173895,57145178,"31,69 M€","0,16 %",Arvopaperi,Puolivuosittain
+X57E,Xtrackers II Eurozone Government Bond 5-7 UCITS ETF Capitalisation 1C,LU0290357176,18271332,"861,81 M€","0,24 %",Arvopaperi,
+X710,Xtrackers II Eurozone Government Bond 7-10 UCITS ETF Capitalisation 1C,LU0290357259,18271333,"1 435,42 M€","0,15 %",Arvopaperi,
+DBXF,Xtrackers II EUROZONE GOVERNMENT BOND 15-30 UCITS ETF (DR) Capitalisation 1C,LU0290357507,18271335,"73,93 M€","0,15 %",Arvopaperi,
+DBXG,Xtrackers II EUROZONE GOVERNMENT BOND 25+ UCITS ETF (DR) Capitalisation 1C,LU0290357846,18271337,"114,36 M€","0,15 %",Arvopaperi,
+DXSV,Xtrackers II Eurozone Government Bond Short Daily Swap UCITS,LU0321463258,22888533,"8,76 M€","0,15 %",Johdannainen,
+XGLE,Xtrackers II Eurozone Government Bond UCITS ETF,LU0290355717,18271329,"2 247,59 M€","0,07 %",Arvopaperi,
+X03F,Xtrackers II Eurozone Government Bond UCITS ETF,LU0643975591,54757978,"536,57 M€","0,09 %",Arvopaperi,Puolivuosittain
+XEIN,Xtrackers II Eurozone Inflation-Linked Bond UCITS ETF,LU0290358224,18271339,"390,9 M€","0,15 %",Arvopaperi,
+DXS1,Xtrackers II GBP Overnight Rate Swap UCITS ETF 1D Distribution,LU0321464652,21432223,"175,43 M£","0,10 %",Johdannainen,Puolivuosittain
+D5BC,Xtrackers II Germany Government Bond 1-3 UCITS ETF,LU0468897110,32857106,"18,09 M€","0,15 %",Arvopaperi,Puolivuosittain
+D5BB,Xtrackers II Germany Government Bond UCITS ETF,LU0468896575,32857105,"84,7 M€","0,15 %",Arvopaperi,Puolivuosittain
+X03G,Xtrackers II Germany Government Bond UCITS ETF,LU0643975161,54757976,"812,38 M€","0,15 %",Arvopaperi,
+XBAG,Xtrackers II Global Aggregate Bond Swap UCITS ETF,LU0942970103,100404321,"97,79 M$","0,15 %",Johdannainen,Neljännesvuosittain
+XBAE,Xtrackers II Global Aggregate Bond Swap UCITS ETF,LU0942970798,100404322,"386,62 M$","0,20 %",Johdannainen,
+DBZB,Xtrackers II Global Government Bond UCITS ETF,LU0378818131,26954823,"704,53 M€","0,27 %",Arvopaperi,
+XGVD,Xtrackers II Global Government Bond UCITS ETF,LU0690964092,57145183,"103,48 M€","0,27 %",Arvopaperi,Neljännesvuosittain
+XGIN,Xtrackers II Global Inflation-Linked Bond UCITS ETF,LU0290357929,18271338,"358,35 M€","0,25 %",Arvopaperi,
+XGII,Xtrackers II Global Inflation-Linked Bond UCITS ETF,LU0962078753,92286196,"129,43 M€","0,25 %",Arvopaperi,Neljännesvuosittain
+CGB,Xtrackers II HARVEST CSI CHINA SOVEREIGN BOND UCITS ETF (DR) Distribution 1D,LU1094612022,137178864,"20,81 M$","0,20 %",Arvopaperi,Puolivuosittain
+XYP1,Xtrackers II iBoxx Eurozone Government Bond Yield Plus 1-3,LU0925589839,87642559,"243,58 M€","0,15 %",Arvopaperi,
+XY4P,Xtrackers II iBoxx Eurozone Government Bond Yield Plus UCITS,LU0524480265,39285557,"1 042,49 M€","0,15 %",Arvopaperi,
+XYPD,Xtrackers II iBoxx Eurozone Government Bond Yield Plus UCITS,LU0962071741,92286167,"243,32 M€","0,15 %",Arvopaperi,Puolivuosittain
+XBCT,Xtrackers II IBOXX GERMANY COVERED UCITS ETF Capitalisation 1C,LU0321463506,21432221,,,Johdannainen,
+D5BE,Xtrackers II IBOXX USD TREASURIES 1-3 UCITS ETF (DR) Distribution 1D,LU0429458895,141027233,"169,13 M$","0,07 %",Arvopaperi,Puolivuosittain
+XTC5,Xtrackers II ITRAXX CROSSOVER SHORT DAILY UCITS ETF Capitalisation 1C,LU0321462870,21432220,"20,04 M€","0,24 %",Johdannainen,
+XEMB,Xtrackers II J.P. Morgan USD Emerging Markets Bond UCITS ETF -1C - EUR Hedged- Capitalisation,LU0321462953,22888532,"194,55 M$","0,40 %",Arvopaperi,
+XBO2,Xtrackers II MTS EX-BANK OF ITALY BOT UCITS ETF,LU0613540268,69860714,"51,6 M€","0,15 %",Johdannainen,
+XHY1,Xtrackers II Rolling Target Maturity Sept 2027 EUR High Yield UCITS ETF 1D Distribution,LU1109939865,121841989,"256,08 M€","0,45 %",Arvopaperi,Puolivuosittain
+XBAT,Xtrackers II Target Maturity Sept 2029 Italy and Spain Government Bond UCITS ETF 1C Capitalisation,LU0484969463,39285556,"9,01 M€","0,15 %",Arvopaperi,
+XFFE,Xtrackers II USD Overnight Rate Swap UCITS ETF -1C- Capitalisation,LU0321465469,21432222,"321,55 M$","0,10 %",Johdannainen,
+XUTD,Xtrackers II US Treasuries UCITS ETF,LU0429459356,141027223,"1 092,72 M$","0,07 %",Arvopaperi,Neljännesvuosittain
+XUTE,Xtrackers II US Treasuries UCITS ETF,LU1399300455,176595138,"1 103,02 M$","0,10 %",Arvopaperi,Neljännesvuosittain
+DBPE,Xtrackers LevDAX Daily Swap UCITS ETF Capitalisation 1C,LU0411075376,34800151,"58,07 M€","0,35 %",Johdannainen,
+DX2D,Xtrackers LPX MM PRIVATE EQUITY UCITS ETF Capitalisation 1C,LU0322250712,21554652,"287,02 M€","0,70 %",Johdannainen,
+XAXJ,Xtrackers MSCI AC Asia ex Japan ESG UCITS ETF -1C- Capitalisation,LU0322252171,26954820,"371,15 M$","0,65 %",Johdannainen,
+XMAW,Xtrackers MSCI AC World Screened UCITS ETF Accum Shs -1C- EUR,IE00BGHQ0G80,98754237,"5 226,48 M€","0,25 %",Arvopaperi,
+XMKA,Xtrackers MSCI AFRICA TOP 50 INDEX UCITS ETF Capitalisation 1C,LU0592217524,49012768,"87,2 M$","0,65 %",Johdannainen,
+XMBR,Xtrackers MSCI BRAZIL UCITS ETF Capitalisation 1C,LU0292109344,18362678,"303,6 M$","0,25 %",Arvopaperi,
+D5BH,Xtrackers MSCI Canada Screened UCITS ETF -1C- Capitalisation,LU0476289540,35486960,"1 246,47 M$","0,35 %",Arvopaperi,
+DBX9,Xtrackers MSCI China A UCITS ETF Capitalisation -1C-,,18362674,"137,35 M$","0,60 %",Arvopaperi,
+XMAS,Xtrackers MSCI EM Asia Screened Swap UCITS ETF-1C- Capitalisation,LU0292107991,18362676,"448,61 M$","0,65 %",Johdannainen,
+XZEM,Xtrackers MSCI Emerging Markets ESG UCITS ETF Accum Shs -1C- USD,IE00BG370F43,270894728,"1 744,63 M$","0,25 %",Arvopaperi,
+XMEM,Xtrackers MSCI Emerging Markets Swap UCITS ETF Capitalisation 1C,LU0292107645,18362672,"947,22 M$","0,12 %",Johdannainen,
+XMME,Xtrackers MSCI Emerging Markets UCITS ETF,IE00BTJRMP35,190772917,"12 336,4 M$","0,18 %",Arvopaperi,
+XMEA,Xtrackers MSCI EM Europe Middle East & Africa ESG UCITS ETF -1C- Capitalisation,LU0292109005,18362671,"38,92 M$","0,65 %",Johdannainen,
+DBX3,Xtrackers MSCI EM Latin America ESG UCITS ETF -1C- Capitalisation,LU0292108619,18362677,"156,09 M$","0,65 %",Johdannainen,
+XMVE,Xtrackers MSCI EMU Screened UCITS ETF Shs -1D- EUR,IE00BDGN9Z19,174763667,"11,18 M€","0,25 %",Arvopaperi,Puolivuosittain
+XD5E,Xtrackers MSCI EMU UCITS ETF Distribution 1D,LU0846194776,74541099,"1 862,04 M€","0,14 %",Arvopaperi,Puolivuosittain
+DXSG,Xtrackers MSCI Europe Communication Services Screened UCITS ETF -1C- Capitalisation,LU0292104030,18441114,"9,86 M€","0,20 %",Johdannainen,
+DXSK,Xtrackers MSCI Europe Consumer Staples Screened UCITS ETF -1C- Capitalisation,LU0292105359,18441106,"47,43 M€","0,30 %",Arvopaperi,
+XZEU,Xtrackers MSCI Europe ESG UCITS ETF Accum EUR,IE00BFMNHK08,217616822,"972,08 M€","0,20 %",Arvopaperi,
+XS7R,Xtrackers MSCI Europe Financials Screened UCITS ETF -1C- Capitalisation,LU0292103651,18441110,"130,53 M€","0,30 %",Arvopaperi,
+DXSE,Xtrackers MSCI Europe Health Care Screened UCITS ETF -1C- Capitalisation,LU0292103222,18441112,261 M€,"0,20 %",Arvopaperi,
+DXSL,Xtrackers MSCI Europe Industrials Screened UCITS ETF -1C- Capitalisation,LU0292106084,18441107,"37,81 M€","0,20 %",Arvopaperi,
+XS8R,Xtrackers MSCI Europe Information Technology Screened UCITS ETF -1C- Capitalisation,LU0292104469,18441116,"31,1 M€","0,30 %",Johdannainen,
+DXSC,Xtrackers MSCI Europe Materials Screened UCITS ETF -1C- Capitalisation,LU0292100806,18441109,"41,99 M€","0,20 %",Arvopaperi,
+DX2I,Xtrackers MSCI Europe Screened UCITS ETF -1C- Capitalisation,LU0322253732,21554654,"92,98 M$","0,12 %",Arvopaperi,
+XXSC,Xtrackers MSCI Europe Small Cap UCITS ETF Capitalisation 1C,LU0322253906,21554655,"3 438,71 M$","0,33 %",Arvopaperi,
+XMEU,Xtrackers MSCI EUROPE UCITS ETF Capitalisation 1C,LU0274209237,16564494,"8 577,38 M$","0,13 %",Arvopaperi,
+XIEE,Xtrackers MSCI EUROPE UCITS ETF Distribution 1D,LU1242369327,144417031,"147,42 M$","0,13 %",Arvopaperi,Neljännesvuosittain
+XS6R,Xtrackers MSCI Europe Utilities Screened UCITS ETF -1C- Capitalisation,LU0292104899,18441115,"77,27 M€","0,20 %",Arvopaperi,
+D5BL,Xtrackers MSCI Europe Value Factor UCITS ETF (DR) Capitalisation 1C,LU0486851024,35486963,"240,77 M€","0,15 %",Arvopaperi,
+XGLF,Xtrackers MSCI GCC Select Swap UCITS ETF,IE00BQXKVQ19,125494074,"26,1 M$","0,65 %",Johdannainen,
+XDG6,Xtrackers MSCI Global Clean Water & Sanitation UCITS ETF Accum Shs -1C- USD,IE0007WJ6B10,410500936,"7,85 M$","0,35 %",Arvopaperi,
+XDG3,Xtrackers MSCI Global SDG 3 Good Health UCITS ETF,IE00036F4K40,410500935,"24,83 M$","0,35 %",Arvopaperi,
+XCS5,Xtrackers MSCI INDIA SWAP UCITS ETF Capitalisation 1C,LU0514695187,49012766,"640,32 M$","0,19 %",Johdannainen,
+XAIN,Xtrackers MSCI INDONESIA SWAP UCITS ETF Capitalisation 1C,LU0476289623,40916496,"37,02 M$","0,65 %",Johdannainen,
+XZMJ,Xtrackers MSCI Japan ESG UCITS ETF Accum Shs -1C- USD,IE00BG36TC12,217616820,"3 074,96 M$","0,20 %",Arvopaperi,
+XDNY,Xtrackers MSCI Japan Screened UCITS ETF 1D- JPY,IE00BPVLQD13,130467085,"52 224,5 MJPY","0,15 %",Arvopaperi,Puolivuosittain
+XDNE,Xtrackers MSCI Japan Screened UCITS ETF Accum Shs -3C- Hedged EUR,IE00BRB36B93,130467086,"73,56 MJPY","0,25 %",Arvopaperi,
+XMK9,Xtrackers MSCI Japan UCITS ETF,LU0659580079,62780270,"840,8 MJPY","0,40 %",Arvopaperi,
+DBXJ,Xtrackers MSCI JAPAN UCITS ETF Capitalisation 1C,LU0274209740,16564496,"5 715,06 MJPY","0,20 %",Arvopaperi,
+DBX8,Xtrackers MSCI KOREA UCITS ETF,LU0292100046,18643811,"332,79 M$","0,65 %",Arvopaperi,
+XCS3,Xtrackers MSCI MALAYSIA UCITS ETF Capitalisation 1C,LU0514694370,49012764,"74,47 M$","0,50 %",Arvopaperi,
+XNGI,Xtrackers MSCI Next Generation Internet Innovation UCITS ETF Accum-1C- USD,IE000XOQ9TK4,387407722,"66,94 M$","0,35 %",Arvopaperi,
+XDN0,Xtrackers MSCI Nordic UCITS ETF,IE00B9MRHC27,89227367,"970,71 M€","0,30 %",Arvopaperi,Puolivuosittain
+XDND,Xtrackers MSCI North America High Dividend Yield UCITS ETF,IE00BH361H73,98264480,"138,72 M$","0,39 %",Arvopaperi,
+DXS6,Xtrackers MSCI Pacific ex Japan Screened UCITS ETF -1C- Capitalisation,LU0322252338,26954821,"702,51 M$","0,25 %",Arvopaperi,
+XBAK,Xtrackers MSCI PAKISTAN SWAP UCITS ETF Capitalisation 1C,LU0659579147,68975196,"23,06 M$","0,85 %",Johdannainen,
+XPQP,Xtrackers MSCI PHILIPPINES UCITS ETF Capitalisation 1C,LU0592215403,68975194,"40,95 M$","0,65 %",Arvopaperi,
+XBAS,Xtrackers MSCI SINGAPORE UCITS ETF Capitalisation 1C,LU0659578842,68975195,"97,29 M$","0,50 %",Arvopaperi,
+DBX5,Xtrackers MSCI TAIWAN UCITS ETF Capitalisation 1C,LU0292109187,18362679,"335,14 M$","0,69 %",Arvopaperi,
+XCS4,Xtrackers MSCI THAILAND UCITS ETF Capitalisation 1C,LU0514694701,49012765,"151,54 M$","0,50 %",Arvopaperi,
+XASX,Xtrackers MSCI UK ESG UCITS ETF (DR) 1D- Distribution,LU0292097747,18362673,"614,66 M£","0,18 %",Arvopaperi,Neljännesvuosittain
+XUEN,Xtrackers MSCI USA Energy UCITS ETF,IE00BCHWNS19,196790315,"115,5 M$","0,12 %",Arvopaperi,Puolivuosittain
+XZMU,Xtrackers MSCI USA ESG UCITS ETF Accum Shs -1C- USD,IE00BFMNPS42,217616825,"8 140,72 M$","0,15 %",Arvopaperi,
+XRSM,Xtrackers MSCI USA Screened UCITS ETF Accum Shs -1C- USD,IE00BJZ2DC62,127940580,"601,76 M$","0,07 %",Arvopaperi,
+XMUS,Xtrackers MSCI USA SWAP UCITS ETF Capitalisation 1C,LU0274210672,16564499,"5 085,02 M$","0,15 %",Johdannainen,
+XD9U,Xtrackers MSCI USA UCITS ETF,IE00BJ0KDR00,103515337,"11 742,6 M$","0,07 %",Arvopaperi,
+XWTS,Xtrackers MSCI World Communication Services UCITS ETF,IE00BM67HR47,157212906,"530,4 M$","0,25 %",Arvopaperi,
+XDWC,Xtrackers MSCI World Consumer Discretionary UCITS ETF,IE00BM67HP23,157212904,"308,85 M$","0,25 %",Arvopaperi,
+XDWS,Xtrackers MSCI World Consumer Staples UCITS ETF,IE00BM67HN09,157212903,"859,34 M$","0,25 %",Arvopaperi,
+XDW0,Xtrackers MSCI World Energy UCITS ETF,IE00BM67HM91,157212902,"2 033,88 M$","0,25 %",Arvopaperi,
+EXUS,Xtrackers MSCI World ex USA UCITS ETF 1C USD,IE0006WW1TQ4,454412888,"6 115,42 M$","0,15 %",Arvopaperi,
+XDWF,Xtrackers MSCI World Financials UCITS ETF,IE00BM67HL84,157212901,"871,95 M$","0,30 %",Arvopaperi,
+XDWH,Xtrackers MSCI World Health Care UCITS ETF,IE00BM67HK77,157212898,"3 140,11 M$","0,25 %",Arvopaperi,
+XDWI,Xtrackers MSCI World Industrials UCITS ETF,IE00BM67HV82,157212909,"957,45 M$","0,25 %",Arvopaperi,
+XDWT,Xtrackers MSCI World Information Technology UCITS ETF,IE00BM67HT60,157212908,"5 552,31 M$","0,25 %",Arvopaperi,
+XDWM,Xtrackers MSCI World Materials UCITS ETF,IE00BM67HS53,157212907,"722,98 M$","0,25 %",Arvopaperi,
+XDEB,Xtrackers MSCI World Minimum Volatility UCITS ETF,IE00BL25JN58,112591778,"1 024,41 M$","0,25 %",Arvopaperi,
+XDEM,Xtrackers MSCI World Momentum UCITS ETF,IE00BL25JP72,112591779,1 964 M$,"0,25 %",Arvopaperi,
+XDEQ,Xtrackers MSCI World Quality UCITS ETF,IE00BL25JL35,112591776,"2 923,85 M$","0,25 %",Arvopaperi,
+DBXW,Xtrackers MSCI WORLD SWAP UCITS ETF Capitalisation 1C,LU0274208692,16508548,"5 746,87 M$","0,45 %",Johdannainen,
+XWEH,Xtrackers MSCI WORLD SWAP UCITS ETF Capitalisation 4C,LU0659579733,87715955,"1 361,91 M$","0,39 %",Johdannainen,
+XDWD,Xtrackers MSCI World UCITS ETF,IE00BJ0KDQ92,109136082,"21 048,9 M$","0,12 %",Arvopaperi,
+XDWL,Xtrackers MSCI World UCITS ETF,IE00BK1PV551,130467083,"5 079,33 M$","0,19 %",Arvopaperi,Neljännesvuosittain
+XDWU,Xtrackers MSCI World Utilities UCITS ETF,IE00BM67HQ30,157212905,"935,97 M€","0,25 %",Arvopaperi,
+XDEV,Xtrackers MSCI World Value UCITS ETF,IE00BL25JM42,112591777,"4 562,8 M$","0,25 %",Arvopaperi,
+DBX7,Xtrackers NIFTY 50 SWAP UCITS ETF Capitalisation 1C,LU0292109690,18643816,"183,98 M$","0,85 %",Johdannainen,
+XDJP,Xtrackers Nikkei 225 UCITS ETF (DR) Distribution 1D,LU0839027447,76671065,339 485 MJPY,"0,09 %",Arvopaperi,Puolivuosittain
+XNZN,Xtrackers Nordic Net Zero Pathway Paris Aligned UCITS ETF,IE000HT7E0B1,418730014,"76,32 M€","0,15 %",Arvopaperi,
+XAD5,Xtrackers Physical Gold ETC (EUR),DE000A1E0HR8,38588672,"2 863,84 M$","0,25 %",Arvopaperi,
+XAD1,Xtrackers Physical Gold EUR Hedged ETC,DE000A1EK0G3,37730445,"2 122,1 M€","0,59 %",Arvopaperi,
+XAD3,Xtrackers Physical Platinum EUR Hedged ETC,DE000A1EK0H1,38163241,"65,88 M€","0,69 %",Arvopaperi,
+XAD6,Xtrackers Physical Silver ETC,DE000A1E0HS6,38588673,"674,15 M$","0,40 %",Arvopaperi,
+XAD2,Xtrackers Physical Silver EUR Hedged ETC,DE000A1EK0J7,37730448,"339,2 M€","0,75 %",Arvopaperi,
+XQUI,Xtrackers Portfolio Total Return UCITS ETF (DR) Capitalisation 1C,LU0397221945,26253806,"703,76 M€","0,70 %",Arvopaperi,
+XRS2,Xtrackers Russell 2000 UCITS ETF,IE00BJZ2DD79,127940581,"2 553,63 M$","0,30 %",Arvopaperi,
+DBPK,Xtrackers S&P 500 2X INVERSE DAILY UCITS ETF Capitalisation E1C,LU0411078636,34800154,"53,7 M$","0,70 %",Johdannainen,
+DBPG,Xtrackers S&P 500 2X LEVERAGED DAILY UCITS ETF Capitalisation 1C,LU0411078552,34800153,"574,85 M$","0,60 %",Johdannainen,
+XZEW,Xtrackers S&P 500 Equal Weight Scored & Screened UCITS ETF Accum Shs -1C- USD,IE0004MFRED4,404032772,"1 502,27 M$","0,17 %",Arvopaperi,
+XDEW,Xtrackers S&P 500 Equal Weight UCITS ETF,IE00BLNMYC90,109136083,"10 108,8 M$","0,20 %",Arvopaperi,
+DXS3,Xtrackers S&P 500 INVERSE DAILY SWAP UCITS ETF Capitalisation 1C,LU0322251520,21554650,"142,77 M$","0,50 %",Johdannainen,
+D5BM,Xtrackers S&P 500 SWAP UCITS ETF Capitalisation 1C,LU0490618542,35486965,"4 701,74 M$","0,15 %",Johdannainen,
+XDPE,Xtrackers S&P 500 UCITS ETF,IE00BM67HW99,127940582,"466,7 M$","0,32 %",Arvopaperi,
+DX2S,Xtrackers S&P ASX 200 UCITS ETF Distribution 1D,LU0328474803,21554660,"102,35 MAUD","0,50 %",Arvopaperi,Puolivuosittain
+DX2E,Xtrackers S&P Global Infrastructure Swap UCITS ETF Capitalisation 1C,LU0322253229,21554653,"561,85 M$","0,60 %",Johdannainen,
+DX2Z,Xtrackers S&P Select Frontier Swap UCITS ETF Capitalisation 1C,LU0328476410,21631216,"148,8 M$","0,95 %",Johdannainen,
+DXSN,Xtrackers ShortDAX Daily Swap UCITS ETF Capitalisation 1C,LU0292106241,18084740,"166,2 M€","0,40 %",Johdannainen,
+DBPD,Xtrackers SHORTDAX X2 DAILY UCITS ETF Capitalisation 1C,LU0411075020,34800150,"76,77 M€","0,60 %",Johdannainen,
+D5BI,Xtrackers SICAV - MSCI Mexico UCITS ETF,LU0476289466,35486959,"362,46 M$","0,65 %",Arvopaperi,
+AH50,Xtrackers SICAV - Xtrackers Harvest CSI A500 UCITS ETF 1D Distribution,LU1310477036,157820681,"15,97 M$","0,65 %",Arvopaperi,Puolivuosittain
+DXS0,Xtrackers SLI UCITS ETF Distribution 1D,LU0322248146,21554649,"415,58 MCHF","0,25 %",Arvopaperi,Puolivuosittain
+XESP,Xtrackers Spanish Equity UCITS ETF (DR) Capitalisation 1C,,192547802,"172,52 M€","0,30 %",Arvopaperi,
+XSX6,Xtrackers Stoxx Europe 600 UCITS ETF Capitalisation 1C,LU0328475792,26954822,3 688 M€,"0,20 %",Arvopaperi,
+XGSD,Xtrackers STOXX GLOBAL SELECT DIVIDEND 100 SWAP UCITS ETF Distribution 1D,LU0292096186,18084739,"881,14 M€","0,50 %",Johdannainen,Vuosittain
+XSMI,Xtrackers Switzerland UCITS ETF Distribution 1D,LU0274221281,16564501,"1 584,52 MCHF","0,30 %",Arvopaperi,Vuosittain
+XDGU,Xtrackers USD Corporate Bond UCITS ETF,IE00BZ036H21,144411606,"984,01 M$","0,12 %",Arvopaperi,Neljännesvuosittain
+XDGE,Xtrackers USD Corporate Bond UCITS ETF,IE00BZ036J45,156176082,"231,41 M$","0,21 %",Arvopaperi,Neljännesvuosittain
+XZHY,Xtrackers USD High Yield Corporate Bond Screened UCITS ETF -1C- USD,IE0006YM7D84,386538992,"86,89 M$","0,25 %",Arvopaperi,
+XFVT,Xtrackers Vietnam Swap UCITS ETF 1C Capitalisation,LU0322252924,21554651,"387,82 M$","0,85 %",Johdannainen,

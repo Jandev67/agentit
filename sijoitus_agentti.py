@@ -20,6 +20,10 @@ from pathlib import Path
 from dotenv import load_dotenv
 import anthropic
 
+# Pakota UTF-8 tulostukseen Windowsin oletuskonsolia varten
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+
 # Web-hakumoduuli (samassa kansiossa)
 try:
     from web_search import hae_ja_muodosta_konteksti, LAHDE_PRIORITEETTI

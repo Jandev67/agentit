@@ -12,6 +12,7 @@ Vaatimukset:
 """
 
 import re
+import sys
 import time
 import logging
 from dataclasses import dataclass, field
@@ -20,6 +21,10 @@ from urllib.parse import quote_plus, urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup
+
+# Pakota UTF-8 tulostukseen Windowsin oletuskonsolia varten
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
 
 # ---------------------------------------------------------------------------
 # Konfiguraatio

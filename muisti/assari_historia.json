@@ -4,7 +4,22 @@
       "paivays": "2026-04-12T08:16:06.814653+00:00",
       "kayttajan_viesti": "Hei, kuka olet ja mitä teet?",
       "agentin_vastaus": "Hei Jan! 👋\n\nOlen **Assari** — sinun henkilökohtainen AI-assistenttisi.\n\nToimin ensimmäisenä kontaktipisteeenäsi. Kun sinulla on kysymys tai tehtävä — oli se sitten sijoituksiin, juridisiin asioihin, liiketoimintaan tai päivittäiseen organisointiin liittyvä — tulee se ensin minulle.\n\n**Mitä teen käytännössä:**\n- Kuuntelen ja ymmärrän mitä tarvitset\n- Ohjaan tehtävän oikealle erikoisagentille\n- Pidän sinut ajan tasalla siitä, minne asia menee\n\n**Käytössäsi olevat erikoisagentit:**\n| Agentti | Erikoisala |\n|---|---|\n| 📈 Sijoitus | Salkku, markkinat, rahastot, osakkeet |\n| ⚖️ Juristi | Suomalainen lainsäädäntö, sopimukset |\n| 🎯 Strategia | Liiketoiminta, konsultointi, suunnittelu |\n| 📋 Assistentti | Kalenteri, muistiot, seuranta |\n\nMitä sinulla on mielessä?"
+    },
+    {
+      "paivays": "2026-04-18T10:44:20.768315+00:00",
+      "kayttajan_viesti": "Analysoi koko sijoitussalkkuni ja anna konkreettiset muutossuositukset",
+      "agentin_vastaus": "Hyvä pyyntö — tämä on juuri Sijoitusagentin ydinosaamisaluetta.\n\nEnnen kuin ohjaan eteenpäin, yksi käytännön kysymys:\n\n**Salkun tiedot puuttuvat vielä.** Jotta analyysi olisi oikeasti konkreettinen eikä geneerinen, Sijoitusagentti tarvitsee lähtötiedot — esimerkiksi:\n\n- Nykyiset positiot ja painotukset\n- Salkun koko (suuruusluokka riittää)\n- Sijoitushorisontti ja riskiprofiili\n- Mahdolliset rajoitteet tai tavoitteet\n\n---\n\n**Ehdotan kahta vaihtoehtoa:**\n\n**A)** Jaat salkun tiedot nyt → ohjaan kokonaisuuden heti Sijoitusagentille analysoitavaksi\n\n**B)** Ohjaan ensin Sijoitusagentille ilman tietoja → se voi käydä läpi mitä tietoja tarvitaan ja missä muodossa\n\nKumpi sopii paremmin?"
+    },
+    {
+      "paivays": "2026-04-30T14:15:22.884774+00:00",
+      "kayttajan_viesti": "Tallentsin ORAL tiedostoihin huoltohistorian. Voitko tutkia aineiston ja antaa kannanottosi menestysmahdollisuuksistamme liittyen Käyttöomaisuusreklamaatioon.",
+      "agentin_vastaus": "Hyvä — tämä kuulostaa selkeästi juridiseen puoleen.\n\nEnnen kuin ohjaan **Juristille**, muutama tarkentava kysymys:\n\n---\n\n**Käytännön este ensin:**\n\nEn näe tiedostojärjestelmääsi tai ORAL-tiedostoja suoraan — minulla ei ole pääsyä ulkoisiin järjestelmiin tai tallennettuihin tiedostoihin. Aineisto pitää toimittaa tähän keskusteluun jollain tavalla.\n\n---\n\n**Vaihtoehdot aineiston toimittamiseen:**\n\n- **Kopioi ja liitä** olennaiset osat tekstinä tähän\n- **Lataa tiedostot** suoraan tähän keskusteluun (jos formaatti sen sallii)\n- **Tiivistä itse** keskeiset faktat — Juristi voi työstää senkin pohjalta\n\n---\n\n**Jotta Juristi voi arvioida menestysmahdollisuuksia, tarvitaan tyypillisesti:**\n\n- Reklamaation peruste ja vaatimukset\n- Vastapuoli ja sopimuskonteksti\n- Huoltohistorian keskeiset tapahtumat ja dokumentaatio\n- Aikajana\n\n---\n\nMiten haluat edetä aineiston kanssa? Sen jälkeen ohjaan kokonaisuuden Juristille — **ok?**"
+    },
+    {
+      "paivays": "2026-04-30T14:17:18.343095+00:00",
+      "kayttajan_viesti": "kyllä lydät C.Dev Agentit yms",
+      "agentin_vastaus": "Jan, olen rehellinen:\n\n**En ymmärrä mitä tarkoitat.** \"C.Dev Agentit\" ei avaudu minulle tässä kontekstissa.\n\nVoisitko tarkentaa? Esimerkiksi:\n\n- Viittaatko johonkin tiettyyn järjestelmään tai alustaan?\n- Onko kyse teknisestä integraatiosta?\n- Vai jostakin muusta?\n\nHaluan varmistaa että ohjaan asian oikein eteenpäin — en halua arvata."
     }
   ],
-  "viimeksi_paivitetty": "2026-04-12T08:19:28.102728+00:00"
+  "viimeksi_paivitetty": "2026-04-30T14:17:29.246499+00:00"
 }
