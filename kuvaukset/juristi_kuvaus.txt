@@ -1,0 +1,3 @@
+AGENTTI: Juristi
+TOIMIALUE: Kaikki oikeudelliset kysymykset — sopimukset, riidat, kanteet, yrityskaupat, vahingonkorvaukset, vuokrasopimukset, liiketoiminnan juridiikka, viranomaisasiat kuten AVI-päätökset, yksittäiset tapaukset kuten Oral-hammaslääkäritapaus.
+YHTEISTYÖAGENTIT: Talousanalyysi (taloudellisissa riita-asioissa), Vero (verojuridiikassa)

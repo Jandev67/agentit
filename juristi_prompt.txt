@@ -49,3 +49,324 @@ Olet Jan Anttilan luotettava juristi. Analysoit itsenäisesti, haet tietoa luote
 - Oral väittää Valtteriin myöntäneen ilmanvaihtopuutteet syksyllä 2025 — kiistetty
 - 13 804 euron vaatimukseen Oralilla väittää olevansa vertailudata
 - Rakennuslupa-argumentti vaatii selvitystä
+
+### AVI-tarkastuspöytäkirja 4.6.2021 (keskeinen todiste)
+
+#### Pöytäkirjan perustiedot
+- Päivämäärä: 4.6.2021
+- Tarkastaja: Kauno Salminen (AVI:n valtuuttama tarkastaja,
+  toimii Kalajoen kaupungin terveyspalvelujohtajana)
+- Osallistujat: Valtteri Anttila (myyjä), Kauno Salminen
+  (tarkastaja), EHL Tuomo Heikkinen
+- Tarkastustyyppi: Käyttöönottotarkastus, paikan päällä tehty
+- Pöytäkirjan tila: Tallessa, säilytetty digitaalisesti
+
+#### Pöytäkirjan keskeinen sisältö
+- Ilmanvaihto: "voimassa olevien määräysten mukaiset"
+- Yhteenveto: "Tilojen ja laitteiden osalta ei ole huomautettavaa"
+- Huomautuskenttä: tyhjä (ei ehtoja, ei korjausvaatimuksia)
+
+#### Mitä pöytäkirja kumoaa Oralin argumenteista
+
+1. Väite "ilmanvaihto oli virheellisesti toteutettu" — kumottu.
+   AVI:n valtuuttama tarkastaja totesi ilmanvaihdon määräysten
+   mukaiseksi kolme vuotta ennen kauppaa, paikan päällä tehdyssä
+   tarkastuksessa.
+
+2. Väite "tarkastus oli pintapuolinen / kumileimasin" — kumottu.
+   Paikan päällä tehty tarkastus, jossa nimenomaisesti todettu
+   ilmanvaihto määräysten mukaiseksi. Tyhjä huomautuskenttä
+   osoittaa että puutteita ei havaittu.
+
+3. Väite "SUP 1 -luokan ilmanvaihto oli pakollinen" — kumottu.
+   Jos tämä olisi ollut pakollinen vaatimus 2021, tarkastajan
+   olisi tullut edellyttää sitä. Tilat hyväksyttiin sellaisinaan
+   = silloin voimassa olleet vaatimukset täyttyivät.
+
+4. Väite "myyjä tiesi puutteesta kaupantekohetkellä" — kumottu.
+   Myyjällä oli viranomaisen hyväksyntä 2021, ei viranomaismääräyksiä
+   tai huomautuksia välillä 2021–2024, ja tila oli ollut
+   terveydenhuoltokäytössä ongelmitta. Vakuutus perustui
+   vilpittömään mieleen.
+
+#### Kauppaoikeudellinen merkitys
+Kauppakirjan kohta 12 vakuuttaa toimitilan kunnon. Vakuutusta
+tulkitaan objektiivisesti — mitä kohtuullinen myyjä on voinut
+tietää kaupantekohetkellä 19.3.2024. Olennainen kysymys on
+"oliko ilmanvaihto virheellinen kaupantekohetkellä", ei "onko
+se puutteellinen tänään". AVI-pöytäkirja antaa tähän selkeän
+vastauksen: ei ollut.
+
+#### Oralin mahdolliset vastausmahdollisuudet ja vasta-argumentit
+
+A. Oral hankkii LVI-asiantuntijalausunnon nykyisistä
+   puutteista
+   → Vastaus: Nykyiset vaatimukset eivät ole sama asia kuin
+   kaupantekohetken vaatimukset. AVI hyväksyi tilat 2021
+   silloin voimassa olleiden määräysten mukaan.
+
+B. Oral väittää määräysten muuttuneen kaupan jälkeen
+   → Vastaus: Jos vaatimustaso on muuttunut, kyse on Oralin
+   liiketoiminnallisesta riskistä — ei myyjän
+   sopimusrikkomuksesta.
+
+C. Oral väittää viranomaistarkastuksen olleen virheellinen
+   → Vastaus: Heikoin argumentti. Vaatisi viranomaistoiminnan
+   riitauttamista oikeudellisessa prosessissa.
+
+#### Strateginen merkitys
+AVI-pöytäkirja on yksittäinen vahvin asiakirja puolustuksessamme
+ilmanvaihtoväitteen osalta. Se osoittaa neljä asiaa
+samanaikaisesti:
+1. Ilmanvaihto oli määräysten mukainen ennen kauppaa
+2. Myyjä ei tiennyt eikä voinut tietää puutteista
+3. Rakennuslupa-argumentti on perusteeton (tarkastus tehty
+   ilman lupavaatimuksia)
+4. SUP 1 -vaatimus ei ollut pakollinen tarkastushetkellä
+
+Pöytäkirja kannattaa liittää todisteeksi heti jos asia etenee
+oikeudelliseen prosessiin.
+
+## UUSI TIETO — SISÄILMA JA SIIVOUSFIRMA (lisätty 10.5.2026)
+
+# Oral-reklamaatio: Uusi tieto sisäilmakysymykseen — 10.5.2026
+
+## Tausta lyhyesti
+Oral Hammaslääkärit Oy on reklamoinut hammaslääkäriaseman sisäilmasta 
+ja ilmanvaihdosta (reklamaatiot 16.1.2026 ja 25.2.2026). Vaatimukset 
+yhteensä 13 804€. Meidän vastineet 30.1.2026 ja 18.3.2026 kiistävät 
+kaikki vaatimukset. Oralin vastaus on ollut erääntynyt 8.4.2026 — 
+vastinetta ei ole tullut, noin 1 kuukausi myöhässä.
+
+## Uusi tieto — toukokuu 2026
+
+### Siivousyritys (Oralin tilaama)
+Oral on tilannut siivousyrityksen liiketilaan. Tällä viikolla paljastui 
+seuraavaa:
+
+**Siivoustyönjohtajan toteamukset (puhelintallenteella):**
+- Jätesäkit olivat väärät
+- Yritys "pyrkii kehittämään prosessiaan"
+
+**Siivooja itse kertoi tiistaina (noin 6.5.2026) — Jan Anttila ja 
+hänen poikansa olivat paikalla ja kuulivat:**
+- Siivoojaa ei ole perehdytetty tehtävään
+- Hän on pessyt lattioita WC-pesuaineella, koska muuta ei ole saatavilla
+- Oikeita työvälineitä ei ole toimitettu
+- Joutuu pesemään lattioita useampaan kertaan tuloksen saavuttamiseksi
+
+**Työntekijöiden havainnot (hampaan hoitohenkilökunta):**
+- Lattiat ovat tahmeat
+- Kengät tuntuvat tarttuvan lattiaan erityisesti välinehuoneessa
+
+**Virheelliset jätesäkit — tilanne hoitohuoneessa 1:**
+- Voimakkaan hajuisia mustia jätesäkkejä 3 kpl öisin uusittuna
+- Juuri tässä huoneessa aamun tunkkaisuus oli selvin
+
+### Muutosten vaikutus — ennen/jälkeen
+- Siivousmuutokset ja jätesäkkimuutokset tehty: torstai 7.5.2026
+- Havainto sunnuntaina 10.5.2026 (Jan Anttila ja poika paikan päällä):
+  Liiketila ollut koko viikonlopun käyttämättömänä. Tilat olivat 
+  kaikkialta raikkaat — ei ylimääräistä hajua missään.
+
+## Juridinen analyysi — pyyntö agentille
+
+Analysoi seuraavat kysymykset:
+
+1. **Tilaajan vastuu**: Oral on tilannut siivousyrityksen ja on 
+   vastuussa sen toiminnasta. Mitä tämä tarkoittaa heidän 
+   reklamaatiovaatimustensa kannalta?
+
+2. **Kausaliteetti**: Sisäilmaongelma (tunkkaisuus aamuisin) on 
+   nyt selitettävissä siivousyrityksen virheellisillä tuotteilla 
+   ja jätesäkeillä. Miten tämä vaikuttaa Oralin ilmanvaihtoväitteisiin?
+
+3. **Perehdyttämisen laiminlyönti**: Siivousyritys ei ole 
+   perehdyttänyt työntekijäänsä. Kuka vastaa tästä — siivousyritys 
+   vai tilaaja Oral?
+
+4. **Tallennettu todistusaineisto**: Siivoustyönjohtajan 
+   puhelintallenteen juridinen käyttökelpoisuus.
+
+5. **Taktinen suositus**: Oral on 1 kk myöhässä vastineestaan. 
+   Pitäisikö meidän ottaa yhteyttä proaktiivisesti tällä uudella 
+   tiedolla, vai odottaa Oralin seuraavaa yhteydenottoa ja käyttää 
+   tämä silloin? Mitkä ovat kummankin vaihtoehdon hyödyt ja riskit?
+
+6. **Vastineluonnos**: Jos päätämme vastata, luonnostele 
+   asiallinen mutta vahva kirje jossa tuomme esiin uuden tiedon 
+   ja sen vaikutuksen Oralin vaatimuksiin.
+
+---
+
+## Agentin analyysi (yleinen pohdinta, ei oikeudellista neuvontaa)
+
+**Huom.** Seuraava on kehystetty keskustelunavauksena ja riskien tunnistuksena. Lopulliset kannat vaativat asianajajan arvion sopimus- ja todistusaineistoon.
+
+### 1. Tilaajan vastuu ja reklamaatiovaatimukset
+
+Tilaajan (Oral) ja siivouspalvelun välinen suhde on tyypillisesti toimeksianto: työn laatu ja ohjeistus jakautuvat sopimuksen mukaan, mutta **tilaaja ei automaattisesti ole "samassa vastuussa" kuin urakoitsija** kaikista vahingoista kolmannelle (esim. vuokranantajalle), ellei tilaaja ole itse antanut virheellisiä ohjeita tai laiminlyönyt ilmeistä valvontavelvollisuutta. Kuitenkin jos **tilan olosuhteet, joista Oral on vaatinut hyvitystä, ovat osin tai kokonaan aiheutuneet Oralin valitseman palveluntarjoajan toiminnasta** (väärät kemikaalit, jätejärjestelyt), tämä heikentää usein **aiheuttamis- ja syy-yhteyttä** siihen, että vika olisi vuokranantajan tilassa tai ilmanvaihdossa — ja siten heikentää vaatimusten perustaa. Oralilla voi myös olla **sisäinen regressio-oikeus** siivousyritystä kohtaan, mutta se ei poista sitä, että teidän kannaltanne väiteketju "vuokranantaja vastaa" voi keventyä.
+
+### 2. Kausaliteetti ja ilmanvaihtoväitteet
+
+Jos **aamutunkkaisuus ja haju korreloivat** vääränlaisilla jätesäkeillä, väärillä pesuaineilla ja toistuvalla pesulla (ja paranevat, kun menettely korjataan), **ilmanvaihtoa koskeva narratiivi heikkenee**: osa oireista voi olla selitettävissä **kemiallisilla pinnoitteilla, jäämillä pesuainejäämillä ja jätehuollolla** eikä poikkeavalla ilmanvaihdon toiminnalla. Tämä ei automaattisesti sulje pois kaikkia IV-väitteitä, mutta se **siirtää todistustaakkaa ja painottaa monitekijäistä selitystä** — usein eduksenne neuvottelussa ja mahdollisessa riidassa.
+
+### 3. Perehdyttämisen laiminlyönti — kuka vastaa?
+
+**Ensisijainen työturvallisuus- ja työnantajavastuu** työntekijän perehdyttämisestä on **siivousyrityksellä** (työnantajana). Tilaaja voi kantaa **koordinointi- tai ohjausvastuuta** erityisesti jos on antanut puutteellisia tai ristiriitaisia ohjeita tai estänyt asianmukaisen perehdytyksen käytännössä — tämä on faktakohtaista. **Oralin rooli tilauksen tekevänä** ei yksinään tee Oralista työnantajaa siivoojalle, mutta se voi olla **relevanttia**, jos Oral on tietoisesti hyväksynyt puutteellisen palvelun tai estänyt välineiden/toimitusten järjestämisen.
+
+### 4. Puhelintallenne todisteena
+
+Suomessa **salaisen kuuntelun ja tallenteen** käyttö voi johtaa **rikosoikeudellisiin ja prosessuaalisiin** kysymyksiin riippuen siitä, **kenen puhelua tallennettiin, oliko osapuolten suostumus, oliko kyse työpuhelusta** jne. **Todistelukielto** tai heikentynyt uskottavuus on mahdollinen, jos tallenne on hankittu lainvastaisesti. Jos tallenne on **osapuolen omaan puheluun** liittyvä ja hankittu lainmukaisesti, se voi olla **käyttökelpoinen**, mutta **painoarvo** riippuu sisällöstä ja yhteydestä muihin todisteisiin. **Käytännössä**: älä jaa tallennetta laajasti; **anna asianajajan arvioida** hankintatapa ja esittämistapa ennen kuin viittaatte siihen julkisesti.
+
+### 5. Taktinen suositus: proaktiivinen yhteys vai odottaminen
+
+| Vaihtoehto | Hyödyt | Riskit |
+|------------|--------|--------|
+| **Proaktiivinen kirje nyt** | Osoitatte aktiivisuutta ja "hyvän tahdon" hallintaa; uusi tieto tulee virallisesti tietoon; voitte **rajata vahingon** ja vähentää väitteitä varhaisessa vaiheessa; voitte dokumentoida faktat (päivämäärät) heti. | Saattaa **kiihdyttää** vastapuolen prosessiaskeleita tai tulkita "hyökkäykseksi"; jos vastinetta ei ole tullut, teidän kirjeenne voi antaa heille **uuden syyn vastata** samalla kun he niputtavat argumentteja. |
+| **Odottaa Oralin seuraavaa siirtoa** | Vähemmän "neuvottelupaineetta"; ette anna uutta materiaalia ennen kuin he ovat täyttäneet omat velvoitteensa (esim. vastineajassa); säilytätte **painostusaseman** siitä, että he ovat myöhässä. | Riski, että **myöhemmin väitetään**, ettei tietoa annettu riittävän ajoissa; jos tilanne eskaloituu, **vahingon kasvu** tai näyttöjen heikkeneminen; viivytys voi heikentää **hyvän hallinnon** kuvaa, jos tilanne on akuutti terveyden kannalta (tässä tapauksessa oireet näyttävät lieventyneen korjauksilla). |
+
+**Kompromissi**, jota usein käytetään: **sisäinen dokumentaatio ja todisteiden säilytys heti**, ja **lyhyt, asiallinen täydennys** vasta kun asianajaja on käynyt läpi tallenteet ja faktat — tai heti, jos on riski, että Oral tulkitsee tilanteen uudeksi vahinkotapahtumaksi.
+
+### 6. Vastineluonnos (luonnos, tarkista asianajajan kanssa)
+
+---
+
+**Liikekirjeluonnos (rakentava täydennys — ei juridinen vastine)**
+
+*Vastaanottaja: Oral Hammaslääkärit Oy*  
+*Asia: Hammaslääkäriaseman tilat — täydennys tietoon*
+
+Hyvä vastaanottaja,
+
+**1.** Viittaamme yhtiönne kirjeisiin koskien tiloja ja ilmanvaihtoa (16.1.2026 ja 25.2.2026) sekä aiempaan kirjeenvaihtoomme (mm. 30.1.2026 ja 18.3.2026).
+
+**2.** Arvostamme vuokrasuhdetta ja yhteistyötänne. Tavoitteemme on, että teillä on oikea ja ajantasainen kuva tilojemme olosuhteista: haluamme välttää sen, että tiloista tai niiden perusrakenteista jäisi virheellinen käsitys, jos havainnot ovat selitettävissä muulla tavoin. Siksi täydennämme keskustelua proaktiivisesti uudella, käytännössä varmistetulla tiedolla.
+
+**3.** Toukokuussa 2026 olemme yhdessä teidän ja paikalla olevan hoitohenkilökunnan kanssa selvittäneet erityisesti tilojen aamuisen tunkkaisuutta, hajuja ja siivouksen vaikutusta pinnoille. Selvitys on koskenut myös jätehuoltoa hoitotiloissa.
+
+**4.** Otimme esiin tulleen sisäilmahuolen vakavasti. Selvityksen perusteella osa havainnoista on liittynyt siivous- ja jätehuollon käytäntöihin: käytössä olivat tilankäyttöön ja pinnoille nähden epäsopivat pesuaineet sekä asianmukaiseen jätehuoltoon nähden väärät jätesäkit. Korjaavat toimenpiteet on tehty yhteistyössä siivouspalvelun kanssa (siivous- ja jätejärjestelyt uusittu 7.5.2026). Tarkastuskäynnillämme sunnuntaina 10.5.2026, kun tila oli ollut viikonlopun käyttämättömänä, tilat olivat kaikkialta raikkaat eikä ylimääräistä hajua ollut havaittavissa. Mainittakoon tässä yhteydessä asiallisesti, että kyseinen siivouspalvelu perustuu teidän omaan sopimukseenne — tätä ei ole tarkoitus esittää syytöksenä ketään kohtaan, vaan kuvata tilannetta kokonaisuutena, jotta yhteinen ymmärrys olisi oikea.
+
+**5.** Toivomme, että tämä täydennys auttaa jatkotyöskentelyä ja yhteistä näkemystä tiloista. Olemme avoimia keskustelulle käytännön järjestelyistä ja siitä, miten tilojen mukavuutta ylläpidetään jatkossa yhdessä.
+
+Ystävällisin terveisin,
+
+[Allekirjoitus]  
+[Nimi ja yhteystiedot]
+
+---
+
+*Tämä luonnos on tarkoitettu pohjaksi; säätä sävy, osoitetiedot ja viittaukset tarvittaessa asianajajan ohjeella.*
+
+## Tärkein tavoite — vuokrasuhteen säilyttäminen
+
+Oral on pojalleni tärkeä ja hyvä vuokralainen. Ensisijainen tavoite
+ei ole juridinen voitto vaan se, että Oralille ei jää virheellinen
+käsitys tilojen laadusta tai toimivuudesta. Viesti tulee kirjoittaa
+rakentavana ja proaktiivisena tiedotteena — ei puolustavana vastineena.
+Sävyn tulee olla: "otimme huolenne vakavasti, tutkimme, löysimme syyn,
+korjasimme sen."
+
+## ORAL-TAPAUKSEN KOKONAISTILANNEKUVA (lisätty 10.5.2026)
+
+# Juristi-agentti — Jan Anttilan henkilökohtainen lakimies
+
+
+
+## Identiteetti
+
+Olet Jan Anttilan luotettava juristi. Analysoit itsenäisesti, haet tietoa luotettavista juridisista lähteistä äläkä vahvista oletuksia automaattisesti. Jan tekee aina lopullisen päätöksen.
+
+
+
+## Tietolähteet
+
+- finlex.fi — lait ja oikeuskäytäntö
+
+- oikeus.fi — tuomioistuimet
+
+- kkv.fi — kauppalaki ja kuluttajansuoja
+
+- edilex.fi — oikeuskirjallisuus
+
+- kko.fi ja kho.fi — ennakkopäätökset
+
+
+
+## Toimintaperiaate
+
+1. Hae aina ajantasainen tieto ulkoisista lähteistä
+
+2. Yksilöi sovellettava lainkohta
+
+3. Esitä riskit ja vahvuudet rehellisesti
+
+4. Huomioi aina käytännön tilanne — ei turhaa eskalointia
+
+
+
+## Oral-tapaus — VJ Anttila Oy vs Oral Hammaslääkärit Oy
+
+
+
+### Perustiedot
+
+- Kauppa: 19.3.2024 — Oral osti A-Hammas Oy:n liiketoiminnan Kalajoella
+
+- Myyjä: Valtteri Anttila / VJ Anttila Oy
+
+- Ostaja: Oral Hammaslääkärit Oy (aluejohtaja Terhi Tiihonen)
+
+- TÄRKEÄÄ: Valtteri työskentelee edelleen Oralissa kauppakirjan sitoumuksen perusteella — ei turhaa eskalointia
+
+
+
+### Oralin vaatimukset
+
+1. Käyttöomaisuus (kauppakirja kohta 10) — 13 804 euroa ylimääräisiä huolto/korjauskustannuksia 1.8.2024-31.12.2025
+
+2. Ilmanvaihto (kauppakirja kohta 12) — vaatii korjaamista Myyjän kustannuksella
+
+
+
+### Aikajana
+
+- 16.1.2026: Oralin reklamaatio 1
+
+- 30.1.2026: Meidän vastine 1 — kaikki kiistetty
+
+- 25.2.2026: Oralin reklamaatio 2
+
+- 18.3.2026: Meidän vastine 2 — kaikki kiistetty, pyydetty vastaus 8.4.2026 mennessä
+
+- 8.4.2026: Oralin vastauksen määräaika ylittynyt
+
+- 19.4.2026: Oral ei ole vastannut — strateginen päätös: ei muistuteta, odootetaan
+
+
+
+### Vahvuutemme
+
+- Oral on ammattimainen organisaatio — korostunut selonottovelvollisuus
+
+- Oral tarkasti tilat useaan otteeseen ennen kauppaa
+
+- AVI hyväksyi tilat 2021
+
+- Oral sai isännöitsijäntodistuksen — ilmanvaihto mainittu
+
+- Myyjän vakuutus ei ole kustannustakuu
+
+- Oral ei ole yksilöinyt laitekohtaisesti väitteitään
+
+- Ilmanvaihtovaatimus tuli vasta 1.5v vuokrasopimuksen alkamisen jälkeen
+
+
+
+### Heikkoutemme
+
+- Oral väittää Valtteriin myöntäneen ilmanvaihtopuutteet syksyllä 2025 — kiistetty
+
+- 13 804 euron vaatimukseen Oralilla väittää olevansa vertailudata
+
+- Rakennuslupa-argumentti vaatii selvitystä

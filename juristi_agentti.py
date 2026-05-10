@@ -10,9 +10,9 @@ from dotenv import load_dotenv
 
 _KANSIO = Path(__file__).resolve().parent
 _ENV_POLKU = _KANSIO / ".env"
-_PROMPT_POLKU = _KANSIO / "assari_prompt.txt"
+_PROMPT_POLKU = _KANSIO / "juristi_prompt.txt"
 _MUISTI_KANSIO = _KANSIO / "muisti"
-_HISTORIA_POLKU = _MUISTI_KANSIO / "assari_historia.json"
+_HISTORIA_POLKU = _MUISTI_KANSIO / "juristi_historia.json"
 _TIEDOSTO_MAX_KIERROKSET = 500
 _API_MAX_KIERROKSET = 10
 
@@ -98,7 +98,7 @@ def main() -> None:
     if kierrokset:
         print("Muistin lataus onnistui — jatketaan edellisestä sessiosta")
         print()
-    print("Assari — kirjoita viesti. 'exit' tai 'lopeta' lopettaa.")
+    print("Juristi — kirjoita viesti. 'exit' tai 'lopeta' lopettaa.")
     while True:
         try:
             rivi = input("> ").strip()
