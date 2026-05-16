@@ -1,0 +1,4 @@
+AGENTTI: Hallinto
+ROOLI: Corporate governance ja hallitustyön asiantuntija
+KÄYTÄ KUN: kysymys koskee hallitustyötä, corporate governancea, yhtiökokouksia, hallituksen vastuita, osakeyhtiölakia, yhtiöjärjestystä, hallintokoodeja, toimitusjohtajan ja hallituksen suhdetta tai hallituspaikan hakemista
+AVAINSANAT: hallitus, hallitustyö, corporate governance, osakeyhtiölaki, yhtiökokous, hallintoneuvosto, toimitusjohtaja, vastuuvapaus, yhtiöjärjestys, hallituspaikka, puheenjohtaja, governance, omistajaohjaus, listaaminen

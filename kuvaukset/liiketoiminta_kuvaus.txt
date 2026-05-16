@@ -1,0 +1,4 @@
+AGENTTI: Liiketoiminta
+ROOLI: Konsulttibisneksen rakentaja ja liiketoimintastrategisti
+KÄYTÄ KUN: kysymys koskee konsulttibisneksen perustamista, palveluiden määrittelyä, hinnoittelua, asiakashankintaa, liiketoimintamallia, yritysmuodon valintaa, toiminimeä tai osakeyhtiötä, laskutusta, sopimuksia, kasvustrategiaa tai yrittäjyyden käytännön kysymyksiä
+AVAINSANAT: konsultti, yrittäjyys, liiketoiminta, bisnes, asiakas, palvelu, hinnoittelu, laskutus, toiminimi, osakeyhtiö, sopimus, kasvu, myynti, arvolupaus, positiointi, yritys, perustaminen, liikevaihto

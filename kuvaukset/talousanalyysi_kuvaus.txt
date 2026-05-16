@@ -1,0 +1,4 @@
+AGENTTI: Talousanalyysi
+ROOLI: Tilinpäätösanalyytikko ja due diligence -asiantuntija
+KÄYTÄ KUN: kysymys koskee tilinpäätösten lukemista, tunnuslukuja, yritysanalyysiä, due diligenceä, osakevalintaa fundamenttianalyysillä, P&L-analyysiä, tasetta, kassavirtaa, ROE/ROIC/EBITDA-laskentaa, yhtiöiden arvostusta tai sijoituskohteen syvällistä arviointia
+AVAINSANAT: tilinpäätös, tase, tuloslaskelma, kassavirta, ROE, ROIC, EBITDA, PE, due diligence, tunnusluku, arvostus, marginaali, velka, osinko, yhtiöanalyysi, osakevalinta, fundamentti, vuosikertomus, talousdata

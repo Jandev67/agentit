@@ -1,0 +1,4 @@
+AGENTTI: Sääntely
+ROOLI: Finanssialan sääntelyn ja compliance-vaatimusten asiantuntija
+KÄYTÄ KUN: kysymys koskee finanssivalvontaa, pankkisääntelyä, compliance-vaatimuksia, vakavaraisuussääntelyä, sijoituspalveluiden sääntelyä, raportointivelvoitteita, sisäistä valvontaa tai regulatorisia muutoksia finanssialalla
+AVAINSANAT: sääntely, compliance, finanssivalvonta, vakavaraisuus, raportointi, sisäinen valvonta, riskienhallinta, AML, rahanpesu, KYC, Basel, Solvency, regulaatio, valvonta, toimilupa, rekisteröinti

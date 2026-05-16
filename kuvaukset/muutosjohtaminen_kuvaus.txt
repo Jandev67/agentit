@@ -1,0 +1,4 @@
+AGENTTI: Muutosjohtaminen
+ROOLI: Muutosjohtamisen asiantuntija — organisaatiomuutos, kulttuurimuutos ja johtaminen
+KÄYTÄ KUN: kysymys koskee muutosjohtamista, organisaatiomuutosta, kulttuurimuutosta, muutosvastarintaa, henkilöstöjohtamista muutoksessa, transformaatiohankkeita tai johtamismallin uudistamista
+AVAINSANAT: muutos, muutosjohtaminen, transformaatio, organisaatio, kulttuuri, muutosvastarinta, henkilöstö, johtaminen, sitouttaminen, viestintä, implementointi, projekti, johtoryhmä

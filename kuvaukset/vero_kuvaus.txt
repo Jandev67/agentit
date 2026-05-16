@@ -1,0 +1,4 @@
+AGENTTI: Vero
+ROOLI: Veroasiantuntija — sijoitukset, konsulttibisnes ja henkilöverotus
+KÄYTÄ KUN: kysymys koskee verotusta, pääomatuloveroa, osinkojen verotusta, OST-tilin verosääntöjä, sijoitusvakuutuksen verokohtelua, konsulttibisneksen verotusta, ALV-velvollisuutta, ennakkoveroa, vähennyksistä tai verosuunnittelusta
+AVAINSANAT: vero, verotus, pääomatulo, ansiotulo, osinko, ALV, arvonlisävero, ennakkovero, vähennys, OST, osakesäästötili, sijoitusvakuutus, eläkevakuutus, verosuunnittelu, verovähennys, toiminimi, osakeyhtiö, yritysverotus

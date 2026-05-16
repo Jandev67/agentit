@@ -31,9 +31,22 @@ if hasattr(sys.stdin, "reconfigure"):
 MALLI = "claude-sonnet-4-6"
 
 AGENTTI_TIEDOSTOT = {
-    "sijoitus": ("sijoitus_prompt.txt", "sijoitus_historia.json", "Sijoitusagentti"),
-    "juristi":  ("juristi_prompt.txt",  "juristi_historia.json",  "Juristi"),
-    "assari":   ("assari_prompt.txt",   "assari_historia.json",   "Assari"),
+    "sijoitus":         ("sijoitus_prompt.txt",         "sijoitus_historia.json",         "Sijoitusagentti",      True),
+    "juristi":          ("juristi_prompt.txt",           "juristi_historia.json",           "Juristi",              True),
+    "assari":           ("assari_prompt.txt",            "assari_historia.json",            "Assari",               False),
+    "strategia":        ("strategia_prompt.txt",         "strategia_historia.json",         "Strategia",            True),
+    "talousanalyysi":   ("talousanalyysi_prompt.txt",    "talousanalyysi_historia.json",    "Talousanalyysi",       True),
+    "liiketoiminta":    ("liiketoiminta_prompt.txt",     "liiketoiminta_historia.json",     "Liiketoiminta",        True),
+    "vero":             ("vero_prompt.txt",              "vero_historia.json",              "Vero",                 True),
+    "eu_juridiikka":    ("eu_juridiikka_prompt.txt",     "eu_juridiikka_historia.json",     "EU-juridiikka",        True),
+    "saantely":         ("saantely_prompt.txt",          "saantely_historia.json",          "Sääntely",             True),
+    "hallinto":         ("hallinto_prompt.txt",          "hallinto_historia.json",          "Hallinto",             False),
+    "markkinointi":     ("markkinointi_prompt.txt",      "markkinointi_historia.json",      "Markkinointi",         True),
+    "viestinta":        ("viestinta_prompt.txt",         "viestinta_historia.json",         "Viestintä",            False),
+    "verkosto":         ("verkosto_prompt.txt",          "verkosto_historia.json",          "Verkosto",             False),
+    "muutosjohtaminen": ("muutosjohtaminen_prompt.txt",  "muutosjohtaminen_historia.json",  "Muutosjohtaminen",     True),
+    "pedagogia":        ("pedagogia_prompt.txt",         "pedagogia_historia.json",         "Pedagogia",            False),
+    "raportointi":      ("raportointi_prompt.txt",       "raportointi_historia.json",       "Raportointi",          False),
 }
 
 
@@ -66,7 +79,7 @@ KÄYTETTÄVISSÄ OLEVAT AGENTIT:
 Vastaa AINOASTAAN JSON-muodossa, ei muuta tekstiä:
 {{"pääagentti": "agentti_nimi", "tukiagentit": ["agentti_nimi2"]}}
 
-Agentti_nimi on aina pienillä kirjaimilla: sijoitus, juristi tai assari.
+Agentti_nimi on aina pienillä kirjaimilla ilman ääkkösiä: sijoitus, juristi, assari, strategia, talousanalyysi, liiketoiminta, vero, eu_juridiikka, saantely, hallinto, markkinointi, viestinta, verkosto, muutosjohtaminen, pedagogia, raportointi.
 Jos tukiagentteja ei tarvita, käytä tyhjää listaa: []
 Jos sopivaa agenttia ei löydy, käytä "assari"."""
 
@@ -143,19 +156,22 @@ def tallenna_kierrokset(historia_tiedosto: str, kierrokset):
 def kysy_agentilta(asiakas: Anthropic, agentti_id: str, sisalto: str) -> str:
     if agentti_id not in AGENTTI_TIEDOSTOT:
         return ""
-    prompt_tiedosto, historia_tiedosto, _ = AGENTTI_TIEDOSTOT[agentti_id]
+    prompt_tiedosto, historia_tiedosto, _, web_search = AGENTTI_TIEDOSTOT[agentti_id]
     jarjestelma = lue_prompt(prompt_tiedosto)
     if not jarjestelma:
         return ""
     kierrokset = lataa_kierrokset(historia_tiedosto)
     viestit = kierroksesta_historia(kierrokset) + [{"role": "user", "content": sisalto}]
+    kutsu_parametrit = {
+        "model": MALLI,
+        "max_tokens": 8192,
+        "system": jarjestelma,
+        "messages": viestit,
+    }
+    if web_search:
+        kutsu_parametrit["tools"] = [{"type": "web_search_20250305", "name": "web_search"}]
     try:
-        vastaus_obj = asiakas.messages.create(
-            model=MALLI,
-            max_tokens=8192,
-            system=jarjestelma,
-            messages=viestit,
-        )
+        vastaus_obj = asiakas.messages.create(**kutsu_parametrit)
         teksti = vastauksen_teksti(vastaus_obj)
         kierrokset.append({
             "paivays": datetime.now(timezone.utc).isoformat(),

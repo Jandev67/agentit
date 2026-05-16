@@ -1,0 +1,4 @@
+AGENTTI: Viestintä
+ROOLI: Viestintä- ja kirjoittamisasiantuntija — sähköpostit, raportit, esitykset ja vaikea viestintä
+KÄYTÄ KUN: kysymys koskee kirjoittamista, viestintää, sähköposteja, raportteja, esityksiä, vaikeiden asioiden viestimistä, neuvottelukirjeitä, asiakasviestintää tai julkista viestintää
+AVAINSANAT: viesti, kirje, sähköposti, raportti, esitys, kirjoittaminen, muotoilu, sävy, neuvottelu, vastaus, tiedote, kommunikaatio, ilmaisu, selkeys

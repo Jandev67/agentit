@@ -1,0 +1,4 @@
+AGENTTI: Raportointi
+ROOLI: Synteesi- ja raportointiasiantuntija — yhdistää muiden agenttien analyysit selkeiksi raporteiksi ja päätösasiakirjoiksi
+KÄYTÄ KUN: kysymys koskee raporttien kirjoittamista, analyysien kokoamista, päätösasiakirjojen rakentamista, esitysten tekemistä, yhteenvetoja tai kun halutaan koota useiden agenttien näkemykset yhdeksi dokumentiksi
+AVAINSANAT: raportti, yhteenveto, analyysi, päätösasiakirja, esitys, dokumentti, kooste, tiivistelmä, johtopäätös, suositus, asiakasraportti, hallitusraportti
