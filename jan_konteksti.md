@@ -112,21 +112,21 @@ Erikoisagentit ovat AGENTIN kutsumia työkaluja, eivät erillisiä skriptejä jo
 - Jan-Core: alter ego, strateginen kumppani, tuntee Janin syvällisesti
 
 ### Taso 2 — Asiantuntija-agentit (15 kpl) ja heidän lähteensä
-- Sijoitus: kauppalehti.fi, talouselama.fi, investing.com, inderes.fi, nordnet.fi, morningstar.com, yahoo finance, tradingview.com
+- Sijoitus: kauppalehti.fi, talouselama.fi, investing.com, inderes.fi, nordnet.fi, morningstar.com, yahoofinance, tradingview.com, justETF.com, etf.com, stockanalysis.com
 - Juristi: finlex.fi, oikeus.fi, vero.fi, edilex.fi, KHO.fi, KKO.fi
-- Strategia: tulevaisuusajattelu, yrittäjyyspolku
-- Liiketoiminta: konsulttibisneksen rakentaminen
-- EU-juridiikka: regulaatio, direktiivit
-- Vero FI/kv: verosuunnittelu
-- Sääntely: finanssiala, compliance
-- Markkinointi: konsulttibrändi
-- Viestintä: tekstit, esitykset
-- Pedagogia: osaamisen siirtäminen
-- Hallinto: yrityksen pyörittäminen
-- Talousanalyysi: tilinpäätökset, due diligence
-- Muutosjohtaminen: organisaatiomuutokset
-- Verkosto: referenssit, kumppanuudet
-- Raportointi: asiakasraportit, esitykset
+- Strategia: hbr.org, mckinsey.com, weforum.org, pwc.com/fi, businessfinland.fi, tilastokeskus.fi, ek.fi
+- Liiketoiminta: prh.fi, suomi.fi, yrittajat.fi, tilastokeskus.fi, businessfinland.fi, kauppalehti.fi, hbr.org
+- EU-juridiikka: eur-lex.europa.eu, curia.europa.eu, ec.europa.eu, esma.europa.eu, eba.europa.eu, eiopa.europa.eu, finanssivalvonta.fi
+- Vero: vero.fi, finlex.fi, edilex.fi, veronmaksajat.fi, accountor.fi, pwc.fi, ey.com/fi, kpmg.fi
+- Sääntely: finanssivalvonta.fi, suomenpankki.fi, vm.fi, eba.europa.eu, esma.europa.eu, bis.org, eiopa.europa.eu
+- Markkinointi: linkedin.com, mma.fi, digimarkkinointi.fi, hubspot.com/research, hbr.org
+- Hallinto: cgfinland.fi, prh.fi, finlex.fi, oikeusministerio.fi, boardman.fi
+- Talousanalyysi: inderes.fi, kauppalehti.fi, morningstar.com, stockanalysis.com, macrotrends.net, wisesheets.io, finanssivalvonta.fi, sec.gov
+- Muutosjohtaminen: hbr.org, mckinsey.com, prosci.com, kotterinc.com, mitsloan.mit.edu, acmp.net
+- Verkosto: linkedin.com, boardman.fi, sjp.fi, ek.fi, yrittajat.fi
+- Viestintä: ei web-hakua — Janin kontekstipohjainen
+- Pedagogia: ei web-hakua — metodologiapohjainen
+- Raportointi: ei web-hakua — syntetisoi muiden tuloksia
 
 ### Taso 3 — Tukiagentit
 - Assari (portinvartija), Tietoturva, Laatu
